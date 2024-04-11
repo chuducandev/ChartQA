@@ -275,5 +275,5 @@ datasets:
             validation: "/workspace/ChartQA/OWID/final/validation.csv"
             
 evaluation:
-    generated_file: "/notebooks/evaluation/OWID/Llama-2-7b-hf-c2t-2-005/generated.txt"
-    target_file: "/notebooks/evaluation/OWID/Llama-2-7b-hf-c2t-2-005/target.txt"
+    generated_file: "/workspace/ChartQA/evaluation/Llama-2-7b-hf-owid-1-001/generated.txt"
+    target_file: "/workspace/ChartQA/evaluation/Llama-2-7b-hf-owid-1-001/target.txt"
