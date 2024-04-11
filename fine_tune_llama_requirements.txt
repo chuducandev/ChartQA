@@ -8,3 +8,4 @@ trl @ git+https://github.com/lvwerra/trl.git
 scipy
 argparse
 sentencepiece
+protobuf

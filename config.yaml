@@ -271,8 +271,8 @@ datasets:
             statista: "/notebooks/ChartSumm/train_s.json"
             knoema: "/notebooks/ChartSumm/train_k.json"
         owid:
-            train: "OWID/final/train.csv"
-            validation: "OWID/final/validation.csv"
+            train: "/workspace/ChartQA/OWID/final/train.csv"
+            validation: "/workspace/ChartQA/OWID/final/validation.csv"
             
 evaluation:
     generated_file: "/notebooks/evaluation/OWID/Llama-2-7b-hf-c2t-2-005/generated.txt"
