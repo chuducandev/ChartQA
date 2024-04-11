@@ -47,8 +47,8 @@ models:
 
     Llama-2-7b-hf:
         model_name: "meta-llama/Llama-2-7b-hf"
-        source_directory: "models/pre-trained/Llama-2-7b-hf"
-        destination_directory: "models/fine-tuned/Llama-2-7b-hf-owid-1-001"
+        source_directory: "/workspace/ChartQA/models/pre-trained/Llama-2-7b-hf"
+        destination_directory: "/workspace/ChartQA/models/fine-tuned/Llama-2-7b-hf-owid-1-001"
         
     gemma-7b:
         model_name: "google/gemma-7b"
