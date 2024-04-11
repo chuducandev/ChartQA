@@ -1,0 +1,10 @@
+Entity,Code,Year,Bioenergy levelized cost of energy,Geothermal levelized cost of energy,Offshore wind levelized cost of energy,Solar photovoltaic levelized cost of energy,Concentrated solar power levelized cost of energy,Hydropower levelized cost of energy,Onshore wind levelized cost of energy
+Peru,PER,2015,,,,,,,0.064857
+World,OWID_WRL,2010,0.0821152,0.0529684,0.197266,0.445,0.3804899,0.0416066,0.107237
+World,OWID_WRL,2015,0.0763267,0.0619776,0.148289,0.129,0.23805183,0.039134,0.072628
+World,OWID_WRL,2022,0.0614693,0.0638487,0.080651,0.049,0.1184612,0.0609687,0.033055
+World,OWID_WRL,2000,,,0.177132,,,,0.169965
+World,OWID_WRL,2005,,,0.156486,,,,0.114964
+World,OWID_WRL,1984,,,,,,,0.339407
+World,OWID_WRL,1990,,,,,,,0.220471
+World,OWID_WRL,1995,,,,,,,0.219476

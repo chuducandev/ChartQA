@@ -1,0 +1,20 @@
+Entity,Code,Year,personalism_vdem_owid,personalism_vdem_high_owid,personalism_vdem_low_owid
+Georgia,GEO,1850,0.932,0.976,0.844
+Georgia,GEO,1900,0.892,0.945,0.818
+Georgia,GEO,1950,0.971,0.987,0.937
+Georgia,GEO,2000,0.614,0.74,0.483
+Georgia,GEO,2022,0.271,0.386,0.173
+Guyana,GUY,1900,0.442,0.586,0.325
+Guyana,GUY,1950,0.442,0.586,0.325
+Guyana,GUY,2000,0.35,0.491,0.25
+Guyana,GUY,2022,0.235,0.337,0.14
+Indonesia,IDN,1800,0.979,0.994,0.937
+Indonesia,IDN,1850,0.97,0.99,0.934
+Indonesia,IDN,1900,0.907,0.951,0.843
+Indonesia,IDN,1950,0.471,0.595,0.342
+Indonesia,IDN,2000,0.207,0.29,0.123
+Indonesia,IDN,2022,0.233,0.344,0.148
+Sri Lanka,LKA,1900,0.147,0.243,0.083
+Sri Lanka,LKA,1950,0.201,0.317,0.128
+Sri Lanka,LKA,2000,0.315,0.447,0.217
+Sri Lanka,LKA,2022,0.235,0.342,0.142

@@ -1,0 +1,36 @@
+Entity,Code,Year,"Number of new cases of peripheral artery disease per 100 people, in both sexes aged age-standardized"
+High Income (WB),,1990,0.23099056
+High Income (WB),,1995,0.2006316
+High Income (WB),,2000,0.1853207
+High Income (WB),,2005,0.17089984
+High Income (WB),,2010,0.16363186
+High Income (WB),,2015,0.15776516
+High Income (WB),,2019,0.15817235
+Low Income (WB),,1990,0.10095724
+Low Income (WB),,1995,0.10192599
+Low Income (WB),,2000,0.10280833
+Low Income (WB),,2005,0.10317459
+Low Income (WB),,2010,0.10366532
+Low Income (WB),,2015,0.103304856
+Low Income (WB),,2019,0.10274955
+Lower Middle Income (WB),,1990,0.109485134
+Lower Middle Income (WB),,1995,0.11150442
+Lower Middle Income (WB),,2000,0.11150329
+Lower Middle Income (WB),,2005,0.11175366
+Lower Middle Income (WB),,2010,0.1097151
+Lower Middle Income (WB),,2015,0.108904965
+Lower Middle Income (WB),,2019,0.10818364
+Middle Income (WB),,1990,0.12833488
+Middle Income (WB),,1995,0.12994197
+Middle Income (WB),,2000,0.12902959
+Middle Income (WB),,2005,0.12929256
+Middle Income (WB),,2010,0.12539071
+Middle Income (WB),,2015,0.12397263
+Middle Income (WB),,2019,0.12244212
+World,OWID_WRL,1990,0.15674478
+World,OWID_WRL,1995,0.14700504
+World,OWID_WRL,2000,0.14094259
+World,OWID_WRL,2005,0.13605487
+World,OWID_WRL,2010,0.13137317
+World,OWID_WRL,2015,0.12844032
+World,OWID_WRL,2019,0.12710637

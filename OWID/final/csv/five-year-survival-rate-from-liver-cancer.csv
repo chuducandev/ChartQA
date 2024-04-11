@@ -1,0 +1,28 @@
+Entity,Code,Year,Liver
+Australia,AUS,1999,13.2
+Australia,AUS,2004,14.3
+Australia,AUS,2009,14.7
+Bulgaria,BGR,1999,4.7
+Bulgaria,BGR,2004,3.8
+Bulgaria,BGR,2009,5.0
+Chile,CHL,2004,4.5
+Chile,CHL,2009,7.9
+China,CHN,1999,2.4
+China,CHN,2004,10.9
+China,CHN,2009,12.5
+India,IND,2004,1.8
+India,IND,2009,4.3
+New Zealand,NZL,1999,11.6
+New Zealand,NZL,2004,12.9
+New Zealand,NZL,2009,17.4
+Russia,RUS,2004,7.4
+Russia,RUS,2009,9.4
+Spain,ESP,1999,10.2
+Spain,ESP,2004,14.3
+Spain,ESP,2009,15.8
+Switzerland,CHE,1999,9.0
+Switzerland,CHE,2004,11.8
+Switzerland,CHE,2009,13.6
+United Kingdom,GBR,1999,6.7
+United Kingdom,GBR,2004,8.1
+United Kingdom,GBR,2009,9.3

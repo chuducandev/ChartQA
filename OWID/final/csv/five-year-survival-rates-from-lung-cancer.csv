@@ -1,0 +1,37 @@
+Entity,Code,Year,Lung
+Australia,AUS,1999,13.7
+Australia,AUS,2004,14.8
+Australia,AUS,2009,15.0
+China,CHN,1999,7.5
+China,CHN,2004,18.1
+China,CHN,2009,17.5
+Cuba,CUB,1999,21.8
+Cuba,CUB,2004,14.1
+Cuba,CUB,2009,18.2
+Denmark,DNK,1999,8.0
+Denmark,DNK,2004,9.6
+Denmark,DNK,2009,11.3
+Finland,FIN,1999,11.0
+Finland,FIN,2004,11.8
+Finland,FIN,2009,12.3
+France,FRA,1999,12.8
+France,FRA,2004,13.9
+France,FRA,2009,13.6
+Germany,DEU,1999,11.6
+Germany,DEU,2004,15.1
+Germany,DEU,2009,16.2
+India,IND,1999,4.4
+India,IND,2004,9.8
+India,IND,2009,9.6
+Lithuania,LTU,1999,10.0
+Lithuania,LTU,2004,8.3
+Lithuania,LTU,2009,7.7
+South Korea,KOR,1999,9.6
+South Korea,KOR,2004,15.2
+South Korea,KOR,2009,18.5
+United Kingdom,GBR,1999,7.3
+United Kingdom,GBR,2004,8.5
+United Kingdom,GBR,2009,9.6
+United States,USA,1999,15.2
+United States,USA,2004,16.6
+United States,USA,2009,18.7

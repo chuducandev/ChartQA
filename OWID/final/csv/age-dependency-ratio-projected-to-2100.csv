@@ -1,0 +1,10 @@
+Entity,Code,Year,Total dependency ratio - Sex: all - Age: none - Variant: estimates,Total dependency ratio - Sex: all - Age: none - Variant: medium
+World,OWID_WRL,1950,66.24,
+World,OWID_WRL,1960,73.58,
+World,OWID_WRL,1980,70.25,
+World,OWID_WRL,2000,59.0,
+World,OWID_WRL,2020,54.12,
+World,OWID_WRL,2040,,56.41
+World,OWID_WRL,2060,,61.85
+World,OWID_WRL,2080,,65.76
+World,OWID_WRL,2100,,68.09

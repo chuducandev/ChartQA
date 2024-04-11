@@ -1,0 +1,22 @@
+Entity,Code,Year,participdem_vdem_owid,Population (historical estimates),region
+Africa,,2021,0.24123214,1393676724.0,World
+Asia,,2021,0.20095919,4693332132.0,World
+Bangladesh,BGD,2021,0.124,169356240.0,Asia
+Brazil,BRA,2021,0.416,214326224.0,South America
+Democratic Republic of Congo,COD,2021,0.2,95894120.0,Africa
+Egypt,EGY,2021,0.074,109262184.0,Africa
+Eritrea,ERI,2021,0.011,3620324.0,Africa
+Europe,,2021,0.51617074,746417727.0,World
+France,FRA,2021,0.614,64531448.0,Europe
+India,IND,2021,0.265,1407563904.0,Asia
+Indonesia,IDN,2021,0.372,273753184.0,Asia
+Nigeria,NGA,2021,0.331,213401328.0,Africa
+North America,,2021,0.3818,597123384.0,World
+Oceania,,2021,0.43533334,44492065.0,World
+Palestine,PSE,2021,,5133393.0,
+Philippines,PHL,2021,0.289,113880336.0,Asia
+Russia,RUS,2021,0.164,145102752.0,Europe
+South America,,2021,0.44783333,434254167.0,World
+Switzerland,CHE,2021,0.801,8691409.0,Europe
+United States,USA,2021,0.577,336997632.0,North America
+World,OWID_WRL,2021,0.32531843,7909295104.0,World

@@ -1,0 +1,10 @@
+Entity,Code,Year,Length of paid maternity leave (calendar days),Length of paid parental leave for mother (calendar days),Length of paid paternity leave (calendar days),Length of paid parental leave for father (calendar days),Length of paid shared parental leave (calendar days)
+Brazil,BRA,2022,120,0,7,0,0
+Chile,CHL,2022,126,42,7,0,42
+China,CHN,2022,158,7,14,7,0
+France,FRA,2022,112,180,25,180,0
+India,IND,2022,182,0,0,0,0
+Nigeria,NGA,2022,84,0,0,0,0
+Russia,RUS,2022,140,0,0,0,475
+Sudan,SDN,2022,56,0,0,0,0
+United States,USA,2022,0,84,0,84,0

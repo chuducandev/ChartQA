@@ -1,0 +1,25 @@
+Entity,Code,Year,Number of colonies
+France,FRA,1500,0
+France,FRA,1600,0
+France,FRA,1700,5
+France,FRA,1800,3
+France,FRA,1900,15
+France,FRA,2022,0
+Spain,ESP,1500,1
+Spain,ESP,1600,21
+Spain,ESP,1700,22
+Spain,ESP,1800,21
+Spain,ESP,1900,2
+Spain,ESP,2022,0
+United Kingdom,GBR,1500,0
+United Kingdom,GBR,1600,0
+United Kingdom,GBR,1700,6
+United Kingdom,GBR,1800,12
+United Kingdom,GBR,1900,47
+United Kingdom,GBR,2022,0
+World,OWID_WRL,1500,3
+World,OWID_WRL,1600,28
+World,OWID_WRL,1700,44
+World,OWID_WRL,1800,47
+World,OWID_WRL,1900,86
+World,OWID_WRL,2022,0

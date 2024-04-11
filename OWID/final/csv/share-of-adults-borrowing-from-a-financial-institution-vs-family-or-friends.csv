@@ -1,0 +1,56 @@
+Entity,Code,Year,Borrowed from family or friends (% age 15+) [w1],Borrowed from a financial institution (% age 15+) [w1],Population (historical estimates),World Bank's income classification
+Argentina,ARG,2011,7.088284,6.591724,41520736.0,Upper-middle-income countries
+Azerbaijan,AZE,2011,26.86442,17.65567,9359018.0,Upper-middle-income countries
+Bahrain,BHR,2011,20.65457,21.86955,1212086.0,High-income countries
+Bangladesh,BGD,2011,10.50593,23.3309,150211008.0,Low-income countries
+Belarus,BLR,2011,38.68527,16.05446,9706983.0,Upper-middle-income countries
+Belgium,BEL,2011,5.422146,10.51079,10955742.0,High-income countries
+Benin,BEN,2011,32.45926,4.192724,9726385.0,Low-income countries
+Bolivia,BOL,2011,8.430002,16.62139,10396249.0,Lower-middle-income countries
+Brazil,BRA,2011,15.62672,6.332926,198185296.0,Upper-middle-income countries
+Cambodia,KHM,2011,38.87873,19.47153,14573894.0,Low-income countries
+Chile,CHL,2011,9.410056,7.780398,17173568.0,Upper-middle-income countries
+Colombia,COL,2011,18.27064,11.94677,45308896.0,Upper-middle-income countries
+Democratic Republic of Congo,COD,2011,30.05693,1.516516,68654272.0,Low-income countries
+Egypt,EGY,2011,25.25978,3.652792,89200056.0,Lower-middle-income countries
+Eswatini,SWZ,2011,50.69001,11.51201,1105379.0,Lower-middle-income countries
+Finland,FIN,2011,15.08941,23.87921,5388173.0,High-income countries
+France,FRA,2011,4.765294,18.64621,62775272.0,High-income countries
+Gabon,GAB,2011,27.38094,2.339258,1772508.0,Upper-middle-income countries
+Germany,DEU,2011,8.566638,12.54911,81423384.0,High-income countries
+Guinea,GIN,2011,35.00917,2.445635,10527711.0,Low-income countries
+High-income countries,,2011,,,1162275154.0,
+India,IND,2011,19.68996,7.697093,1257621248.0,Lower-middle-income countries
+Indonesia,IDN,2011,42.30019,8.547714,247099696.0,Lower-middle-income countries
+Iran,IRN,2011,50.09325,30.65371,76342968.0,Upper-middle-income countries
+Israel,ISR,2011,19.86193,16.72003,7459750.0,High-income countries
+Japan,JPN,2011,5.055371,6.096314,128007256.0,High-income countries
+Kenya,KEN,2011,58.21931,9.73918,42635148.0,Low-income countries
+Laos,LAO,2011,15.63104,18.13394,6416331.0,Lower-middle-income countries
+Lesotho,LSO,2011,50.78459,3.040511,2037687.0,Lower-middle-income countries
+Low-income countries,,2011,,,536034115.0,
+Lower-middle-income countries,,2011,,,2960590210.0,
+Madagascar,MDG,2011,57.71335,2.29112,22348158.0,Low-income countries
+Montenegro,MNE,2011,35.27841,21.80487,631801.0,Upper-middle-income countries
+Morocco,MAR,2011,40.85828,4.302135,32903708.0,Lower-middle-income countries
+New Zealand,NZL,2011,17.14856,26.62319,4381274.0,High-income countries
+Nigeria,NGA,2011,44.08322,2.064914,165463744.0,Lower-middle-income countries
+Pakistan,PAK,2011,23.14802,1.569748,198602736.0,Lower-middle-income countries
+Philippines,PHL,2011,38.96992,10.5146,96337912.0,Lower-middle-income countries
+Romania,ROU,2011,18.34502,8.369553,20220286.0,Upper-middle-income countries
+Rwanda,RWA,2011,27.79573,8.400661,10576932.0,Low-income countries
+Serbia,SRB,2011,28.93835,12.25202,7620925.0,Upper-middle-income countries
+South Africa,ZAF,2011,34.33691,8.865002,52443320.0,Upper-middle-income countries
+Spain,ESP,2011,11.86405,11.43223,46729232.0,High-income countries
+Sri Lanka,LKA,2011,12.71699,17.74433,20859746.0,Lower-middle-income countries
+Sudan,SDN,2011,47.36155,1.763955,34419628.0,Lower-middle-income countries
+Tanzania,TZA,2011,46.01327,6.608147,46416032.0,Low-income countries
+Thailand,THA,2011,7.654822,19.39599,68712848.0,Upper-middle-income countries
+Togo,TGO,2011,19.30481,3.765319,6748675.0,Low-income countries
+United Kingdom,GBR,2011,13.87461,11.84745,63286360.0,High-income countries
+United States,USA,2011,17.23961,20.13618,313876608.0,High-income countries
+Upper-middle-income countries,,2011,,,2382503938.0,
+Uruguay,URY,2011,6.409504,14.8035,3361631.0,Upper-middle-income countries
+Venezuela,VEN,2011,9.791342,1.72652,29096158.0,Upper-middle-income countries
+Vietnam,VNM,2011,30.99015,16.17792,88349104.0,Lower-middle-income countries
+World,OWID_WRL,2011,22.63296,9.112336,7073125376.0,

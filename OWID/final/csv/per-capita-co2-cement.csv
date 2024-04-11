@@ -1,0 +1,27 @@
+Entity,Code,Year,Annual CO₂ emissions from cement (per capita)
+China,CHN,1950,0.001078907
+China,CHN,2000,0.19332993
+China,CHN,2022,0.53536105
+India,IND,1950,0.0037927085
+India,IND,2000,0.04337066
+India,IND,2022,0.115951225
+Indonesia,IDN,1900,0.0
+Indonesia,IDN,1950,0.0
+Indonesia,IDN,2000,0.0768262
+Indonesia,IDN,2022,0.09743189
+South Africa,ZAF,1900,0.0
+South Africa,ZAF,1950,0.069937974
+South Africa,ZAF,2000,0.078429684
+South Africa,ZAF,2022,0.08819361
+South Korea,KOR,1950,0.00036092292
+South Korea,KOR,2000,0.529101
+South Korea,KOR,2022,0.4517725
+United Kingdom,GBR,1950,0.097873226
+United Kingdom,GBR,2000,0.10759353
+United Kingdom,GBR,2022,0.060327336
+United States,USA,1800,0.0
+United States,USA,1850,0.0
+United States,USA,1900,1.864228e-05
+United States,USA,1950,0.13571852
+United States,USA,2000,0.14676176
+United States,USA,2022,0.12243276

@@ -1,0 +1,279 @@
+models:
+    # pre-trained
+    flan-t5-small:
+        model_name: "google/flan-t5-small"
+        source_directory: "/notebooks/models/pre-trained/flan-t5-small"
+        destination_directory: "/notebooks/models/fine-tuned/flan-t5-small-001"
+    flan-t5-base:
+        model_name: "google/flan-t5-base"
+        source_directory: "/notebooks/models/pre-trained/flan-t5-base"
+        destination_directory: "/notebooks/models/fine-tuned/flan-t5-base-001"
+    flan-t5-large:
+        model_name: "google/flan-t5-large"
+        source_directory: "/notebooks/models/pre-trained/flan-t5-large"
+        destination_directory: "/notebooks/models/fine-tuned/flan-t5-large-001/model"
+    flan-t5-xl:
+        model_name: "google/flan-t5-xl"
+        source_directory: "/notebooks/models/pre-trained/flan-t5-xl"
+        destination_directory: "/notebooks/models/fine-tuned/flan-t5-xl-001/model"
+        
+    t5-base:
+        model_name: "t5-base"
+        source_directory: "/notebooks/models/pre-trained/t5-base"
+        destination_directory: "/notebooks/models/fine-tuned/t5-base-001"
+        
+    bart-base:
+        model_name: "facebook/bart-base"
+        source_directory: "/notebooks/models/pre-trained/bart-base"
+        destination_directory: "/notebooks/models/fine-tuned/bart-base-001"
+    bart-large-cnn:
+        model_name: "facebook/bart-large-cnn"
+        source_directory: "/notebooks/models/pre-trained/bart-large-cnn"
+        destination_directory: "/notebooks/models/fine-tuned/bart-large-cnn-001"
+    bart-large-xsum:
+        model_name: "facebook/bart-large-xsum"
+        source_directory: "/notebooks/models/pre-trained/bart-large-xsum"
+        destination_directory: "/notebooks/models/fine-tuned/bart-large-xsum-001"
+        
+    Llama-2-7b-chat-hf:
+        model_name: "meta-llama/Llama-2-7b-chat-hf"
+        source_directory: "/notebooks/models/pre-trained/Llama-2-7b-chat-hf"
+        destination_directory: "/notebooks/models/fine-tuned/Llama-2-7b-chat-hf-001"
+        
+#    Llama-2-7b-hf:
+#        model_name: "meta-llama/Llama-2-7b-hf"
+#        source_directory: "/notebooks/models/pre-trained/Llama-2-7b-hf"
+#        destination_directory: "/notebooks/models/fine-tuned/Llama-2-7b-hf-c2t-2-001"
+
+    Llama-2-7b-hf:
+        model_name: "meta-llama/Llama-2-7b-hf"
+        source_directory: "models/pre-trained/Llama-2-7b-hf"
+        destination_directory: "models/fine-tuned/Llama-2-7b-hf-owid-1-001"
+        
+    gemma-7b:
+        model_name: "google/gemma-7b"
+        source_directory: "/notebooks/models/pre-trained/gemma-7b"
+        destination_directory: "/notebooks/models/fine-tuned/gemma-7b-c2t-001"
+        
+    # fine-tuned
+    flan-t5-base-001:
+        model_name: ""
+        source_directory: "/notebooks/models/fine-tuned/flan-t5-base-001"
+        destination_directory: ""
+        
+    t5-base-001:
+        model_name: ""
+        source_directory: "/notebooks/models/fine-tuned/t5-base-001"
+        destination_directory: ""
+    
+    bart-base-001:
+        model_name: ""
+        source_directory: "/notebooks/models/fine-tuned/bart-base-001"
+        destination_directory: ""
+    bart-large-cnn-001:
+        model_name: ""
+        source_directory: "/notebooks/models/fine-tuned/bart-large-cnn-001"
+        destination_directory: "/notebooks/models/fine-tuned/bart-large-cnn-002"
+    bart-large-cnn-002:
+        model_name: ""
+        source_directory: "/notebooks/models/fine-tuned/bart-large-cnn-002"
+        destination_directory: ""
+    bart-large-xsum-001:
+        model_name: ""
+        source_directory: "/notebooks/models/fine-tuned/bart-large-xsum-001"
+        destination_directory: "/notebooks/models/fine-tuned/bart-large-xsum-002"
+    bart-large-xsum-002:
+        model_name: ""
+        source_directory: "/notebooks/models/fine-tuned/bart-large-xsum-002"
+        destination_directory: ""
+        
+    Llama-2-7b-chat-hf-001:
+        model_name: ""
+        source_directory: "/notebooks/models/fine-tuned/Llama-2-7b-chat-hf-001"
+        destination_directory: "/notebooks/models/fine-tuned/Llama-2-7b-chat-hf-002"
+        
+    Llama-2-7b-chat-hf-002:
+        model_name: ""
+        source_directory: "/notebooks/models/fine-tuned/Llama-2-7b-chat-hf-002"
+        destination_directory: "/notebooks/models/fine-tuned/Llama-2-7b-chat-hf-003"
+        
+    Llama-2-7b-chat-hf-003:
+        model_name: ""
+        source_directory: "/notebooks/models/fine-tuned/Llama-2-7b-chat-hf-003"
+        destination_directory: "/notebooks/models/fine-tuned/Llama-2-7b-chat-hf-004"
+
+    Llama-2-7b-chat-hf-004:
+        model_name: ""
+        source_directory: "/notebooks/models/fine-tuned/Llama-2-7b-chat-hf-004"
+        destination_directory: "/notebooks/models/fine-tuned/Llama-2-7b-chat-hf-005"
+        
+    Llama-2-7b-chat-hf-005:
+        model_name: ""
+        source_directory: "/notebooks/models/fine-tuned/Llama-2-7b-chat-hf-005"
+        destination_directory: "/notebooks/models/fine-tuned/Llama-2-7b-chat-hf-006"
+        
+    Llama-2-7b-chat-hf-006:
+        model_name: ""
+        source_directory: "/notebooks/models/fine-tuned/Llama-2-7b-chat-hf-006"
+        destination_directory: "/notebooks/models/fine-tuned/Llama-2-7b-chat-hf-007"
+        
+    Llama-2-7b-chat-hf-007:
+        model_name: "chuducandev/Llama-2-7b-chat-hf-007"
+        source_directory: "/notebooks/models/fine-tuned/Llama-2-7b-chat-hf-007"
+        destination_directory: "/notebooks/models/fine-tuned/Llama-2-7b-chat-hf-008"
+        
+    Llama-2-7b-chat-hf-008:
+        model_name: ""
+        source_directory: "/notebooks/models/fine-tuned/Llama-2-7b-chat-hf-008"
+        destination_directory: "/notebooks/models/fine-tuned/Llama-2-7b-chat-hf-009"
+        
+    Llama-2-7b-chat-hf-009:
+        model_name: ""
+        source_directory: "/notebooks/models/fine-tuned/Llama-2-7b-chat-hf-009"
+        destination_directory: "/notebooks/models/fine-tuned/Llama-2-7b-chat-hf-010"
+        
+    Llama-2-7b-chat-hf-010:
+        model_name: ""
+        source_directory: "/notebooks/models/fine-tuned/Llama-2-7b-chat-hf-010"
+        destination_directory: "/notebooks/models/fine-tuned/Llama-2-7b-chat-hf-011"
+        
+    Llama-2-7b-chat-hf-011:
+        model_name: ""
+        source_directory: "/notebooks/models/fine-tuned/Llama-2-7b-chat-hf-011"
+        destination_directory: "/notebooks/models/fine-tuned/Llama-2-7b-chat-hf-012"
+        
+    Llama-2-7b-chat-hf-012:
+        model_name: ""
+        source_directory: "/notebooks/models/fine-tuned/Llama-2-7b-chat-hf-012"
+        destination_directory: "/notebooks/models/fine-tuned/Llama-2-7b-chat-hf-013"
+        
+    Llama-2-7b-chat-hf-013:
+        model_name: ""
+        source_directory: "/notebooks/models/fine-tuned/Llama-2-7b-chat-hf-013"
+        destination_directory: "/notebooks/models/fine-tuned/Llama-2-7b-chat-hf-014"
+        
+    Llama-2-7b-chat-hf-014:
+        model_name: ""
+        source_directory: "/notebooks/models/fine-tuned/Llama-2-7b-chat-hf-014"
+        destination_directory: "/notebooks/models/fine-tuned/Llama-2-7b-chat-hf-015"
+        
+    Llama-2-7b-chat-hf-015:
+        model_name: ""
+        source_directory: "/notebooks/models/fine-tuned/Llama-2-7b-chat-hf-015"
+        destination_directory: "/notebooks/models/fine-tuned/Llama-2-7b-chat-hf-016"
+        
+    Llama-2-7b-chat-hf-016:
+        model_name: ""
+        source_directory: "/notebooks/models/fine-tuned/Llama-2-7b-chat-hf-016"
+        destination_directory: "/notebooks/models/fine-tuned/Llama-2-7b-chat-hf-017"
+        
+    Llama-2-7b-chat-hf-017:
+        model_name: ""
+        source_directory: "/notebooks/models/fine-tuned/Llama-2-7b-chat-hf-017"
+        destination_directory: "/notebooks/models/fine-tuned/Llama-2-7b-chat-hf-018"
+        
+    Llama-2-7b-chat-hf-018:
+        model_name: ""
+        source_directory: "/notebooks/models/fine-tuned/Llama-2-7b-chat-hf-018"
+        destination_directory: "/notebooks/models/fine-tuned/Llama-2-7b-chat-hf-019"
+        
+    Llama-2-7b-chat-hf-019:
+        model_name: ""
+        source_directory: "/notebooks/models/fine-tuned/Llama-2-7b-chat-hf-019"
+        destination_directory: "/notebooks/models/fine-tuned/Llama-2-7b-chat-hf-020"
+        
+    Llama-2-7b-chat-hf-020:
+        model_name: ""
+        source_directory: "/notebooks/models/fine-tuned/Llama-2-7b-chat-hf-020"
+        destination_directory: "/notebooks/models/fine-tuned/Llama-2-7b-chat-hf-021"
+        
+    Llama-2-7b-chat-hf-021:
+        model_name: ""
+        source_directory: "/notebooks/models/fine-tuned/Llama-2-7b-chat-hf-021"
+        destination_directory: "/notebooks/models/fine-tuned/Llama-2-7b-chat-hf-022"
+        
+    Llama-2-7b-chat-hf-022:
+        model_name: ""
+        source_directory: "/notebooks/models/fine-tuned/Llama-2-7b-chat-hf-022"
+        destination_directory: "/notebooks/models/fine-tuned/Llama-2-7b-chat-hf-023"
+        
+    Llama-2-7b-chat-hf-023:
+        model_name: ""
+        source_directory: "/notebooks/models/fine-tuned/Llama-2-7b-chat-hf-023"
+        destination_directory: "/notebooks/models/fine-tuned/Llama-2-7b-chat-hf-024"
+        
+    Llama-2-7b-chat-hf-024:
+        model_name: ""
+        source_directory: "/notebooks/models/fine-tuned/Llama-2-7b-chat-hf-024"
+        destination_directory: "/notebooks/models/fine-tuned/Llama-2-7b-chat-hf-025"
+        
+    Llama-2-7b-chat-hf-025:
+        model_name: ""
+        source_directory: "/notebooks/models/fine-tuned/Llama-2-7b-chat-hf-025"
+        destination_directory: "/notebooks/models/fine-tuned/Llama-2-7b-chat-hf-026"
+        
+    Llama-2-7b-hf-c2t-001:
+        model_name: ""
+        source_directory: "/notebooks/models/fine-tuned/Llama-2-7b-hf-c2t-001"
+        destination_directory: "/notebooks/models/fine-tuned/Llama-2-7b-hf-c2t-002"
+        
+    Llama-2-7b-hf-c2t-002:
+        model_name: ""
+        source_directory: "/notebooks/models/fine-tuned/Llama-2-7b-hf-c2t-002"
+        destination_directory: "/notebooks/models/fine-tuned/Llama-2-7b-hf-c2t-003"
+        
+    Llama-2-7b-hf-c2t-003:
+        model_name: ""
+        source_directory: "/notebooks/models/fine-tuned/Llama-2-7b-hf-c2t-003"
+        destination_directory: "/notebooks/models/fine-tuned/Llama-2-7b-hf-c2t-004"
+        
+    Llama-2-7b-hf-c2t-004:
+        model_name: ""
+        source_directory: "/notebooks/models/fine-tuned/Llama-2-7b-hf-c2t-004"
+        destination_directory: "/notebooks/models/fine-tuned/Llama-2-7b-hf-c2t-005"
+        
+    Llama-2-7b-hf-c2t-005:
+        model_name: ""
+        source_directory: "/notebooks/models/fine-tuned/Llama-2-7b-hf-c2t-005"
+        destination_directory: "/notebooks/models/fine-tuned/Llama-2-7b-hf-c2t-006"
+        
+    Llama-2-7b-hf-c2t-2-001:
+        model_name: ""
+        source_directory: "/notebooks/models/fine-tuned/Llama-2-7b-hf-c2t-2-001"
+        destination_directory: "/notebooks/models/fine-tuned/Llama-2-7b-hf-c2t-2-002"
+        
+    Llama-2-7b-hf-c2t-2-002:
+        model_name: ""
+        source_directory: "/notebooks/models/fine-tuned/Llama-2-7b-hf-c2t-2-002"
+        destination_directory: "/notebooks/models/fine-tuned/Llama-2-7b-hf-c2t-2-003"
+        
+    Llama-2-7b-hf-c2t-2-003:
+        model_name: ""
+        source_directory: "/notebooks/models/fine-tuned/Llama-2-7b-hf-c2t-2-003"
+        destination_directory: "/notebooks/models/fine-tuned/Llama-2-7b-hf-c2t-2-004"
+        
+    Llama-2-7b-hf-c2t-2-004:
+        model_name: ""
+        source_directory: "/notebooks/models/fine-tuned/Llama-2-7b-hf-c2t-2-004"
+        destination_directory: "/notebooks/models/fine-tuned/Llama-2-7b-hf-c2t-2-005"
+        
+    Llama-2-7b-hf-c2t-2-005:
+        model_name: ""
+        source_directory: "/notebooks/models/fine-tuned/Llama-2-7b-hf-c2t-2-005"
+        destination_directory: "/notebooks/models/fine-tuned/Llama-2-7b-hf-c2t-2-006"
+    
+        
+datasets:
+    training:
+        chart-to-text:
+            statista: "/notebooks/Chart-to-text/statista_dataset/dataset"
+        chart-summ:
+            statista: "/notebooks/ChartSumm/train_s.json"
+            knoema: "/notebooks/ChartSumm/train_k.json"
+        owid:
+            train: "OWID/final/train.csv"
+            validation: "OWID/final/validation.csv"
+            
+evaluation:
+    generated_file: "/notebooks/evaluation/OWID/Llama-2-7b-hf-c2t-2-005/generated.txt"
+    target_file: "/notebooks/evaluation/OWID/Llama-2-7b-hf-c2t-2-005/target.txt"

@@ -1,0 +1,31 @@
+Entity,Code,Year,"Physicians (per 1,000 people)"
+Algeria,DZA,1960,0.173
+Algeria,DZA,1970,0.123
+Algeria,DZA,1990,0.942
+Bangladesh,BGD,1970,0.119
+Bangladesh,BGD,1980,0.12
+Bangladesh,BGD,1990,0.177
+Bangladesh,BGD,2010,0.3635
+Bangladesh,BGD,2019,0.6367
+Bhutan,BTN,1990,0.333
+Bhutan,BTN,2019,0.46
+Brazil,BRA,1960,0.374
+Brazil,BRA,1970,0.492
+Brazil,BRA,1990,1.0864
+Brazil,BRA,2000,1.3544
+Brazil,BRA,2010,1.8139
+Brazil,BRA,2019,2.3106
+Sweden,SWE,1960,1.0
+Sweden,SWE,1970,1.3
+Sweden,SWE,1980,2.2
+Sweden,SWE,1990,2.9
+Sweden,SWE,2000,3.0214
+Sweden,SWE,2010,3.8027
+United States,USA,1960,1.1
+United States,USA,1970,1.2
+United States,USA,1980,1.5
+United States,USA,1990,1.8
+United States,USA,2000,2.5942
+World,OWID_WRL,1990,1.293681
+World,OWID_WRL,2000,1.5280128
+World,OWID_WRL,2010,1.5153052

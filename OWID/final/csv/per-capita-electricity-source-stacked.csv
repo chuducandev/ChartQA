@@ -1,0 +1,13 @@
+Entity,Code,Year,Coal electricity per capita - kWh (adapted for visualization of chart per-capita-electricity-source-stacked),Gas electricity per capita - kWh (adapted for visualization of chart per-capita-electricity-source-stacked),Oil electricity per capita - kWh (adapted for visualization of chart per-capita-electricity-source-stacked),Nuclear electricity per capita - kWh (adapted for visualization of chart per-capita-electricity-source-stacked),Hydro electricity per capita - kWh (adapted for visualization of chart per-capita-electricity-source-stacked),Wind electricity per capita - kWh (adapted for visualization of chart per-capita-electricity-source-stacked),Solar electricity per capita - kWh (adapted for visualization of chart per-capita-electricity-source-stacked),Bioenergy electricity per capita - kWh (adapted for visualization of chart per-capita-electricity-source-stacked),Other renewable electricity excluding bioenergy per capita - kWh (adapted for visualization of chart per-capita-electricity-source-stacked)
+Brazil,BRA,2022,72.45249,224.41695,47.419228,67.52944,1988.0778,371.55124,122.98346,267.88843,0.0
+Canada,CAN,2022,956.7194,1852.8474,78.79477,2139.6812,10207.174,991.5659,144.58711,230.66324,0.0
+China,CHN,2022,3785.5723,203.78886,50.754364,293.01053,913.9081,534.895,299.9676,123.87374,0.0
+France,FRA,2022,68.23813,668.30035,149.78346,4609.2456,716.2683,596.65814,310.24365,155.1992,8.974629
+Germany,DEU,2022,2146.3398,957.18066,266.52322,430.1316,204.63036,1498.2637,719.8046,497.90186,2.8787389
+India,IND,2022,973.84,33.19284,2.6672819,32.593052,123.42881,49.42939,67.14776,28.74737,0.0
+Japan,JPN,2022,2811.418,2908.7139,369.7408,417.6627,604.1063,65.91277,826.1283,334.64648,0.0
+South Africa,ZAF,2022,3018.3381,0.0,55.932255,168.13068,50.422512,161.78612,103.68337,6.511516,1.6696196
+Sweden,SWE,2022,0.9479258,26.541922,261.62753,4872.3384,6576.709,3159.4368,221.81464,1204.8136,0.0
+United Kingdom,GBR,2022,82.5076,1856.0507,185.90132,706.8694,78.80438,1188.8798,206.19493,525.11566,0.0
+United States,USA,2022,2457.981,4987.054,114.22158,2280.7068,735.3457,1283.8103,606.2257,153.27092,53.68177
+World,OWID_WRL,2022,1280.5123,807.9643,113.37155,330.03076,537.74713,263.1263,164.26367,84.652176,12.137772

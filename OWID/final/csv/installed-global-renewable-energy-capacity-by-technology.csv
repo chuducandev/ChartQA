@@ -1,0 +1,37 @@
+Entity,Code,Year,Capacity
+Bioenergy,,2000,28.120213
+Bioenergy,,2005,43.169285
+Bioenergy,,2010,65.6395
+Bioenergy,,2015,96.48403
+Bioenergy,,2020,133.23601
+Bioenergy,,2022,148.91241
+Geothermal energy,,2000,8.23595
+Geothermal energy,,2005,8.568565
+Geothermal energy,,2010,10.22877
+Geothermal energy,,2015,12.08493
+Geothermal energy,,2020,14.41676
+Geothermal energy,,2022,14.876511
+Hydropower,,2000,782.15027
+Hydropower,,2005,870.9389
+Hydropower,,2010,1025.7891
+Hydropower,,2015,1210.3313
+Hydropower,,2020,1334.0778
+Hydropower,,2022,1392.5984
+Marine energy,,2000,0.23775001
+Marine energy,,2005,0.24025
+Marine energy,,2010,0.24959502
+Marine energy,,2015,0.512278
+Marine energy,,2020,0.52329105
+Marine energy,,2022,0.52374804
+Solar energy,,2000,1.227518
+Solar energy,,2005,4.9473443
+Solar energy,,2010,41.593166
+Solar energy,,2015,228.91951
+Solar energy,,2020,720.4287
+Solar energy,,2022,1053.1154
+Wind energy,,2000,16.941525
+Wind energy,,2005,58.40756
+Wind energy,,2010,181.08267
+Wind energy,,2015,416.34714
+Wind energy,,2020,731.6555
+Wind energy,,2022,898.8243

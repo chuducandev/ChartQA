@@ -1,0 +1,36 @@
+Entity,Code,Year,Top marginal income tax rate (WIR (2018))
+France,FRA,1900,0
+France,FRA,1920,50
+France,FRA,1940,53
+France,FRA,1960,66
+France,FRA,1980,66
+France,FRA,2000,61
+France,FRA,2017,53
+Germany,DEU,1900,3
+Germany,DEU,1920,40
+Germany,DEU,1940,60
+Germany,DEU,1960,53
+Germany,DEU,1980,56
+Germany,DEU,2000,51
+Germany,DEU,2017,45
+Japan,JPN,1900,6
+Japan,JPN,1920,36
+Japan,JPN,1940,65
+Japan,JPN,1960,70
+Japan,JPN,1980,75
+Japan,JPN,2000,37
+Japan,JPN,2017,56
+United Kingdom,GBR,1900,0
+United Kingdom,GBR,1920,60
+United Kingdom,GBR,1940,90
+United Kingdom,GBR,1960,89
+United Kingdom,GBR,1980,75
+United Kingdom,GBR,2000,40
+United Kingdom,GBR,2017,45
+United States,USA,1900,0
+United States,USA,1920,73
+United States,USA,1940,81
+United States,USA,1960,91
+United States,USA,1980,70
+United States,USA,2000,40
+United States,USA,2017,40

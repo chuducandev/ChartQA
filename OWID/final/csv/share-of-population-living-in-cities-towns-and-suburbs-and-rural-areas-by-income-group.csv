@@ -1,0 +1,36 @@
+Entity,Code,Year,Share of population living in cities (DEGURBA Level 1),Share of population living in rural areas (DEGURBA Level 1),Share of population living in towns and suburbs (DEGURBA Level 1),Share of population living in cities (DEGURBA Level 1) (future projections),Share of population living in rural areas (DEGURBA Level 1) (future projections),Share of population living in towns and suburbs (DEGURBA Level 1) (future projections)
+High-income countries,,1975,41.41813,23.440924,35.140945,,,
+High-income countries,,1980,42.223755,23.01463,34.761612,,,
+High-income countries,,1990,45.241726,21.834122,32.924152,,,
+High-income countries,,2000,47.643806,20.431597,31.924597,,,
+High-income countries,,2010,49.220882,19.15033,31.628794,,,
+High-income countries,,2020,51.696674,18.185656,30.11767,,,
+High-income countries,,2030,,,,52.892048,18.070936,29.03702
+Low-income countries,,1975,23.37693,47.173416,29.449654,,,
+Low-income countries,,1980,24.234089,45.813984,29.951927,,,
+Low-income countries,,1990,28.945082,40.66517,30.389738,,,
+Low-income countries,,2000,34.27258,33.6885,32.038925,,,
+Low-income countries,,2010,35.732082,29.732275,34.535645,,,
+Low-income countries,,2020,33.21253,27.637392,39.15008,,,
+Low-income countries,,2030,,,,35.991,21.536695,42.4723
+Lower-middle-income countries,,1975,31.136713,26.321539,42.541744,,,
+Lower-middle-income countries,,1980,31.680628,25.573915,42.74546,,,
+Lower-middle-income countries,,1990,32.046906,19.670294,48.282803,,,
+Lower-middle-income countries,,2000,36.359882,14.705261,48.93485,,,
+Lower-middle-income countries,,2010,39.054947,12.298707,48.646347,,,
+Lower-middle-income countries,,2020,41.277958,10.880594,47.841454,,,
+Lower-middle-income countries,,2030,,,,43.385292,9.613601,47.00111
+Upper-middle-income countries,,1975,24.835527,15.69483,59.46964,,,
+Upper-middle-income countries,,1980,26.390862,15.510977,58.098167,,,
+Upper-middle-income countries,,1990,29.738586,12.843713,57.41769,,,
+Upper-middle-income countries,,2000,37.753235,11.142774,51.103992,,,
+Upper-middle-income countries,,2010,41.978127,10.02665,47.995216,,,
+Upper-middle-income countries,,2020,46.63008,9.544582,43.825333,,,
+Upper-middle-income countries,,2030,,,,49.414165,9.633189,40.95265
+World,OWID_WRL,1975,30.638432,22.71275,46.64882,,,
+World,OWID_WRL,1980,31.62446,22.288918,46.086617,,,
+World,OWID_WRL,1990,33.531723,18.740685,47.727592,,,
+World,OWID_WRL,2000,38.712753,15.684053,45.603188,,,
+World,OWID_WRL,2010,41.489594,14.00778,44.502632,,,
+World,OWID_WRL,2020,43.93011,13.086793,42.9831,,,
+World,OWID_WRL,2030,,,,45.83257,12.128406,42.03902

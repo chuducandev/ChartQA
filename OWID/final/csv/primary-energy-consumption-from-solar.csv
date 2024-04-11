@@ -1,0 +1,33 @@
+Entity,Code,Year,Solar (TWh - equivalent)
+Brazil,BRA,1990,0.0
+Brazil,BRA,2000,0.0
+Brazil,BRA,2010,0.0
+Brazil,BRA,2022,78.54375
+China,CHN,1980,0.0
+China,CHN,1990,0.005913972
+China,CHN,2000,0.06505389
+China,CHN,2010,1.9456807
+China,CHN,2022,1115.1132
+India,IND,1980,0.0
+India,IND,1990,0.0
+India,IND,2000,0.020908
+India,IND,2010,0.31364027
+India,IND,2022,248.08994
+Spain,ESP,1965,0.0
+Spain,ESP,1970,0.0
+Spain,ESP,1980,0.0
+Spain,ESP,1990,0.017741943
+Spain,ESP,2000,0.05322583
+Spain,ESP,2010,19.60788
+Spain,ESP,2022,88.01281
+United Kingdom,GBR,1965,0.0
+United Kingdom,GBR,1970,0.0
+United Kingdom,GBR,1980,0.0
+United Kingdom,GBR,1990,0.0
+United Kingdom,GBR,2000,0.002957
+United Kingdom,GBR,2010,0.111792214
+United Kingdom,GBR,2022,36.292698
+United States,USA,1990,1.0964366
+United States,USA,2000,1.5332363
+United States,USA,2010,8.36292
+United States,USA,2022,537.5174

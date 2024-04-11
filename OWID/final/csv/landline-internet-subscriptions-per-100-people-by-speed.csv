@@ -1,0 +1,16 @@
+Entity,Code,Year,"17.6.1 - Fixed broadband subscriptions per 100 inhabitants, by speed (per 100 inhabitants) - IT_NET_BBND - Any speed","17.6.1 - Fixed broadband subscriptions per 100 inhabitants, by speed (per 100 inhabitants) - IT_NET_BBND - 10 mbps and over","17.6.1 - Fixed broadband subscriptions per 100 inhabitants, by speed (per 100 inhabitants) - IT_NET_BBND - Between 2 mbps and 10 mbps","17.6.1 - Fixed broadband subscriptions per 100 inhabitants, by speed (per 100 inhabitants) - IT_NET_BBND - Between 256 kbps and 2 mbps"
+France,FRA,2000,0.34,,,
+France,FRA,2005,15.65,,,
+France,FRA,2010,34.17,,,
+France,FRA,2015,42.1,38.92,1.8,0.35
+France,FRA,2021,48.76,,,
+Netherlands,NLD,2000,1.64,,,
+Netherlands,NLD,2005,25.21,,,
+Netherlands,NLD,2010,38.09,20.41,12.64,3.11
+Netherlands,NLD,2015,41.25,35.32,5.79,0.14
+Netherlands,NLD,2021,43.51,43.44,0.06,0.01
+United States,USA,2000,2.5,,,
+United States,USA,2005,17.23,,,
+United States,USA,2010,27.16,9.49,8.14,8.61
+United States,USA,2015,31.49,24.59,6.25,1.35
+United States,USA,2021,37.35,35.54,1.45,0.36

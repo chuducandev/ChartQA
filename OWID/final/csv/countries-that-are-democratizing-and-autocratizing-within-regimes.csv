@@ -1,0 +1,8 @@
+Entity,Code,Year,number_hardaut_ert,number_staut_ert,number_libaut_ert,number_erodem_ert,number_stdem_ert,number_deepdem_ert
+World,OWID_WRL,1900,0,115,0,0,5,0
+World,OWID_WRL,1920,1,123,9,0,8,9
+World,OWID_WRL,1940,10,121,4,2,9,1
+World,OWID_WRL,1960,8,86,31,0,24,6
+World,OWID_WRL,1980,3,95,19,1,29,10
+World,OWID_WRL,2000,12,64,16,4,63,18
+World,OWID_WRL,2022,23,62,4,17,63,10

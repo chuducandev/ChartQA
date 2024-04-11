@@ -1,0 +1,31 @@
+Entity,Code,Year,"Death rate per 100,000 people - Cause: Rheumatic heart disease - Sex: Both sexes - Age group: Age-standardized"
+France,FRA,2000,1.5755942
+France,FRA,2005,1.284064
+France,FRA,2010,0.9967874
+France,FRA,2015,0.72221476
+France,FRA,2019,0.6935876
+India,IND,2000,18.066769
+India,IND,2005,14.730668
+India,IND,2010,13.685774
+India,IND,2015,12.0022745
+India,IND,2019,10.634308
+Russia,RUS,2000,4.793619
+Russia,RUS,2005,3.4193492
+Russia,RUS,2010,2.078733
+Russia,RUS,2015,1.4308959
+Russia,RUS,2019,1.1932802
+South Africa,ZAF,2000,3.9163702
+South Africa,ZAF,2005,3.585772
+South Africa,ZAF,2010,3.1091387
+South Africa,ZAF,2015,2.3715172
+South Africa,ZAF,2019,1.9871957
+United States,USA,2000,0.85855365
+United States,USA,2005,0.7058808
+United States,USA,2010,0.55648625
+United States,USA,2015,0.5546382
+United States,USA,2019,0.55919135
+Zimbabwe,ZWE,2000,5.6211247
+Zimbabwe,ZWE,2005,6.445572
+Zimbabwe,ZWE,2010,9.573639
+Zimbabwe,ZWE,2015,7.017966
+Zimbabwe,ZWE,2019,5.311804

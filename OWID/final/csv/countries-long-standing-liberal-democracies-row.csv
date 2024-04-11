@@ -1,0 +1,8 @@
+Entity,Code,Year,number_closedaut_row_owid,number_electaut_row_owid,number_electdem_row_owid,number_libdem_18_row_owid,number_libdem_30_row_owid,number_libdem_60_row_owid,number_libdem_90_row_owid,number_libdem_91plus_row_owid
+World,OWID_WRL,1789,50,0,0,0,0,0,0,0
+World,OWID_WRL,1850,63,13,0,1,0,0,0,0
+World,OWID_WRL,1900,95,21,2,1,0,2,0,0
+World,OWID_WRL,1950,105,24,10,9,2,3,0,1
+World,OWID_WRL,2000,35,57,46,16,3,14,5,1
+World,OWID_WRL,2018,23,61,55,6,9,7,11,6
+World,OWID_WRL,2022,30,58,58,5,5,6,10,6

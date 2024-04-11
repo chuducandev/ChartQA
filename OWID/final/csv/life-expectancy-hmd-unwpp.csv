@@ -1,0 +1,37 @@
+Entity,Code,Year,Life expectancy - Type: period - Sex: both - Age: 0
+Australia,AUS,1950,69.0
+Australia,AUS,2000,79.6309
+Australia,AUS,2021,84.5265
+China,CHN,1950,43.7383
+China,CHN,2000,71.8807
+China,CHN,2021,78.2107
+France,FRA,1850,43.31
+France,FRA,1900,45.1
+France,FRA,1950,66.3819
+France,FRA,2000,79.0472
+France,FRA,2021,82.4988
+Japan,JPN,1950,59.2323
+Japan,JPN,2000,81.1759
+Japan,JPN,2021,84.7839
+Mexico,MEX,1950,43.9656
+Mexico,MEX,2000,73.5692
+Mexico,MEX,2021,70.2127
+Nigeria,NGA,1950,35.8097
+Nigeria,NGA,2000,47.1928
+Nigeria,NGA,2021,52.676
+Philippines,PHL,1950,53.3617
+Philippines,PHL,2000,69.4134
+Philippines,PHL,2021,69.2664
+South Africa,ZAF,1950,43.4715
+South Africa,ZAF,2000,58.4704
+South Africa,ZAF,2021,62.341
+Sweden,SWE,1751,38.43
+Sweden,SWE,1800,32.19
+Sweden,SWE,1850,44.69
+Sweden,SWE,1900,52.23
+Sweden,SWE,1950,71.1394
+Sweden,SWE,2000,79.7382
+Sweden,SWE,2021,82.9833
+United States,USA,1950,68.0594
+United States,USA,2000,76.8114
+United States,USA,2021,77.1982

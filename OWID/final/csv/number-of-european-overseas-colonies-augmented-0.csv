@@ -1,0 +1,25 @@
+Entity,Code,Year,Number of colonies
+Netherlands,NLD,1500,0
+Netherlands,NLD,1600,1
+Netherlands,NLD,1700,4
+Netherlands,NLD,1800,4
+Netherlands,NLD,1900,2
+Netherlands,NLD,2022,0
+Portugal,PRT,1500,2
+Portugal,PRT,1600,6
+Portugal,PRT,1700,7
+Portugal,PRT,1800,7
+Portugal,PRT,1900,6
+Portugal,PRT,2022,0
+Spain,ESP,1500,1
+Spain,ESP,1600,21
+Spain,ESP,1700,22
+Spain,ESP,1800,21
+Spain,ESP,1900,2
+Spain,ESP,2022,0
+World,OWID_WRL,1500,3
+World,OWID_WRL,1600,28
+World,OWID_WRL,1700,44
+World,OWID_WRL,1800,47
+World,OWID_WRL,1900,86
+World,OWID_WRL,2022,0

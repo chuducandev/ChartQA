@@ -1,0 +1,56 @@
+Entity,Code,Year,New HIV Infections averted due to PMTCT - Disaggregation: estimate
+Afghanistan,AFG,1990,0
+Afghanistan,AFG,1995,0
+Afghanistan,AFG,2000,0
+Afghanistan,AFG,2005,0
+Afghanistan,AFG,2010,1
+Afghanistan,AFG,2015,2
+Afghanistan,AFG,2020,7
+Afghanistan,AFG,2022,8
+Botswana,BWA,1990,0
+Botswana,BWA,1995,0
+Botswana,BWA,2000,342
+Botswana,BWA,2005,2648
+Botswana,BWA,2010,2495
+Botswana,BWA,2015,2138
+Botswana,BWA,2020,2691
+Botswana,BWA,2022,2180
+Cameroon,CMR,1990,0
+Cameroon,CMR,1995,0
+Cameroon,CMR,2000,0
+Cameroon,CMR,2005,377
+Cameroon,CMR,2010,3539
+Cameroon,CMR,2015,6320
+Cameroon,CMR,2020,3610
+Cameroon,CMR,2022,3060
+Chad,TCD,1990,0
+Chad,TCD,1995,0
+Chad,TCD,2000,0
+Chad,TCD,2005,0
+Chad,TCD,2010,464
+Chad,TCD,2015,1093
+Chad,TCD,2020,1406
+Chad,TCD,2022,1196
+Ghana,GHA,1990,0
+Ghana,GHA,1995,0
+Ghana,GHA,2000,0
+Ghana,GHA,2005,53
+Ghana,GHA,2010,1637
+Ghana,GHA,2015,2148
+Ghana,GHA,2020,3037
+Ghana,GHA,2022,3421
+South Africa,ZAF,1990,0
+South Africa,ZAF,1995,0
+South Africa,ZAF,2005,2360
+South Africa,ZAF,2010,50962
+South Africa,ZAF,2015,51298
+South Africa,ZAF,2020,51367
+South Africa,ZAF,2022,47374
+World,OWID_WRL,1990,0
+World,OWID_WRL,1995,274
+World,OWID_WRL,2000,2421
+World,OWID_WRL,2005,25715
+World,OWID_WRL,2010,165585
+World,OWID_WRL,2015,234270
+World,OWID_WRL,2020,239631
+World,OWID_WRL,2022,217656

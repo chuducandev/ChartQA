@@ -1,0 +1,40 @@
+Entity,Code,Year,Wind per capita (kWh - equivalent)
+China,CHN,1980,0.0
+China,CHN,1990,0.005177863
+China,CHN,2000,1.3798957
+China,CHN,2010,101.701096
+China,CHN,2022,1394.5349
+Denmark,DNK,1980,6.057742
+Denmark,DNK,1990,350.7836
+Denmark,DNK,2000,2348.2449
+Denmark,DNK,2010,3904.9275
+Denmark,DNK,2022,8422.012
+Germany,DEU,1990,2.6451504
+Germany,DEU,2000,344.46127
+Germany,DEU,2010,1315.587
+Germany,DEU,2022,3917.9648
+India,IND,1965,0.0
+India,IND,1970,0.0
+India,IND,1980,0.0
+India,IND,1990,0.10294171
+India,IND,2000,4.414693
+India,IND,2010,43.52908
+India,IND,2022,128.86018
+Switzerland,CHE,1965,0.0
+Switzerland,CHE,1970,0.0
+Switzerland,CHE,1980,0.0
+Switzerland,CHE,1990,0.0
+Switzerland,CHE,2000,1.2351583
+Switzerland,CHE,2010,13.1284275
+Switzerland,CHE,2022,45.39966
+United Kingdom,GBR,1965,0.0
+United Kingdom,GBR,1970,0.0
+United Kingdom,GBR,1980,0.0
+United Kingdom,GBR,1990,0.46517533
+United Kingdom,GBR,2000,47.532875
+United Kingdom,GBR,2010,454.8852
+United Kingdom,GBR,2022,3095.785
+United States,USA,1990,33.57395
+United States,USA,2000,59.1585
+United States,USA,2010,852.7734
+United States,USA,2022,3384.8584

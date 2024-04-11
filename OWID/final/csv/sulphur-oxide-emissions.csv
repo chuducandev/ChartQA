@@ -1,0 +1,61 @@
+Entity,Code,Year,SO₂ (Index)
+Australia,AUS,1990,100.0
+Australia,AUS,1995,109.12
+Australia,AUS,2000,151.73
+Australia,AUS,2005,162.05
+Australia,AUS,2010,153.02
+Australia,AUS,2015,145.46
+Austria,AUT,1990,100.0
+Austria,AUT,1995,63.69
+Austria,AUT,2000,42.26
+Austria,AUT,2005,34.69
+Austria,AUT,2010,22.28
+Austria,AUT,2015,19.86
+Europe,,1990,100.0
+Europe,,1995,64.76
+Europe,,2000,42.52
+Europe,,2005,32.45
+Europe,,2010,24.69
+Europe,,2015,17.49
+France,FRA,1990,100.0
+France,FRA,1995,72.76
+France,FRA,2000,48.03
+France,FRA,2005,34.62
+France,FRA,2010,21.3
+France,FRA,2015,11.63
+Japan,JPN,1990,100.0
+Japan,JPN,1995,96.22
+Japan,JPN,2000,87.75
+Japan,JPN,2005,78.06
+Japan,JPN,2010,59.05
+Japan,JPN,2015,54.64
+Spain,ESP,1990,100.0
+Spain,ESP,1995,84.69
+Spain,ESP,2000,68.33
+Spain,ESP,2005,59.24
+Spain,ESP,2010,19.75
+Spain,ESP,2015,12.68
+Sweden,SWE,1990,100.0
+Sweden,SWE,1995,65.63
+Sweden,SWE,2000,39.64
+Sweden,SWE,2005,34.31
+Sweden,SWE,2010,27.52
+Sweden,SWE,2015,18.27
+Switzerland,CHE,1990,100.0
+Switzerland,CHE,1995,65.1
+Switzerland,CHE,2000,38.42
+Switzerland,CHE,2005,38.07
+Switzerland,CHE,2010,26.23
+Switzerland,CHE,2015,16.66
+United Kingdom,GBR,1990,100.0
+United Kingdom,GBR,1995,64.36
+United Kingdom,GBR,2000,33.11
+United Kingdom,GBR,2005,19.29
+United Kingdom,GBR,2010,11.49
+United Kingdom,GBR,2015,6.39
+United States,USA,1990,100.0
+United States,USA,1995,80.68
+United States,USA,2000,70.57
+United States,USA,2005,62.82
+United States,USA,2010,33.22
+United States,USA,2015,16.17

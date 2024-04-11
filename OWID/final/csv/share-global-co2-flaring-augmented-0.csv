@@ -1,0 +1,25 @@
+Entity,Code,Year,Share of global annual CO₂ emissions from flaring
+Djibouti,DJI,1950,0.0
+Djibouti,DJI,1960,0.0
+Djibouti,DJI,1970,0.0
+Djibouti,DJI,1980,0.0
+Djibouti,DJI,1990,0.0
+Djibouti,DJI,2000,0.0
+Djibouti,DJI,2010,0.0
+Djibouti,DJI,2022,0.0
+Switzerland,CHE,1950,0.0
+Switzerland,CHE,1960,0.0
+Switzerland,CHE,1970,0.0
+Switzerland,CHE,1980,0.0
+Switzerland,CHE,1990,0.010178415
+Switzerland,CHE,2000,0.011193198
+Switzerland,CHE,2010,0.013327384
+Switzerland,CHE,2022,0.0049248734
+World,OWID_WRL,1950,100.0
+World,OWID_WRL,1960,100.0
+World,OWID_WRL,1970,100.0
+World,OWID_WRL,1980,100.0
+World,OWID_WRL,1990,100.0
+World,OWID_WRL,2000,100.0
+World,OWID_WRL,2010,100.0
+World,OWID_WRL,2022,100.0

@@ -1,0 +1,43 @@
+Entity,Code,Year,Annual CO₂ emissions from gas (per capita)
+Canada,CAN,1800,0.0
+Canada,CAN,1850,0.0
+Canada,CAN,1900,0.0
+Canada,CAN,1950,0.25861505
+Canada,CAN,2000,5.6520305
+Canada,CAN,2022,6.2514257
+China,CHN,1950,2.6942207e-05
+China,CHN,2000,0.047303636
+China,CHN,2022,0.52961546
+Germany,DEU,1800,0.0
+Germany,DEU,1850,0.0
+Germany,DEU,1900,0.0
+Germany,DEU,1950,0.00061958085
+Germany,DEU,2000,2.0406752
+Germany,DEU,2022,1.8218256
+India,IND,1900,0.0
+India,IND,1950,0.0
+India,IND,2000,0.04140368
+India,IND,2022,0.087504275
+Russia,RUS,1850,0.0
+Russia,RUS,1900,0.0
+Russia,RUS,1950,0.07731635
+Russia,RUS,2000,4.6418414
+Russia,RUS,2022,5.6066766
+Sweden,SWE,1850,0.0
+Sweden,SWE,1900,0.0
+Sweden,SWE,1950,0.0
+Sweden,SWE,2000,0.23439445
+Sweden,SWE,2022,0.13486359
+United Kingdom,GBR,1750,0.0
+United Kingdom,GBR,1800,0.0
+United Kingdom,GBR,1850,0.0
+United Kingdom,GBR,1900,0.0
+United Kingdom,GBR,1950,0.0
+United Kingdom,GBR,2000,3.5706177
+United Kingdom,GBR,2022,2.0250452
+United States,USA,1800,0.0
+United States,USA,1850,0.0
+United States,USA,1900,0.1542378
+United States,USA,1950,2.1527874
+United States,USA,2000,4.4308424
+United States,USA,2022,5.1539803

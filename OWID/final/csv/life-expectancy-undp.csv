@@ -1,0 +1,71 @@
+Entity,Code,Year,Life expectancy at birth
+Brazil,BRA,1990,65.9848
+Brazil,BRA,1995,67.9191
+Brazil,BRA,2000,69.7367
+Brazil,BRA,2005,71.7533
+Brazil,BRA,2010,73.1821
+Brazil,BRA,2015,74.3325
+Brazil,BRA,2021,72.7504
+Chile,CHL,1990,72.574
+Chile,CHL,1995,74.6085
+Chile,CHL,2000,76.8695
+Chile,CHL,2005,78.0159
+Chile,CHL,2010,78.5015
+Chile,CHL,2015,79.746
+Chile,CHL,2021,78.9435
+China,CHN,1990,68.0052
+China,CHN,1995,70.008
+China,CHN,2000,71.8807
+China,CHN,2005,74.1111
+China,CHN,2010,75.5991
+China,CHN,2015,76.9771
+China,CHN,2021,78.2107
+Democratic Republic of Congo,COD,1990,48.6006
+Democratic Republic of Congo,COD,1995,50.411
+Democratic Republic of Congo,COD,2000,51.7812
+Democratic Republic of Congo,COD,2005,53.9267
+Democratic Republic of Congo,COD,2010,56.4167
+Democratic Republic of Congo,COD,2015,58.49
+Democratic Republic of Congo,COD,2021,59.193
+India,IND,1990,58.6516
+India,IND,1995,60.5962
+India,IND,2000,62.6693
+India,IND,2005,64.9955
+India,IND,2010,66.9086
+India,IND,2015,69.6363
+India,IND,2021,67.2398
+Niger,NER,1990,41.8517
+Niger,NER,1995,45.7738
+Niger,NER,2000,49.3216
+Niger,NER,2005,53.59
+Niger,NER,2010,58.3668
+Niger,NER,2015,61.0827
+Niger,NER,2021,61.5763
+Nigeria,NGA,1990,46.0374
+Nigeria,NGA,1995,45.487
+Nigeria,NGA,2000,47.1928
+Nigeria,NGA,2005,49.297
+Nigeria,NGA,2010,50.9448
+Nigeria,NGA,2015,51.8413
+Nigeria,NGA,2021,52.676
+South Korea,KOR,1990,71.9401
+South Korea,KOR,1995,73.9409
+South Korea,KOR,2000,76.4661
+South Korea,KOR,2005,78.5192
+South Korea,KOR,2010,80.763
+South Korea,KOR,2015,82.5605
+South Korea,KOR,2021,83.6978
+United Kingdom,GBR,1990,75.7359
+United Kingdom,GBR,1995,76.6164
+United Kingdom,GBR,2000,77.8525
+United Kingdom,GBR,2005,79.1116
+United Kingdom,GBR,2010,80.4008
+United Kingdom,GBR,2015,80.9238
+United Kingdom,GBR,2021,80.7422
+United States,USA,1990,75.3699
+United States,USA,1995,75.8536
+United States,USA,2000,76.8114
+United States,USA,2005,77.5573
+United States,USA,2010,78.7724
+United States,USA,2015,78.8694
+United States,USA,2021,77.1982

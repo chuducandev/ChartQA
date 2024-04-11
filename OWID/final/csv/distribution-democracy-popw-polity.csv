@@ -1,0 +1,22 @@
+Entity,Code,Year,democracy_recod_polity,Population (historical estimates),region
+Africa,,2018,12.557693,1295265310.0,World
+Asia,,2018,9.9555559,4588802751.0,World
+Bahrain,BHR,2018,0.0,1487346.0,Asia
+Bangladesh,BGD,2018,4.0,163683952.0,Asia
+Egypt,EGY,2018,6.0,103740768.0,Africa
+Eswatini,SWZ,2018,1.0,1160430.0,Africa
+Ethiopia,ETH,2018,11.0,111129440.0,Africa
+Europe,,2018,18.736841,746577709.0,World
+India,IND,2018,19.0,1369003264.0,Asia
+Indonesia,IDN,2018,19.0,267066848.0,Asia
+Japan,JPN,2018,20.0,126255872.0,Asia
+Mexico,MEX,2018,18.0,124013864.0,North America
+Nigeria,NGA,2018,17.0,198387616.0,Africa
+North America,,2018,17.142857,585864285.0,World
+Oceania,,2018,17.0,42540030.0,World
+Pakistan,PAK,2018,17.0,219731488.0,Asia
+Russia,RUS,2018,14.0,145652288.0,Europe
+South America,,2018,16.916666,424740741.0,World
+United States,USA,2018,18.0,332140032.0,North America
+Uruguay,URY,2018,20.0,3427044.0,South America
+World,OWID_WRL,2018,14.102409,7683789824.0,World

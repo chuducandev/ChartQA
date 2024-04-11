@@ -1,0 +1,31 @@
+Entity,Code,Year,Total wealth
+High income: OECD,,1995,551184.37
+High income: OECD,,2000,617801.27
+High income: OECD,,2005,655227.86
+High income: OECD,,2010,674542.32
+High income: OECD,,2014,709915.86
+High income: non-OECD,,1995,165884.11
+High income: non-OECD,,2000,165560.73
+High income: non-OECD,,2005,199484.64
+High income: non-OECD,,2010,245512.79
+High income: non-OECD,,2014,264998.14
+Low income,,1995,11600.55
+Low income,,2000,10435.08
+Low income,,2005,10240.09
+Low income,,2010,11802.1
+Low income,,2014,13629.26
+Lower middle income,,1995,17717.64
+Lower middle income,,2000,16744.96
+Lower middle income,,2005,19426.0
+Lower middle income,,2010,23674.8
+Lower middle income,,2014,25947.6
+Upper middle income,,1995,52135.48
+Upper middle income,,2000,58652.46
+Upper middle income,,2005,68118.48
+Upper middle income,,2010,95606.54
+Upper middle income,,2014,114444.87
+World,OWID_WRL,1995,130032.24
+World,OWID_WRL,2000,139030.6
+World,OWID_WRL,2005,147107.46
+World,OWID_WRL,2010,159404.18
+World,OWID_WRL,2014,169349.1

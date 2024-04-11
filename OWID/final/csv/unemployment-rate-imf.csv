@@ -1,0 +1,43 @@
+Entity,Code,Year,Unemployment rate - Percent of total labor force - Observations,Unemployment rate - Percent of total labor force - Forecasts
+Canada,CAN,1980,7.517,
+Canada,CAN,1990,8.15,
+Canada,CAN,2000,6.833,
+Canada,CAN,2010,8.142,
+Canada,CAN,2020,9.725,
+Canada,CAN,2028,,5.999
+France,FRA,1980,6.349,
+France,FRA,1990,8.4,
+France,FRA,2000,9.175,
+France,FRA,2010,9.267,
+France,FRA,2020,8.025,
+France,FRA,2028,,6.66
+Germany,DEU,1980,3.359,
+Germany,DEU,1990,6.155,
+Germany,DEU,2000,7.95,
+Germany,DEU,2010,6.575,
+Germany,DEU,2020,3.625,
+Germany,DEU,2028,,2.954
+Italy,ITA,1980,7.37,
+Italy,ITA,1990,8.858,
+Italy,ITA,2000,10.1,
+Italy,ITA,2010,8.5,
+Italy,ITA,2020,9.342,
+Italy,ITA,2028,,8.25
+Japan,JPN,1980,2.017,
+Japan,JPN,1990,2.1,
+Japan,JPN,2000,4.733,
+Japan,JPN,2010,5.058,
+Japan,JPN,2020,2.783,
+Japan,JPN,2028,,2.3
+United Kingdom,GBR,1980,7.133,
+United Kingdom,GBR,1990,7.1,
+United Kingdom,GBR,2000,5.45,
+United Kingdom,GBR,2010,7.9,
+United Kingdom,GBR,2020,4.55,
+United Kingdom,GBR,2028,,4.2
+United States,USA,1980,7.175,
+United States,USA,1990,5.617,
+United States,USA,2000,3.967,
+United States,USA,2010,9.608,
+United States,USA,2020,8.092,
+United States,USA,2028,,3.546

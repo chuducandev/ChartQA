@@ -1,0 +1,47 @@
+Entity,Code,Year,Wind generation - TWh
+Africa (EI),,1965,0.0
+Africa (EI),,1970,0.0
+Africa (EI),,1980,0.0
+Africa (EI),,1990,0.0
+Africa (EI),,2000,0.1755
+Africa (EI),,2010,2.2845824
+Africa (EI),,2022,23.893784
+Asia Pacific (EI),,1965,0.0
+Asia Pacific (EI),,1970,0.0
+Asia Pacific (EI),,1980,0.0
+Asia Pacific (EI),,1990,0.032323234
+Asia Pacific (EI),,2000,2.563947
+Asia Pacific (EI),,2010,81.48422
+Asia Pacific (EI),,2022,900.9207
+CIS (EI),,1965,0.0
+CIS (EI),,1990,0.0
+CIS (EI),,2000,0.0019
+CIS (EI),,2010,0.009786
+CIS (EI),,2022,7.109156
+Europe (EI),,1965,0.0
+Europe (EI),,1970,0.0
+Europe (EI),,1980,0.0105
+Europe (EI),,1990,0.77946043
+Europe (EI),,2000,22.443914
+Europe (EI),,2010,153.42809
+Europe (EI),,2022,554.52106
+Middle East (EI),,1980,0.0
+Middle East (EI),,1990,0.001
+Middle East (EI),,2000,0.0395
+Middle East (EI),,2010,0.1823
+Middle East (EI),,2022,2.9890432
+North America,,1980,0.0
+North America,,1990,2.819687
+North America,,2000,5.9723086
+North America,,2010,105.85268
+North America,,2022,499.28052
+North America (EI),,1980,0.0
+North America (EI),,1990,2.819687
+North America (EI),,2000,5.932759
+North America (EI),,2010,105.57163
+North America (EI),,2022,497.04648
+South and Central America (EI),,1980,0.0
+South and Central America (EI),,1990,0.0
+South and Central America (EI),,2000,0.2521153
+South and Central America (EI),,2010,3.44859
+South and Central America (EI),,2022,118.35926

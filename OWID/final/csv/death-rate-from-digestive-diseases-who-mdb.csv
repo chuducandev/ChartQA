@@ -1,0 +1,31 @@
+Entity,Code,Year,"Age-standardized deaths that are from digestive diseases per 100,000 people, in both sexes aged all ages"
+France,FRA,1950,38.67268
+France,FRA,1960,45.070953
+France,FRA,1970,48.268932
+France,FRA,1980,45.839622
+France,FRA,1990,29.043621
+France,FRA,2000,22.413578
+France,FRA,2010,17.685297
+Germany,DEU,1990,32.044914
+Germany,DEU,2000,27.496887
+Germany,DEU,2010,23.073977
+Italy,ITA,1960,42.33169
+Italy,ITA,1970,47.76827
+Italy,ITA,1980,42.36934
+Italy,ITA,1990,30.808676
+Italy,ITA,2000,21.34164
+Italy,ITA,2010,15.344581
+Spain,ESP,1960,41.25189
+Spain,ESP,1970,43.79046
+Spain,ESP,1980,38.326523
+Spain,ESP,1990,33.024906
+Spain,ESP,2000,24.48359
+Spain,ESP,2010,19.076342
+Spain,ESP,2021,17.101227
+United Kingdom,GBR,1950,26.597008
+United Kingdom,GBR,1960,21.862696
+United Kingdom,GBR,1970,19.78524
+United Kingdom,GBR,1980,21.460978
+United Kingdom,GBR,1990,20.482428
+United Kingdom,GBR,2000,23.70538
+United Kingdom,GBR,2010,24.537779

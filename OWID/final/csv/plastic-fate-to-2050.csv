@@ -1,0 +1,25 @@
+Entity,Code,Year,Estimated historic plastic fate,Extrapolation of plastic fate
+Discarded,,1980,100.0,
+Discarded,,1990,90.0,
+Discarded,,2000,76.0,
+Discarded,,2010,62.0,
+Discarded,,2020,,48.0
+Discarded,,2030,,34.0
+Discarded,,2040,,20.0
+Discarded,,2050,,6.0
+Incinerated,,1980,0.0,
+Incinerated,,1990,8.0,
+Incinerated,,2000,15.0,
+Incinerated,,2010,22.0,
+Incinerated,,2020,,29.0
+Incinerated,,2030,,36.0
+Incinerated,,2040,,43.0
+Incinerated,,2050,,50.0
+Recycled,,1980,0.0,
+Recycled,,1990,2.0,
+Recycled,,2000,9.0,
+Recycled,,2010,16.0,
+Recycled,,2020,,23.0
+Recycled,,2030,,30.0
+Recycled,,2040,,37.0
+Recycled,,2050,,44.0

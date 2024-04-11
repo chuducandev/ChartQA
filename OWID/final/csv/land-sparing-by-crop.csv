@@ -1,0 +1,15 @@
+Entity,Code,Year,Actual cropland area today,Land spared due to crop yield increases
+All crops,,1961,825816300.0,0.0
+All crops,,2021,1069960600.0,1745652100.0
+Cereals,,1961,648000700.0,0.0
+Cereals,,2021,739415700.0,1529757800.0
+Fruit,,1961,27207682.0,0.0
+Fruit,,2021,66481840.0,57365250.0
+Pulses,,1961,64012140.0,0.0
+Pulses,,2021,95437540.0,44205950.0
+Roots and tubers,,1961,47587596.0,0.0
+Roots and tubers,,2021,66410356.0,25146380.0
+Sugar crops,,1961,15960556.0,0.0
+Sugar crops,,2021,30861798.0,24969702.0
+Vegetables,,1961,21152004.0,0.0
+Vegetables,,2021,58034310.0,65514256.0

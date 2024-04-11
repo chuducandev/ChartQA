@@ -1,0 +1,24 @@
+Entity,Code,Year,Share of services in total goods and services exports
+Germany,DEU,1980,14.47
+Germany,DEU,1990,13.41
+Germany,DEU,2000,13.58
+Germany,DEU,2010,16.0
+Germany,DEU,2021,19.3
+India,IND,1980,26.35
+India,IND,1990,20.19
+India,IND,2000,27.84
+India,IND,2010,33.64
+India,IND,2021,37.42
+Japan,JPN,2000,13.26
+Japan,JPN,2010,15.47
+Japan,JPN,2021,18.5
+United Kingdom,GBR,1970,29.38
+United Kingdom,GBR,1980,24.95
+United Kingdom,GBR,1990,23.59
+United Kingdom,GBR,2000,33.77
+United Kingdom,GBR,2010,42.57
+United Kingdom,GBR,2021,49.16
+World,OWID_WRL,1990,20.29
+World,OWID_WRL,2000,21.43
+World,OWID_WRL,2010,21.14
+World,OWID_WRL,2021,21.6

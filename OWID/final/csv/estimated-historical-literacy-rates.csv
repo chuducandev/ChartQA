@@ -1,0 +1,28 @@
+Entity,Code,Year,Estimated literacy rates (Buringh and Van Zanden (2009))
+Belgium,BEL,1501,17
+Belgium,BEL,1601,25
+Belgium,BEL,1701,13
+France,FRA,1501,19
+France,FRA,1601,29
+France,FRA,1701,29
+Germany,DEU,1501,16
+Germany,DEU,1601,31
+Germany,DEU,1701,38
+Italy,ITA,1501,18
+Italy,ITA,1601,23
+Italy,ITA,1701,23
+Netherlands,NLD,1501,12
+Netherlands,NLD,1601,53
+Netherlands,NLD,1701,85
+Spain,ESP,1501,4
+Spain,ESP,1601,5
+Spain,ESP,1701,8
+Sweden,SWE,1501,1
+Sweden,SWE,1601,23
+Sweden,SWE,1701,48
+United Kingdom,GBR,1501,16
+United Kingdom,GBR,1601,53
+United Kingdom,GBR,1701,54
+Western Europe,,1501,18
+Western Europe,,1601,25
+Western Europe,,1701,31

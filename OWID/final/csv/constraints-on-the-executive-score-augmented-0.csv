@@ -1,0 +1,15 @@
+Entity,Code,Year,exec_constr_polity
+Angola,AGO,2000,3
+Angola,AGO,2018,3
+Ecuador,ECU,1850,3
+Ecuador,ECU,1900,3
+Ecuador,ECU,1950,3
+Ecuador,ECU,2000,6
+Ecuador,ECU,2018,4
+Sardinia,,1850,3
+Turkey,TUR,1800,1
+Turkey,TUR,1850,1
+Turkey,TUR,1900,1
+Turkey,TUR,1950,6
+Turkey,TUR,2000,7
+Turkey,TUR,2018,3

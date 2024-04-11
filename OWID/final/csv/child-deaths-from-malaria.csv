@@ -1,0 +1,43 @@
+Entity,Code,Year,Deaths - Malaria - Sex: Both - Age: Under 5 (Rate)
+Democratic Republic of Congo,COD,1990,988.13
+Democratic Republic of Congo,COD,1995,943.35
+Democratic Republic of Congo,COD,2000,848.04
+Democratic Republic of Congo,COD,2005,795.14
+Democratic Republic of Congo,COD,2010,621.48
+Democratic Republic of Congo,COD,2015,393.63
+Democratic Republic of Congo,COD,2019,323.4
+India,IND,1990,73.82
+India,IND,1995,51.36
+India,IND,2000,25.35
+India,IND,2005,24.04
+India,IND,2010,18.33
+India,IND,2015,14.38
+India,IND,2019,8.29
+Madagascar,MDG,1990,182.46
+Madagascar,MDG,1995,159.36
+Madagascar,MDG,2000,142.42
+Madagascar,MDG,2005,191.24
+Madagascar,MDG,2010,81.61
+Madagascar,MDG,2015,78.28
+Madagascar,MDG,2019,73.22
+Mali,MLI,1990,980.02
+Mali,MLI,1995,870.45
+Mali,MLI,2000,749.59
+Mali,MLI,2005,859.89
+Mali,MLI,2010,699.11
+Mali,MLI,2015,622.02
+Mali,MLI,2019,347.11
+Niger,NER,1990,747.9
+Niger,NER,1995,680.42
+Niger,NER,2000,602.46
+Niger,NER,2005,533.94
+Niger,NER,2010,644.51
+Niger,NER,2015,557.07
+Niger,NER,2019,341.34
+World,OWID_WRL,1990,87.61
+World,OWID_WRL,1995,90.32
+World,OWID_WRL,2000,93.97
+World,OWID_WRL,2005,97.15
+World,OWID_WRL,2010,87.7
+World,OWID_WRL,2015,65.37
+World,OWID_WRL,2019,53.76

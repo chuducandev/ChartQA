@@ -1,0 +1,27 @@
+Entity,Code,Year,civ_libs_vdem_owid,region
+Africa,,2022,0.60375,World
+Asia,,2022,0.4937347,World
+Azerbaijan,AZE,2022,0.353,Asia
+Benin,BEN,2022,0.824,Africa
+Bhutan,BTN,2022,0.656,Asia
+Burundi,BDI,2022,0.273,Africa
+Chile,CHL,2022,0.902,South America
+Djibouti,DJI,2022,0.409,Africa
+Eswatini,SWZ,2022,0.179,Africa
+Europe,,2022,0.868439,World
+Jordan,JOR,2022,0.612,Asia
+Kazakhstan,KAZ,2022,0.519,Asia
+Kosovo,OWID_KOS,2022,0.804,Europe
+North America,,2022,0.74486667,World
+North Korea,PRK,2022,0.024,Asia
+Norway,NOR,2022,0.941,Europe
+Oceania,,2022,0.85366666,World
+Peru,PER,2022,0.854,South America
+Senegal,SEN,2022,0.876,Africa
+Singapore,SGP,2022,0.705,Asia
+Slovenia,SVN,2022,0.923,Europe
+South America,,2022,0.79933333,World
+Sweden,SWE,2022,0.966,Europe
+Tunisia,TUN,2022,0.754,Africa
+United Kingdom,GBR,2022,0.891,Europe
+World,OWID_WRL,2022,0.6675754,World

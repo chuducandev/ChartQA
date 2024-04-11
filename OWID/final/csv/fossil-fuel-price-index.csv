@@ -1,0 +1,17 @@
+Entity,Code,Year,Coal price index,Oil spot crude price index,Gas price index
+Brent,,1976,,17.949781,
+Brent,,1980,,51.647697,
+Brent,,1990,,33.27135,
+Brent,,2000,,39.95993,
+Brent,,2010,,111.478714,
+Brent,,2018,,100.0,
+Brent,,2022,,142.08374,
+Northwest Europe,,1990,47.34988,,
+Northwest Europe,,2000,39.193245,,
+Northwest Europe,,2010,100.73242,,
+Northwest Europe,,2018,100.00001,,
+Northwest Europe,,2022,319.76154,,
+UK NBP (ICIS NBP Index),,2000,,,33.628517
+UK NBP (ICIS NBP Index),,2010,,,81.33045
+UK NBP (ICIS NBP Index),,2018,,,99.99999
+UK NBP (ICIS NBP Index),,2022,,,311.37103

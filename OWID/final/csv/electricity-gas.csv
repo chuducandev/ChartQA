@@ -1,0 +1,64 @@
+Entity,Code,Year,Electricity from gas - TWh
+Brazil,BRA,1985,0.0
+Brazil,BRA,1990,0.325612
+Brazil,BRA,1995,0.5596937
+Brazil,BRA,2000,3.84
+Brazil,BRA,2005,17.69
+Brazil,BRA,2010,34.85
+Brazil,BRA,2015,75.76
+Brazil,BRA,2020,54.41
+Brazil,BRA,2022,48.32
+China,CHN,1985,0.972
+China,CHN,1990,2.771
+China,CHN,1995,2.999
+China,CHN,2000,5.77
+China,CHN,2005,12.14
+China,CHN,2010,77.73
+China,CHN,2015,166.91
+China,CHN,2020,252.5
+China,CHN,2022,290.58
+Germany,DEU,1985,27.985
+Germany,DEU,1990,40.46
+Germany,DEU,1995,43.18
+Germany,DEU,2000,49.2
+Germany,DEU,2005,72.19
+Germany,DEU,2010,88.76
+Germany,DEU,2015,61.47
+Germany,DEU,2020,95.0
+Germany,DEU,2022,79.8
+Russia,RUS,1985,451.26718
+Russia,RUS,1990,511.61584
+Russia,RUS,1995,353.54422
+Russia,RUS,2000,347.44
+Russia,RUS,2005,411.54
+Russia,RUS,2010,487.74
+Russia,RUS,2015,496.41
+Russia,RUS,2020,436.56
+Russia,RUS,2022,498.27
+South Korea,KOR,1985,0.057794
+South Korea,KOR,1990,12.39257
+South Korea,KOR,1995,29.21782
+South Korea,KOR,2000,27.58
+South Korea,KOR,2005,60.2
+South Korea,KOR,2010,100.69
+South Korea,KOR,2015,116.37
+South Korea,KOR,2020,155.24
+South Korea,KOR,2022,172.78
+United Kingdom,GBR,1985,2.896
+United Kingdom,GBR,1990,5.0
+United Kingdom,GBR,1995,63.74
+United Kingdom,GBR,2000,148.08
+United Kingdom,GBR,2005,152.64
+United Kingdom,GBR,2010,175.65
+United Kingdom,GBR,2015,99.88
+United Kingdom,GBR,2020,111.42
+United Kingdom,GBR,2022,125.3
+United States,USA,1985,313.92038
+United States,USA,1990,400.82275
+United States,USA,1995,533.3956
+United States,USA,2000,614.99
+United States,USA,2005,760.96
+United States,USA,2010,987.7
+United States,USA,2015,1333.48
+United States,USA,2020,1624.17
+United States,USA,2022,1687.07

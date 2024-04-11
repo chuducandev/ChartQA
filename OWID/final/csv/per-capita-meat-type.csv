@@ -1,0 +1,12 @@
+Entity,Code,Year,"Meat, poultry | 00002734 || Food available for consumption | 0645pc || kilograms per year per capita","Meat, beef | 00002731 || Food available for consumption | 0645pc || kilograms per year per capita","Meat, sheep and goat | 00002732 || Food available for consumption | 0645pc || kilograms per year per capita","Meat, pig | 00002733 || Food available for consumption | 0645pc || kilograms per year per capita","Meat, Other | 00002735 || Food available for consumption | 0645pc || kilograms per year per capita",Fish and seafood | 00002960 || Food available for consumption | 0645pc || kilograms per year per capita
+Argentina,ARG,2020,46.39397,47.096455,1.4250365,14.471147,1.1540788,6.804048
+Brazil,BRA,2020,48.245445,35.30422,0.64805824,14.14761,0.50847644,8.055862
+China,CHN,2020,15.13132,6.737377,3.7979817,35.696987,0.52525276,40.333355
+Ethiopia,ETH,2020,0.57878643,3.6885376,2.344576,0.01961988,1.1085232,0.5297368
+Germany,DEU,2020,18.44013,14.69982,0.96524125,44.25028,0.8345315,12.658737
+India,IND,2020,2.5694962,1.1266253,0.5929607,0.23718427,0.0,7.886377
+Japan,JPN,2020,22.49911,9.6540165,0.15147516,21.539766,0.10098343,46.654346
+Portugal,PRT,2020,30.26877,18.56524,2.1090117,37.71467,0.66339797,59.35927
+Spain,ESP,2020,33.167953,12.131969,1.8755689,51.88416,1.5004551,40.295116
+United States,USA,2020,57.82708,37.313194,0.6010312,30.189499,0.7980906,22.45492
+World,OWID_WRL,2020,16.208347,8.983773,1.9568615,14.449149,0.6621703,20.250551

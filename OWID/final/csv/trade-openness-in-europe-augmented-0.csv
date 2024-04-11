@@ -1,0 +1,30 @@
+Entity,Code,Year,Historical European trade (Brian Mitchell (2015))
+France,FRA,1815,8
+France,FRA,1840,11
+France,FRA,1860,20
+France,FRA,1880,33
+France,FRA,1900,27
+France,FRA,1920,44
+France,FRA,1949,19
+Italy,ITA,1900,23
+Italy,ITA,1920,41
+Italy,ITA,1940,13
+Netherlands,NLD,1900,204
+Netherlands,NLD,1920,81
+Netherlands,NLD,1940,32
+Netherlands,NLD,1949,55
+Spain,ESP,1920,22
+Spain,ESP,1940,8
+Spain,ESP,1949,6
+Sweden,SWE,1880,39
+Sweden,SWE,1900,41
+Sweden,SWE,1920,45
+Sweden,SWE,1940,24
+Sweden,SWE,1949,29
+United Kingdom,GBR,1840,30
+United Kingdom,GBR,1860,49
+United Kingdom,GBR,1880,54
+United Kingdom,GBR,1900,49
+United Kingdom,GBR,1920,58
+United Kingdom,GBR,1940,24
+United Kingdom,GBR,1949,38

@@ -1,0 +1,6 @@
+Entity,Code,Year,MMLU avg,Number of parameters,Organization
+GPT-2 (finetuned),,2019,32.4,1500000000.0,OpenAI
+LLaMA (13B),,2023,46.9,13000000000.0,Meta AI
+LLaMA (33B),,2023,57.8,32500000000.0,Meta AI
+LLaMA (7B),,2023,35.1,6700000000.0,Meta AI
+PaLM-2,,2023,78.3,340000000000.0,Google Research

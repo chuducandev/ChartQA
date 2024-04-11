@@ -1,0 +1,10 @@
+Entity,Code,Year,Other renewables excluding bioenergy - TWh (adapted for visualization of chart electricity-prod-source-stacked),Electricity from bioenergy - TWh (adapted for visualization of chart electricity-prod-source-stacked),Electricity from solar - TWh (adapted for visualization of chart electricity-prod-source-stacked),Electricity from wind - TWh (adapted for visualization of chart electricity-prod-source-stacked),Electricity from hydro - TWh (adapted for visualization of chart electricity-prod-source-stacked),Electricity from nuclear - TWh (adapted for visualization of chart electricity-prod-source-stacked),Electricity from oil - TWh (adapted for visualization of chart electricity-prod-source-stacked),Electricity from gas - TWh (adapted for visualization of chart electricity-prod-source-stacked),Electricity from coal - TWh (adapted for visualization of chart electricity-prod-source-stacked)
+World,OWID_WRL,1985,0.0,0.0,0.011747475,0.064220205,1979.2446,1488.9216,1110.7847,1426.3086,3748.3848
+World,OWID_WRL,1990,0.0,0.0,0.38834995,3.6324706,2158.854,2000.596,1364.6844,1789.7031,4460.2417
+World,OWID_WRL,1995,0.0,0.0,0.63888276,8.272123,2483.6868,2322.5298,1259.9452,2036.3821,5038.9316
+World,OWID_WRL,2000,49.65,152.08,1.08,31.22,2622.75,2521.93,1267.99,2699.79,5761.28
+World,OWID_WRL,2005,56.32,208.7,3.92,104.46,2899.96,2700.72,1257.94,3583.16,7110.7
+World,OWID_WRL,2010,66.84,318.89,32.08,345.93,3420.53,2701.57,1074.24,4704.34,8405.11
+World,OWID_WRL,2015,80.3,470.66,255.79,828.6,3872.76,2504.73,1120.57,5402.71,9226.71
+World,OWID_WRL,2020,92.36,601.1,846.92,1588.84,4339.53,2636.36,794.47,6202.85,9344.19
+World,OWID_WRL,2022,96.8,675.11,1310.02,2098.46,4288.59,2632.03,904.15,6443.6,10212.22

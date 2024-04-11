@@ -1,0 +1,73 @@
+Entity,Code,Year,Median age - Sex: all - Age: all - Variant: estimates,Median age - Sex: all - Age: all - Variant: medium
+Brazil,BRA,1950,17.5,
+Brazil,BRA,1960,16.9,
+Brazil,BRA,1980,19.2,
+Brazil,BRA,2000,24.3,
+Brazil,BRA,2020,32.4,
+Brazil,BRA,2040,,40.4
+Brazil,BRA,2060,,46.1
+Brazil,BRA,2080,,49.0
+Brazil,BRA,2100,,50.4
+China,CHN,1950,22.2,
+China,CHN,1960,19.9,
+China,CHN,1980,20.8,
+China,CHN,2000,28.9,
+China,CHN,2020,37.4,
+China,CHN,2040,,48.0
+China,CHN,2060,,52.6
+China,CHN,2080,,57.4
+China,CHN,2100,,56.8
+India,IND,1950,20.0,
+India,IND,1960,19.2,
+India,IND,1980,19.0,
+India,IND,2000,21.6,
+India,IND,2020,27.3,
+India,IND,2040,,34.6
+India,IND,2060,,41.0
+India,IND,2080,,45.0
+India,IND,2100,,47.5
+Japan,JPN,1950,21.2,
+Japan,JPN,1960,24.8,
+Japan,JPN,1980,31.6,
+Japan,JPN,2000,40.7,
+Japan,JPN,2020,48.0,
+Japan,JPN,2040,,53.0
+Japan,JPN,2060,,54.6
+Japan,JPN,2080,,54.1
+Japan,JPN,2100,,54.4
+Nigeria,NGA,1950,18.1,
+Nigeria,NGA,1960,18.3,
+Nigeria,NGA,1980,17.0,
+Nigeria,NGA,2000,17.0,
+Nigeria,NGA,2020,16.9,
+Nigeria,NGA,2040,,20.1
+Nigeria,NGA,2060,,25.1
+Nigeria,NGA,2080,,30.4
+Nigeria,NGA,2100,,34.5
+Russia,RUS,1950,23.4,
+Russia,RUS,1960,26.3,
+Russia,RUS,1980,30.1,
+Russia,RUS,2000,35.6,
+Russia,RUS,2020,38.6,
+Russia,RUS,2040,,44.9
+Russia,RUS,2060,,44.9
+Russia,RUS,2080,,44.6
+Russia,RUS,2100,,46.2
+United Kingdom,GBR,1950,33.9,
+United Kingdom,GBR,1960,34.5,
+United Kingdom,GBR,1980,33.3,
+United Kingdom,GBR,2000,36.6,
+United Kingdom,GBR,2020,39.5,
+United Kingdom,GBR,2040,,43.8
+United Kingdom,GBR,2060,,46.5
+United Kingdom,GBR,2080,,48.1
+United Kingdom,GBR,2100,,49.2
+United States,USA,1950,29.3,
+United States,USA,1960,28.6,
+United States,USA,1980,29.1,
+United States,USA,2000,34.2,
+United States,USA,2020,37.5,
+United States,USA,2040,,41.5
+United States,USA,2060,,44.7
+United States,USA,2080,,46.2
+United States,USA,2100,,47.3

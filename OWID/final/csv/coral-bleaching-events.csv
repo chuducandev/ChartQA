@@ -1,0 +1,20 @@
+Entity,Code,Year,Moderate bleaching events (1-30% bleached),Severe bleaching events (>30% bleached)
+World,OWID_WRL,1980,5,0
+World,OWID_WRL,1982,1,0
+World,OWID_WRL,1984,1,1
+World,OWID_WRL,1986,4,0
+World,OWID_WRL,1988,8,3
+World,OWID_WRL,1990,7,4
+World,OWID_WRL,1992,6,1
+World,OWID_WRL,1994,4,4
+World,OWID_WRL,1996,4,5
+World,OWID_WRL,1998,16,57
+World,OWID_WRL,2000,8,5
+World,OWID_WRL,2002,7,14
+World,OWID_WRL,2004,14,5
+World,OWID_WRL,2006,16,2
+World,OWID_WRL,2008,7,3
+World,OWID_WRL,2010,16,37
+World,OWID_WRL,2012,6,1
+World,OWID_WRL,2014,9,5
+World,OWID_WRL,2016,11,43

@@ -1,0 +1,7 @@
+Entity,Code,Year,Terrorist attacks (100+ deaths),Terrorist attacks (51-99 deaths),Terrorist attacks (21-50 deaths),Terrorist attacks (11-20 deaths),Terrorist attacks (6-10 deaths),Terrorist attacks (1-5 deaths),Terrorist attacks (0 deaths)
+World,OWID_WRL,1970,0,0,2,0,1,59,541
+World,OWID_WRL,1980,0,2,3,13,29,475,794
+World,OWID_WRL,1990,1,7,37,96,178,1092,2048
+World,OWID_WRL,2000,1,3,37,59,105,568,946
+World,OWID_WRL,2010,2,12,45,74,135,1901,2641
+World,OWID_WRL,2021,0,9,68,153,298,2115,1850

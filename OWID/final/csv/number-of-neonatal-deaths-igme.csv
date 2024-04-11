@@ -1,0 +1,32 @@
+Entity,Code,Year,Observation value - Unit_of_measure: Number of deaths - Indicator: Neonatal deaths - Sex: Both sexes - Wealth_quintile: All wealth quintiles
+China,CHN,1990,832968
+China,CHN,2000,370460
+China,CHN,2010,150046
+China,CHN,2021,34850
+India,IND,1970,1869817
+India,IND,1980,1824305
+India,IND,1990,1586478
+India,IND,2000,1277072
+India,IND,2010,846576
+India,IND,2021,441801
+Indonesia,IDN,1960,227044
+Indonesia,IDN,1970,222900
+Indonesia,IDN,1980,191037
+Indonesia,IDN,1990,142117
+Indonesia,IDN,2000,106685
+Indonesia,IDN,2010,85739
+Indonesia,IDN,2021,50931
+Pakistan,PAK,1953,178837
+Pakistan,PAK,1960,183439
+Pakistan,PAK,1970,194609
+Pakistan,PAK,1980,245654
+Pakistan,PAK,1990,319930
+Pakistan,PAK,2000,313331
+Pakistan,PAK,2010,311075
+Pakistan,PAK,2021,251307
+United States,USA,1970,54569
+United States,USA,1980,29642
+United States,USA,1990,23817
+United States,USA,2000,18826
+United States,USA,2010,16577
+United States,USA,2021,12169

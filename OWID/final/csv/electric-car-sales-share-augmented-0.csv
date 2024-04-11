@@ -1,0 +1,38 @@
+Entity,Code,Year,Share of new cars that are electric
+Austria,AUT,2014,0.57
+Austria,AUT,2016,1.5
+Austria,AUT,2018,2.6
+Austria,AUT,2020,9.5
+Austria,AUT,2022,22.0
+France,FRA,2010,0.0085
+France,FRA,2012,0.34
+France,FRA,2014,0.72
+France,FRA,2016,1.5
+France,FRA,2018,2.1
+France,FRA,2020,11.0
+France,FRA,2022,21.0
+Greece,GRC,2014,0.055
+Greece,GRC,2016,0.12
+Greece,GRC,2018,0.29
+Greece,GRC,2020,2.6
+Greece,GRC,2022,7.9
+Iceland,ISL,2012,0.31
+Iceland,ISL,2014,2.1
+Iceland,ISL,2016,5.6
+Iceland,ISL,2018,20.0
+Iceland,ISL,2020,52.0
+Iceland,ISL,2022,70.0
+Poland,POL,2010,0.0048
+Poland,POL,2012,0.018
+Poland,POL,2014,0.062
+Poland,POL,2016,0.12
+Poland,POL,2018,0.26
+Poland,POL,2020,1.9
+Poland,POL,2022,6.0
+South Korea,KOR,2010,0.005
+South Korea,KOR,2012,0.04
+South Korea,KOR,2014,0.09
+South Korea,KOR,2016,0.32
+South Korea,KOR,2018,3.6
+South Korea,KOR,2020,2.5
+South Korea,KOR,2022,9.4

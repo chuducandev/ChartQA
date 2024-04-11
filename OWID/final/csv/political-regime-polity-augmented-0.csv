@@ -1,0 +1,13 @@
+Entity,Code,Year,regime_polity
+Bulgaria,BGR,1900,0
+Bulgaria,BGR,1950,0
+Bulgaria,BGR,2000,2
+Bulgaria,BGR,2018,2
+Hungary,HUN,1900,1
+Hungary,HUN,1950,0
+Hungary,HUN,2000,2
+Hungary,HUN,2018,2
+Papal States,,1815,0
+Papal States,,1850,0
+Sierra Leone,SLE,2000,1
+Sierra Leone,SLE,2018,2

@@ -1,0 +1,17 @@
+Entity,Code,Year,rule_of_law_vdem_owid,rule_of_law_vdem_high_owid,rule_of_law_vdem_low_owid
+Lithuania,LTU,1850,0.07,0.121,0.036
+Lithuania,LTU,1900,0.297,0.402,0.225
+Lithuania,LTU,1950,0.123,0.18,0.075
+Lithuania,LTU,2000,0.938,0.967,0.903
+Lithuania,LTU,2022,0.953,0.973,0.917
+Republic of Vietnam,OWID_RVN,1850,0.529,0.678,0.376
+Republic of Vietnam,OWID_RVN,1900,0.421,0.58,0.287
+Republic of Vietnam,OWID_RVN,1950,0.368,0.469,0.274
+Sweden,SWE,1789,0.857,0.913,0.786
+Sweden,SWE,1850,0.92,0.954,0.874
+Sweden,SWE,1900,0.986,0.993,0.972
+Sweden,SWE,1950,0.992,0.997,0.985
+Sweden,SWE,2000,0.996,0.998,0.991
+Sweden,SWE,2022,0.994,0.997,0.988
+Two Sicilies,OWID_SIC,1789,0.276,0.413,0.155
+Two Sicilies,OWID_SIC,1850,0.365,0.496,0.241

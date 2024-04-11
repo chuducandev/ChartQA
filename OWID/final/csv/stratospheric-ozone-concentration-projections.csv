@@ -1,0 +1,25 @@
+Entity,Code,Year,Ozone concentration (1960 = 0)
+Antarctic,,1960,0.0
+Antarctic,,1980,-41.8
+Antarctic,,2000,-121.2
+Antarctic,,2020,-97.9
+Antarctic,,2040,-64.1
+Antarctic,,2060,-34.5
+Antarctic,,2080,-18.5
+Antarctic,,2100,-5.5
+Arctic,,1960,0.0
+Arctic,,1980,-5.8
+Arctic,,2000,-27.4
+Arctic,,2020,-12.8
+Arctic,,2040,6.2
+Arctic,,2060,19.4
+Arctic,,2080,30.2
+Arctic,,2100,37.4
+Global,,1960,0.0
+Global,,1980,-4.5
+Global,,2000,-15.5
+Global,,2020,-8.9
+Global,,2040,-2.4
+Global,,2060,2.2
+Global,,2080,4.5
+Global,,2100,5.3

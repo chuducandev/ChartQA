@@ -1,0 +1,59 @@
+Entity,Code,Year,Gini index of consumption in 2015 (Survey years only),Gini index of consumption in 1990 (Survey years only),Population (historical estimates),Country grouping
+Bangladesh,BGD,2015,32.233624,27.478758,157830000,South Asia
+Bangladesh,BGD,1990,,,107147656,
+Belarus,BLR,2015,27.088884,27.670292,9700609,Eastern Europe and Central Asia
+Belarus,BLR,1990,,,10428527,
+Brazil,BRA,2015,45.971485,48.751183,205188208,Latin America and Caribbean
+Brazil,BRA,1990,,,150706448,
+Bulgaria,BGR,2015,36.219318,27.486506,7309255,Eastern Europe and Central Asia
+Bulgaria,BGR,1990,,,8767778,
+Burkina Faso,BFA,2015,35.507668,46.759731,18718022,Sub-Saharan Africa
+Burkina Faso,BFA,1990,,,9131362,
+China,CHN,2015,43.555542,36.495564,1393715456,East Asia and Pacific
+China,CHN,1990,,,1153704192,
+Egypt,EGY,2015,46.851677,28.856394,97723792,Middle East and North Africa
+Egypt,EGY,1990,,,57214632,
+Ethiopia,ETH,2015,32.883823,42.707241,102471896,Sub-Saharan Africa
+Ethiopia,ETH,1990,,,47878076,
+Guinea-Bissau,GNB,2015,48.890747,55.354725,1788931,Sub-Saharan Africa
+Guinea-Bissau,GNB,1990,,,973557,
+India,IND,2015,37.318645,34.071812,1322866560,South Asia
+India,IND,1990,,,870452160,
+Iran,IRN,2015,37.329964,43.602394,81790848,Middle East and North Africa
+Iran,IRN,1990,,,55793628,
+Kyrgyzstan,KGZ,2015,26.747513,32.302654,5914985,Eastern Europe and Central Asia
+Kyrgyzstan,KGZ,1990,,,4394738,
+Lesotho,LSO,2015,54.381935,57.936146,2118532,Sub-Saharan Africa
+Lesotho,LSO,1990,,,1799004,
+Mauritania,MRT,2015,32.236389,50.498371,3946225,Sub-Saharan Africa
+Mauritania,MRT,1990,,,2006035,
+Namibia,NAM,2015,48.123367,71.589561,2282709,Sub-Saharan Africa
+Namibia,NAM,1990,,,1369016,
+Netherlands,NLD,2015,33.607281,34.519169,17041110,Advanced industrial economies
+Netherlands,NLD,1990,,,14944550,
+Nigeria,NGA,2015,46.108742,44.912029,183995776,Sub-Saharan Africa
+Nigeria,NGA,1990,,,95214256,
+Pakistan,PAK,2015,30.728018,33.317226,210969296,South Asia
+Pakistan,PAK,1990,,,115414072,
+Philippines,PHL,2015,42.985165,43.81266,103031360,East Asia and Pacific
+Philippines,PHL,1990,,,61558900,
+Senegal,SEN,2015,40.347549,54.141872,14356191,Sub-Saharan Africa
+Senegal,SEN,1990,,,7536003,
+Sierra Leone,SLE,2015,34.065483,60.770737,7314779,Sub-Saharan Africa
+Sierra Leone,SLE,1990,,,4325390,
+Singapore,SGP,2015,30.875874,41.640026,5650020,Advanced industrial economies
+Singapore,SGP,1990,,,3022218,
+South Africa,ZAF,2015,66.58017,59.330696,55876504,Sub-Saharan Africa
+South Africa,ZAF,1990,,,39877568,
+Spain,ESP,2015,36.595867,32.617493,46431344,Advanced industrial economies
+Spain,ESP,1990,,,38889888,
+Taiwan,TWN,2015,22.994432,26.870543,23512136,Advanced industrial economies
+Taiwan,TWN,1990,,,20586176,
+Turkey,TUR,2015,40.238667,41.99847,79646176,Eastern Europe and Central Asia
+Turkey,TUR,1990,,,54324140,
+Ukraine,UKR,2015,24.034107,31.974821,44982568,Eastern Europe and Central Asia
+Ukraine,UKR,1990,,,51589816,
+United Kingdom,GBR,2015,35.470196,35.963367,65224368,Advanced industrial economies
+United Kingdom,GBR,1990,,,57210444,
+Zambia,ZMB,2015,54.235046,53.332417,16248231,Sub-Saharan Africa
+Zambia,ZMB,1990,,,7686405,

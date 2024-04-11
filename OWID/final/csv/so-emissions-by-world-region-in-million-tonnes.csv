@@ -1,0 +1,51 @@
+Entity,Code,Year,SO2 emissions (OECD (2014) and Klimont et al. (2013))
+Africa,,1850,0.0
+Africa,,1860,0.0
+Africa,,1880,0.059
+Africa,,1900,0.071
+Africa,,1920,0.372
+Africa,,1940,0.56
+Africa,,1960,2.462
+Africa,,1980,4.326
+Africa,,2000,6.215
+Africa,,2010,7.136
+Asia,,1850,0.0
+Asia,,1860,0.0
+Asia,,1880,0.0
+Asia,,1900,0.476
+Asia,,1920,1.601
+Asia,,1940,6.458
+Asia,,1960,17.588
+Asia,,1980,36.72
+Asia,,2000,42.56
+Asia,,2010,51.731
+Europe,,1850,1.362
+Europe,,1860,1.991
+Europe,,1880,4.778
+Europe,,1900,9.063
+Europe,,1920,10.587
+Europe,,1940,19.104
+Europe,,1960,44.583
+Europe,,1980,71.248
+Europe,,2000,27.079
+Europe,,2010,19.787
+North America,,1850,0.372
+North America,,1860,0.82
+North America,,1880,3.072
+North America,,1900,10.34
+North America,,1920,22.44
+North America,,1940,23.166
+North America,,1960,27.798
+North America,,1980,30.456
+North America,,2000,19.893
+North America,,2010,11.786
+South America,,1850,0.032
+South America,,1860,0.078
+South America,,1880,0.098
+South America,,1900,0.14
+South America,,1920,0.686
+South America,,1940,1.584
+South America,,1960,4.199
+South America,,1980,8.756
+South America,,2000,8.816
+South America,,2010,6.56

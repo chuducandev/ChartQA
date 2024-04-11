@@ -1,0 +1,37 @@
+Entity,Code,Year,Vaccine effectiveness (strongly disagree)
+Australia,AUS,2015,1.78
+Australia,AUS,2016,1.96
+Australia,AUS,2018,1.56
+Australia,AUS,2019,1.88
+Bangladesh,BGD,2015,1.65
+Bangladesh,BGD,2016,1.34
+Bangladesh,BGD,2018,0.62
+Bangladesh,BGD,2019,1.15
+France,FRA,2015,5.16
+France,FRA,2016,4.87
+France,FRA,2018,5.92
+France,FRA,2019,4.33
+India,IND,2015,5.13
+India,IND,2016,3.8
+India,IND,2018,0.88
+India,IND,2019,1.68
+Niger,NER,2015,2.02
+Niger,NER,2016,1.31
+Niger,NER,2018,1.97
+Niger,NER,2019,1.69
+Portugal,PRT,2015,0.65
+Portugal,PRT,2016,0.78
+Portugal,PRT,2018,0.84
+Portugal,PRT,2019,1.12
+Russia,RUS,2015,4.18
+Russia,RUS,2016,4.88
+Russia,RUS,2018,5.16
+Russia,RUS,2019,6.53
+United Kingdom,GBR,2015,1.85
+United Kingdom,GBR,2016,1.96
+United Kingdom,GBR,2018,1.26
+United Kingdom,GBR,2019,1.88
+United States,USA,2015,4.02
+United States,USA,2016,3.41
+United States,USA,2018,2.16
+United States,USA,2019,2.29

@@ -1,0 +1,52 @@
+Entity,Code,Year,"Hospital beds (per 1,000 people)"
+Costa Rica,CRI,1960,4.790777
+Costa Rica,CRI,1970,3.9396
+Costa Rica,CRI,1980,3.3144
+Costa Rica,CRI,1990,2.5
+Costa Rica,CRI,2000,1.65
+Costa Rica,CRI,2010,1.24
+Costa Rica,CRI,2019,1.1
+France,FRA,1980,11.1
+France,FRA,1990,9.7
+France,FRA,2000,7.97
+France,FRA,2010,6.43
+Germany,DEU,1960,10.5
+Germany,DEU,1970,11.3
+Germany,DEU,1980,11.5
+Germany,DEU,1990,10.4
+Germany,DEU,2000,9.12
+Germany,DEU,2010,8.25
+India,IND,1960,0.4589869
+India,IND,1970,0.6045
+India,IND,1980,0.7697
+India,IND,2000,0.65
+India,IND,2010,0.47
+Ireland,IRL,1980,9.0
+Ireland,IRL,1990,6.1
+Ireland,IRL,2000,6.13
+Ireland,IRL,2010,2.73
+Italy,ITA,1960,8.9
+Italy,ITA,1970,10.6
+Italy,ITA,1980,9.6
+Italy,ITA,1990,7.2
+Italy,ITA,2000,4.71
+Italy,ITA,2010,3.64
+South Africa,ZAF,2010,2.3
+Spain,ESP,1970,4.7
+Spain,ESP,1980,5.4
+Spain,ESP,1990,4.6
+Spain,ESP,2000,3.65
+Spain,ESP,2010,3.11
+United Kingdom,GBR,1960,10.7
+United Kingdom,GBR,1970,9.6
+United Kingdom,GBR,1980,8.1
+United Kingdom,GBR,1990,5.9
+United Kingdom,GBR,2000,4.08
+United Kingdom,GBR,2010,2.93
+United Kingdom,GBR,2019,2.46
+United States,USA,1960,9.2
+United States,USA,1970,7.9
+United States,USA,1980,6.0
+United States,USA,1990,4.9
+United States,USA,2000,3.49
+United States,USA,2010,3.05

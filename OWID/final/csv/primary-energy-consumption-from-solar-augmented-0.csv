@@ -1,0 +1,33 @@
+Entity,Code,Year,Solar (TWh - equivalent)
+Ecuador,ECU,1990,0.0
+Ecuador,ECU,2000,0.0
+Ecuador,ECU,2010,0.0
+Ecuador,ECU,2022,0.10037472
+Hong Kong,HKG,1990,0.0
+Hong Kong,HKG,2000,0.0
+Hong Kong,HKG,2010,0.0027755776
+Hong Kong,HKG,2022,0.1361836
+Mexico,MEX,1980,0.0
+Mexico,MEX,1990,0.002957
+Mexico,MEX,2000,0.020698916
+Mexico,MEX,2010,0.08604305
+Mexico,MEX,2022,50.24874
+Morocco,MAR,1980,0.0
+Morocco,MAR,1990,0.0
+Morocco,MAR,2000,0.0
+Morocco,MAR,2010,0.00028036113
+Morocco,MAR,2022,3.774472
+OECD (EI),,1965,0.0
+OECD (EI),,1970,0.0
+OECD (EI),,1980,0.0
+OECD (EI),,1990,1.1421368
+OECD (EI),,2000,2.9993148
+OECD (EI),,2010,90.409836
+OECD (EI),,2022,1716.2683
+Upper-middle-income countries,,1965,0.0
+Upper-middle-income countries,,1970,0.0
+Upper-middle-income countries,,1980,0.0
+Upper-middle-income countries,,1990,0.008870972
+Upper-middle-income countries,,2000,0.11878537
+Upper-middle-income countries,,2010,2.3260777
+Upper-middle-income countries,,2022,1350.804

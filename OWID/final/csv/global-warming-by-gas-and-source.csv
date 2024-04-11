@@ -1,0 +1,11 @@
+Entity,Code,Year,Change in global mean surface temperature caused by nitrous oxide emissions from fossil fuels and industry,Change in global mean surface temperature caused by nitrous oxide emissions from agriculture and land use,Change in global mean surface temperature caused by methane emissions from fossil fuels and industry,Change in global mean surface temperature caused by methane emissions from agriculture and land use,Change in global mean surface temperature caused by CO₂ emissions from fossil fuels and industry,Change in global mean surface temperature caused by CO₂ emissions from agriculture and land use
+World,OWID_WRL,1851,2.2842305e-05,4.4786713e-05,0.00017763262,0.00027087043,8.952735e-05,0.0011292902
+World,OWID_WRL,1860,0.00023992416,0.00048045538,0.0018622896,0.002661082,0.0011763343,0.011894429
+World,OWID_WRL,1880,0.00079606584,0.001654987,0.0064641773,0.008584642,0.006238729,0.036069453
+World,OWID_WRL,1900,0.0015118766,0.0034743045,0.013011238,0.017951371,0.018040914,0.06767051
+World,OWID_WRL,1920,0.0024839062,0.0057670223,0.02402088,0.029308792,0.044282317,0.10552913
+World,OWID_WRL,1940,0.003713059,0.008781256,0.03571373,0.04365582,0.07889794,0.14714405
+World,OWID_WRL,1960,0.005939057,0.015367968,0.06499204,0.06975183,0.13620292,0.19864786
+World,OWID_WRL,1980,0.011163332,0.026125237,0.13380675,0.10862524,0.26897413,0.24164192
+World,OWID_WRL,2000,0.016793147,0.040881854,0.18603258,0.13451573,0.46888193,0.2877591
+World,OWID_WRL,2021,0.023502642,0.05967021,0.25882518,0.15602325,0.7798912,0.33268753

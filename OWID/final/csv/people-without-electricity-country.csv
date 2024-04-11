@@ -1,0 +1,29 @@
+Entity,Code,Year,Number of people without access to electricity
+High income,,1990,1156360.301
+High income,,1995,781907.0483
+High income,,2000,537642.9669
+High income,,2005,454575.4375
+High income,,2010,97806.7353
+High income,,2015,62598.75822
+High income,,2019,3530.519307
+Low income,,2000,337263702.9
+Low income,,2005,360032455.4
+Low income,,2010,375831882.0
+Low income,,2015,400243435.0
+Low income,,2019,382740431.6
+Lower middle income,,1995,1112614451.0
+Lower middle income,,2000,911186219.8
+Lower middle income,,2005,866872737.8
+Lower middle income,,2010,746722562.2
+Lower middle income,,2015,555914623.6
+Lower middle income,,2019,360228693.9
+Upper middle income,,2000,101035447.7
+Upper middle income,,2005,65220798.69
+Upper middle income,,2010,29028371.06
+Upper middle income,,2015,26732500.5
+Upper middle income,,2019,15569579.92
+World,OWID_WRL,2000,1300147672.0
+World,OWID_WRL,2005,1291836592.0
+World,OWID_WRL,2010,1155955407.0
+World,OWID_WRL,2015,986111206.9
+World,OWID_WRL,2019,760886587.0

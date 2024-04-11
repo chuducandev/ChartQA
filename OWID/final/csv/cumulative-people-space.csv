@@ -1,0 +1,21 @@
+Entity,Code,Year,cumulative_individuals
+Japan,JPN,2010,7
+Russia,RUS,1961,2
+Russia,RUS,1970,22
+Russia,RUS,1980,49
+Russia,RUS,1990,70
+Russia,RUS,2000,92
+Russia,RUS,2010,107
+Russia,RUS,2021,124
+United States,USA,1961,2
+United States,USA,1970,27
+United States,USA,1990,149
+United States,USA,2000,249
+United States,USA,2010,333
+World,OWID_WRL,1961,4
+World,OWID_WRL,1970,49
+World,OWID_WRL,1980,100
+World,OWID_WRL,1990,241
+World,OWID_WRL,2000,399
+World,OWID_WRL,2010,521
+World,OWID_WRL,2021,570

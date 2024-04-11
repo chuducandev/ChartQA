@@ -1,0 +1,13 @@
+Entity,Code,Year,electfreefair_vdem_owid,electfreefair_vdem_high_owid,electfreefair_vdem_low_owid
+Bulgaria,BGR,1789,0.0,0.0,0.0
+Bulgaria,BGR,1850,0.0,0.0,0.0
+Bulgaria,BGR,1900,0.103,0.19,0.052
+Bulgaria,BGR,1950,0.221,0.322,0.13
+Bulgaria,BGR,2000,0.787,0.874,0.682
+Bulgaria,BGR,2022,0.783,0.869,0.68
+Malaysia,MYS,1900,0.0,0.0,0.0
+Malaysia,MYS,1950,0.0,0.0,0.0
+Malaysia,MYS,2000,0.204,0.301,0.121
+Malaysia,MYS,2022,0.466,0.592,0.349
+Two Sicilies,OWID_SIC,1789,0.0,0.0,0.0
+Two Sicilies,OWID_SIC,1850,0.0,0.0,0.0

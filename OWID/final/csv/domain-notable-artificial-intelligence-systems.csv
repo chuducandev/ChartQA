@@ -1,0 +1,177 @@
+Entity,Code,Year,Annual number of AI systems by domain
+Biology,,1950,0
+Biology,,1956,0
+Biology,,1959,0
+Biology,,1962,0
+Biology,,1968,0
+Biology,,1974,0
+Biology,,1977,0
+Biology,,1980,0
+Biology,,1983,0
+Biology,,1986,0
+Biology,,1989,0
+Biology,,1992,0
+Biology,,1995,0
+Biology,,1998,0
+Biology,,2001,0
+Biology,,2004,0
+Biology,,2007,0
+Biology,,2010,0
+Biology,,2013,0
+Biology,,2016,1
+Biology,,2019,1
+Biology,,2023,9
+Games,,1950,0
+Games,,1956,0
+Games,,1959,1
+Games,,1962,0
+Games,,1968,2
+Games,,1974,0
+Games,,1977,0
+Games,,1980,0
+Games,,1983,1
+Games,,1986,0
+Games,,1989,0
+Games,,1992,1
+Games,,1995,0
+Games,,1998,0
+Games,,2001,0
+Games,,2004,0
+Games,,2007,0
+Games,,2010,0
+Games,,2013,1
+Games,,2016,2
+Games,,2019,7
+Games,,2023,0
+Image generation,,1950,0
+Image generation,,1956,0
+Image generation,,1959,0
+Image generation,,1962,0
+Image generation,,1968,0
+Image generation,,1974,0
+Image generation,,1977,0
+Image generation,,1980,0
+Image generation,,1983,0
+Image generation,,1986,0
+Image generation,,1989,0
+Image generation,,1992,0
+Image generation,,1995,0
+Image generation,,1998,0
+Image generation,,2001,0
+Image generation,,2004,0
+Image generation,,2007,0
+Image generation,,2010,0
+Image generation,,2013,0
+Image generation,,2016,0
+Image generation,,2019,1
+Image generation,,2023,7
+Language,,1950,0
+Language,,1956,0
+Language,,1959,1
+Language,,1962,0
+Language,,1968,0
+Language,,1974,0
+Language,,1977,0
+Language,,1980,0
+Language,,1983,0
+Language,,1986,0
+Language,,1989,0
+Language,,1992,0
+Language,,1995,1
+Language,,1998,0
+Language,,2001,1
+Language,,2004,0
+Language,,2007,1
+Language,,2010,2
+Language,,2013,7
+Language,,2016,14
+Language,,2019,37
+Language,,2023,39
+Multimodal,,1950,0
+Multimodal,,1956,0
+Multimodal,,1959,0
+Multimodal,,1962,0
+Multimodal,,1968,0
+Multimodal,,1974,0
+Multimodal,,1977,0
+Multimodal,,1980,0
+Multimodal,,1983,0
+Multimodal,,1986,0
+Multimodal,,1989,0
+Multimodal,,1992,0
+Multimodal,,1995,0
+Multimodal,,1998,0
+Multimodal,,2001,0
+Multimodal,,2004,0
+Multimodal,,2007,0
+Multimodal,,2010,0
+Multimodal,,2013,0
+Multimodal,,2016,0
+Multimodal,,2019,0
+Multimodal,,2023,16
+Other,,1950,1
+Other,,1956,1
+Other,,1959,0
+Other,,1962,1
+Other,,1968,0
+Other,,1974,1
+Other,,1977,1
+Other,,1980,0
+Other,,1983,0
+Other,,1986,2
+Other,,1989,4
+Other,,1992,1
+Other,,1995,1
+Other,,1998,1
+Other,,2001,1
+Other,,2004,1
+Other,,2007,4
+Other,,2010,3
+Other,,2013,1
+Other,,2016,9
+Other,,2019,9
+Other,,2023,27
+Speech,,1950,0
+Speech,,1956,0
+Speech,,1959,0
+Speech,,1962,0
+Speech,,1968,0
+Speech,,1974,0
+Speech,,1977,0
+Speech,,1980,0
+Speech,,1983,0
+Speech,,1986,1
+Speech,,1989,1
+Speech,,1992,1
+Speech,,1995,0
+Speech,,1998,0
+Speech,,2001,0
+Speech,,2004,0
+Speech,,2007,0
+Speech,,2010,2
+Speech,,2013,2
+Speech,,2016,1
+Speech,,2019,1
+Speech,,2023,1
+Vision,,1950,0
+Vision,,1956,0
+Vision,,1959,1
+Vision,,1962,0
+Vision,,1968,0
+Vision,,1974,0
+Vision,,1977,0
+Vision,,1980,1
+Vision,,1983,0
+Vision,,1986,1
+Vision,,1989,1
+Vision,,1992,0
+Vision,,1995,1
+Vision,,1998,1
+Vision,,2001,1
+Vision,,2004,0
+Vision,,2007,2
+Vision,,2010,8
+Vision,,2013,9
+Vision,,2016,23
+Vision,,2019,15
+Vision,,2023,4

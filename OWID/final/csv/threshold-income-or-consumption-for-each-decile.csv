@@ -1,0 +1,8 @@
+Entity,Code,Year,Poorest decile - Threshold,2nd decile - Threshold,3rd decile - Threshold,4th decile - Threshold,5th decile - Threshold,6th decile - Threshold,7th decile - Threshold,8th decile - Threshold,Richest decile - Threshold
+World,OWID_WRL,1990,1.04,1.41,1.79,2.26,2.94,4.2,7.2,15.3,33.5
+World,OWID_WRL,1995,1.17,1.6,2.02,2.52,3.22,4.38,6.8,13.8,33.7
+World,OWID_WRL,2000,1.25,1.72,2.18,2.74,3.52,4.8,7.2,13.9,35.8
+World,OWID_WRL,2005,1.51,2.06,2.62,3.32,4.3,5.9,8.7,16.0,38.2
+World,OWID_WRL,2010,1.74,2.38,3.08,4.0,5.3,7.35,10.9,19.1,41.0
+World,OWID_WRL,2015,2.08,2.88,3.74,4.92,6.6,9.05,13.0,21.1,41.8
+World,OWID_WRL,2019,2.24,3.24,4.28,5.6,7.5,10.2,14.6,23.3,45.1

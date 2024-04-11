@@ -1,0 +1,57 @@
+Entity,Code,Year,Hydro generation - TWh
+Africa (EI),,1965,13.905635
+Africa (EI),,1970,27.63043
+Africa (EI),,1980,48.311783
+Africa (EI),,1990,57.254658
+Africa (EI),,2000,75.25581
+Africa (EI),,2010,107.679985
+Africa (EI),,2022,156.72108
+Asia Pacific (EI),,1965,156.08955
+Asia Pacific (EI),,1970,180.71
+Asia Pacific (EI),,1980,273.4472
+Asia Pacific (EI),,1990,399.27155
+Asia Pacific (EI),,2000,521.65295
+Asia Pacific (EI),,2010,1097.6237
+Asia Pacific (EI),,2022,1911.4636
+CIS (EI),,1965,81.434
+CIS (EI),,1970,124.377
+CIS (EI),,1980,183.938
+CIS (EI),,1990,211.2386
+CIS (EI),,2000,208.4302
+CIS (EI),,2010,216.83788
+CIS (EI),,2022,247.77946
+Europe (EI),,1965,302.19534
+Europe (EI),,1970,346.07806
+Europe (EI),,1980,464.76663
+Europe (EI),,1990,502.56775
+Europe (EI),,2000,617.7579
+Europe (EI),,2010,650.78815
+Europe (EI),,2022,566.889
+Middle East (EI),,1965,2.345857
+Middle East (EI),,1970,3.57964
+Middle East (EI),,1980,9.682702
+Middle East (EI),,1990,15.273264
+Middle East (EI),,2000,10.722177
+Middle East (EI),,2010,17.390324
+Middle East (EI),,2022,12.387197
+North America,,1965,326.2901
+North America,,1970,427.05334
+North America,,1980,551.11414
+North America,,1990,613.7012
+North America,,2000,664.147
+North America,,2010,647.8849
+North America,,2022,694.6574
+North America (EI),,1965,325.92508
+North America (EI),,1970,426.63437
+North America (EI),,1980,550.0601
+North America (EI),,1990,612.4452
+North America (EI),,2000,662.5963
+North America (EI),,2010,645.8175
+North America (EI),,2022,692.70703
+South and Central America (EI),,1965,41.302555
+South and Central America (EI),,1970,65.64019
+South and Central America (EI),,1980,201.44287
+South and Central America (EI),,1990,360.80304
+South and Central America (EI),,2000,550.31305
+South and Central America (EI),,2010,693.9942
+South and Central America (EI),,2022,746.2424

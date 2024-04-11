@@ -1,0 +1,10 @@
+Entity,Code,Year,Deaths - Sex: all - Age: all - Variant: estimates,Deaths - Sex: all - Age: all - Variant: medium,Births - Sex: all - Age: all - Variant: estimates,Births - Sex: all - Age: all - Variant: medium
+World,OWID_WRL,1950,48788536.0,,92083256.0,
+World,OWID_WRL,1960,54973676.0,,102262440.0,
+World,OWID_WRL,1980,47316612.0,,126793220.0,
+World,OWID_WRL,2000,52099820.0,,134014030.0,
+World,OWID_WRL,2020,63174308.0,,135132600.0,
+World,OWID_WRL,2040,,79467010.0,,138473460.0
+World,OWID_WRL,2060,,102193336.0,,130616050.0
+World,OWID_WRL,2080,,116894090.0,,122675816.0
+World,OWID_WRL,2100,,122811670.0,,111453740.0

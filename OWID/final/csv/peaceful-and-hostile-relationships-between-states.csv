@@ -1,0 +1,8 @@
+Entity,Code,Year,Number of country-pairs with 'severe rivalry' relationship,Number of country-pairs with 'lesser rivalry' relationship,Number of country-pairs with 'negative peace' relationship,Number of country-pairs with 'warm peace' relationship,Number of country-pairs with 'security community' relationship
+World,OWID_WRL,1900,19,15,179,0,0
+World,OWID_WRL,1920,26,31,288,1,0
+World,OWID_WRL,1940,26,30,235,2,0
+World,OWID_WRL,1960,58,48,387,45,13
+World,OWID_WRL,1980,71,56,691,88,13
+World,OWID_WRL,2000,58,33,1347,92,116
+World,OWID_WRL,2020,54,28,1572,114,363

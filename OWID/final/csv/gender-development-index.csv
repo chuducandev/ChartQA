@@ -1,0 +1,65 @@
+Entity,Code,Year,Gender Development Index
+Brazil,BRA,2005,0.986
+Brazil,BRA,2010,0.992
+Brazil,BRA,2015,0.989
+Brazil,BRA,2021,0.994
+Chile,CHL,1990,0.927
+Chile,CHL,1995,0.937
+Chile,CHL,2000,0.939
+Chile,CHL,2005,0.947
+Chile,CHL,2010,0.961
+Chile,CHL,2015,0.965
+Chile,CHL,2021,0.967
+China,CHN,1990,0.873
+China,CHN,1995,0.894
+China,CHN,2000,0.901
+China,CHN,2005,0.933
+China,CHN,2010,0.952
+China,CHN,2015,0.971
+China,CHN,2021,0.984
+Democratic Republic of Congo,COD,1990,0.793
+Democratic Republic of Congo,COD,1995,0.801
+Democratic Republic of Congo,COD,2000,0.802
+Democratic Republic of Congo,COD,2005,0.802
+Democratic Republic of Congo,COD,2010,0.816
+Democratic Republic of Congo,COD,2015,0.849
+Democratic Republic of Congo,COD,2021,0.885
+India,IND,1990,0.707
+India,IND,1995,0.717
+India,IND,2000,0.757
+India,IND,2005,0.787
+India,IND,2010,0.81
+India,IND,2015,0.838
+India,IND,2021,0.849
+Niger,NER,1990,0.664
+Niger,NER,1995,0.701
+Niger,NER,2000,0.724
+Niger,NER,2005,0.75
+Niger,NER,2010,0.798
+Niger,NER,2015,0.819
+Niger,NER,2021,0.835
+Nigeria,NGA,2005,0.84
+Nigeria,NGA,2010,0.86
+Nigeria,NGA,2015,0.862
+Nigeria,NGA,2021,0.863
+South Korea,KOR,1990,0.897
+South Korea,KOR,1995,0.927
+South Korea,KOR,2000,0.927
+South Korea,KOR,2005,0.931
+South Korea,KOR,2010,0.929
+South Korea,KOR,2015,0.934
+South Korea,KOR,2021,0.944
+United Kingdom,GBR,1990,0.97
+United Kingdom,GBR,1995,0.97
+United Kingdom,GBR,2000,0.974
+United Kingdom,GBR,2005,0.975
+United Kingdom,GBR,2010,0.964
+United Kingdom,GBR,2015,0.969
+United Kingdom,GBR,2021,0.987
+United States,USA,1990,0.987
+United States,USA,1995,0.989
+United States,USA,2000,0.989
+United States,USA,2005,0.987
+United States,USA,2010,0.988
+United States,USA,2015,0.99
+United States,USA,2021,1.001

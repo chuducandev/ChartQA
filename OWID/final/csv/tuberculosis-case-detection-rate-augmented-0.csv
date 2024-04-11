@@ -1,0 +1,28 @@
+Entity,Code,Year,Case detection rate (all forms)
+Aruba,ABW,2010,87.0
+Aruba,ABW,2020,87.0
+Aruba,ABW,2022,87.0
+Bermuda,BMU,2010,87.0
+Bermuda,BMU,2020,87.0
+Bermuda,BMU,2022,87.0
+Madagascar,MDG,2005,39.0
+Madagascar,MDG,2010,47.0
+Madagascar,MDG,2015,51.0
+Madagascar,MDG,2020,55.0
+Madagascar,MDG,2022,66.0
+Mauritius,MUS,2000,78.0
+Mauritius,MUS,2005,78.0
+Mauritius,MUS,2010,78.0
+Mauritius,MUS,2015,78.0
+Mauritius,MUS,2020,64.0
+Mauritius,MUS,2022,76.0
+San Marino,SMR,2000,87.0
+Sierra Leone,SLE,2000,27.0
+Sierra Leone,SLE,2005,38.0
+Sierra Leone,SLE,2010,63.0
+Sierra Leone,SLE,2015,53.0
+Sierra Leone,SLE,2020,65.0
+Sierra Leone,SLE,2022,78.0
+South Sudan,SSD,2015,38.0
+South Sudan,SSD,2020,66.0
+South Sudan,SSD,2022,79.0

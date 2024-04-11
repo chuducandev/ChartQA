@@ -1,0 +1,57 @@
+Entity,Code,Year,Solar and wind per capita (kWh - equivalent)
+Australia,AUS,1965,0.0
+Australia,AUS,1970,0.0
+Australia,AUS,1980,0.0
+Australia,AUS,1990,0.0
+Australia,AUS,2000,28.103727
+Australia,AUS,2010,751.6089
+Australia,AUS,2022,7020.774
+China,CHN,1965,0.0
+China,CHN,1970,0.0
+China,CHN,1980,0.0
+China,CHN,1990,0.010303936
+China,CHN,2000,1.4313585
+China,CHN,2010,103.14427
+China,CHN,2022,2176.5835
+India,IND,1965,0.0
+India,IND,1970,0.0
+India,IND,1980,0.0
+India,IND,1990,0.10294171
+India,IND,2000,4.434424
+India,IND,2010,43.78189
+India,IND,2022,303.91992
+New Zealand,NZL,1965,0.0
+New Zealand,NZL,1970,0.0
+New Zealand,NZL,1980,0.0
+New Zealand,NZL,1990,0.0
+New Zealand,NZL,2000,92.19957
+New Zealand,NZL,2010,1047.9465
+New Zealand,NZL,2022,1580.7522
+Portugal,PRT,1965,0.0
+Portugal,PRT,1970,0.0
+Portugal,PRT,1980,0.0
+Portugal,PRT,1990,0.28354442
+Portugal,PRT,2000,48.629436
+Portugal,PRT,2010,2463.2722
+Portugal,PRT,2022,4166.165
+Spain,ESP,1965,0.0
+Spain,ESP,1970,0.0
+Spain,ESP,1980,0.0
+Spain,ESP,1990,1.5206966
+Spain,ESP,2000,344.38745
+Spain,ESP,2010,3024.2761
+Spain,ESP,2022,5287.9727
+United Kingdom,GBR,1965,0.0
+United Kingdom,GBR,1970,0.0
+United Kingdom,GBR,1980,0.0
+United Kingdom,GBR,1990,0.46517533
+United Kingdom,GBR,2000,47.583122
+United Kingdom,GBR,2010,456.66644
+United Kingdom,GBR,2022,3633.3833
+United States,USA,1965,0.0
+United States,USA,1970,0.0
+United States,USA,1980,0.0
+United States,USA,1990,37.993576
+United States,USA,2000,64.58784
+United States,USA,2010,879.64795
+United States,USA,2022,4973.7837

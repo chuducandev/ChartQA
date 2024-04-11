@@ -1,0 +1,11 @@
+Entity,Code,Year,Population by broad age group - Sex: all - Age: 65+ - Variant: estimates,Population by broad age group - Sex: all - Age: 65+ - Variant: medium,Population - Sex: all - Age: 15-64 - Variant: estimates,Population - Sex: all - Age: 15-64 - Variant: medium,Population - Sex: all - Age: 0-14 - Variant: estimates,Population - Sex: all - Age: 0-14 - Variant: medium
+World,OWID_WRL,1950,128207570.0,,1503426300.0,,867688260.0,
+World,OWID_WRL,1960,151582500.0,,1739390300.0,,1128260600.0,
+World,OWID_WRL,1980,260358380.0,,2610250500.0,,1573398800.0,
+World,OWID_WRL,2000,423256640.0,,3867322000.0,,1858320100.0,
+World,OWID_WRL,2020,739477570.0,,5087737000.0,,2013738800.0,
+World,OWID_WRL,2021,761272600.0,,5132999000.0,,2015023400.0,
+World,OWID_WRL,2040,,1329771500.0,,5874395000.0,,1984084000.0
+World,OWID_WRL,2060,,1882274800.0,,6220326400.0,,1965132300.0
+World,OWID_WRL,2080,,2269193700.0,,6283062300.0,,1862381300.0
+World,OWID_WRL,2100,,2486649000.0,,6156866600.0,,1705807100.0

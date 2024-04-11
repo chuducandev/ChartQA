@@ -1,0 +1,13 @@
+Entity,Code,Year,Number of colonizers by region,Number of countries neither colonized nor colonizer by region,Number of colonies by region
+Europe,,1500,2,43,0
+Europe,,1600,3,42,0
+Europe,,1700,5,40,0
+Europe,,1800,5,40,0
+Europe,,1900,8,37,0
+Europe,,2022,0,45,0
+World,OWID_WRL,1500,2,190,3
+World,OWID_WRL,1600,3,164,28
+World,OWID_WRL,1700,5,147,43
+World,OWID_WRL,1800,5,145,45
+World,OWID_WRL,1900,8,103,84
+World,OWID_WRL,2022,0,195,0

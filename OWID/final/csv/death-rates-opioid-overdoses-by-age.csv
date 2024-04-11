@@ -1,0 +1,6 @@
+Entity,Code,Year,"Death rate per 100,000 people - Cause: Opioid use disorders - Sex: Both sexes - Age group: YEARS0-4","Death rate per 100,000 people - Cause: Opioid use disorders - Sex: Both sexes - Age group: YEARS5-14","Death rate per 100,000 people - Cause: Opioid use disorders - Sex: Both sexes - Age group: YEARS15-49","Death rate per 100,000 people - Cause: Opioid use disorders - Sex: Both sexes - Age group: YEARS50-69","Death rate per 100,000 people - Cause: Opioid use disorders - Sex: Both sexes - Age group: YEARS70+","Death rate per 100,000 people - Cause: Opioid use disorders - Sex: Both sexes - Age group: ALLAges"
+World,OWID_WRL,2000,0.00105478,0.0032732484,1.2895772,1.2817198,2.0754423,0.9336145
+World,OWID_WRL,2005,0.0006589481,0.0030061034,1.301583,1.2754335,1.9672903,0.96147186
+World,OWID_WRL,2010,0.0015728297,0.0062248497,1.2893512,1.4744805,2.4172628,1.0270587
+World,OWID_WRL,2015,0.002100047,0.007551205,1.5946554,2.131655,3.1351871,1.346847
+World,OWID_WRL,2019,0.0,0.0,1.8724749,2.5120244,3.648745,1.6046959

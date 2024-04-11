@@ -1,0 +1,43 @@
+Entity,Code,Year,Observation value - Unit_of_measure: Deaths per 100 live births - Indicator: Neonatal mortality rate - Sex: Both sexes - Wealth_quintile: All wealth quintiles
+Brazil,BRA,1970,4.620389
+Brazil,BRA,1980,3.5356133
+Brazil,BRA,1990,2.6075912
+Brazil,BRA,2000,1.8803394
+Brazil,BRA,2010,1.112397
+Brazil,BRA,2021,0.8470459
+China,CHN,1990,2.957587
+China,CHN,2000,2.1327524
+China,CHN,2010,0.83618385
+China,CHN,2021,0.3191256
+France,FRA,1960,1.828799
+France,FRA,1970,0.9439205
+France,FRA,1980,0.5738152
+France,FRA,1990,0.36239856
+France,FRA,2000,0.2751408
+France,FRA,2010,0.2326541
+France,FRA,2021,0.2529304
+Japan,JPN,1970,0.86784136
+Japan,JPN,1980,0.49179643
+Japan,JPN,1990,0.25496188
+Japan,JPN,2000,0.17635599
+Japan,JPN,2010,0.10952636
+Japan,JPN,2021,0.081478156
+Philippines,PHL,1955,2.668443
+Philippines,PHL,1960,2.563732
+Philippines,PHL,1970,2.4939773
+Philippines,PHL,1980,2.4520583
+Philippines,PHL,1990,1.9202406
+Philippines,PHL,2000,1.6513588
+Philippines,PHL,2010,1.4913163
+Philippines,PHL,2021,1.227695
+South Africa,ZAF,1980,2.66258
+South Africa,ZAF,1990,2.172449
+South Africa,ZAF,2000,1.7492807
+South Africa,ZAF,2010,1.2205069
+South Africa,ZAF,2021,1.1024725
+United States,USA,1970,1.5040257
+United States,USA,1980,0.8393428
+United States,USA,1990,0.57587063
+United States,USA,2000,0.46236148
+United States,USA,2010,0.410348
+United States,USA,2021,0.32702973

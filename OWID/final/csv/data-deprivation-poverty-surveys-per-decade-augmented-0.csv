@@ -1,0 +1,43 @@
+Entity,Code,Year,Number of surveys in the past decade
+Algeria,DZA,1963,0
+Algeria,DZA,1970,0
+Algeria,DZA,1980,0
+Algeria,DZA,1990,1
+Algeria,DZA,2000,1
+Algeria,DZA,2010,0
+Algeria,DZA,2022,0
+Belarus,BLR,1963,0
+Belarus,BLR,1970,0
+Belarus,BLR,1980,0
+Belarus,BLR,1990,0
+Belarus,BLR,2000,5
+Belarus,BLR,2010,10
+Belarus,BLR,2022,8
+Italy,ITA,1963,0
+Italy,ITA,1970,0
+Italy,ITA,1980,0
+Italy,ITA,1990,3
+Italy,ITA,2000,5
+Italy,ITA,2010,8
+Italy,ITA,2022,8
+North Macedonia,MKD,1963,0
+North Macedonia,MKD,1970,0
+North Macedonia,MKD,1980,0
+North Macedonia,MKD,1990,0
+North Macedonia,MKD,2000,2
+North Macedonia,MKD,2010,8
+North Macedonia,MKD,2022,7
+Russia,RUS,1963,0
+Russia,RUS,1970,0
+Russia,RUS,1980,0
+Russia,RUS,1990,0
+Russia,RUS,2000,6
+Russia,RUS,2010,10
+Russia,RUS,2022,8
+Vietnam,VNM,1963,0
+Vietnam,VNM,1970,0
+Vietnam,VNM,1980,0
+Vietnam,VNM,1990,0
+Vietnam,VNM,2000,2
+Vietnam,VNM,2010,5
+Vietnam,VNM,2022,4

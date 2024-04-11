@@ -1,0 +1,27 @@
+Entity,Code,Year,delibdem_vdem_owid,region
+Africa,,2022,0.2943393,World
+Asia,,2022,0.24204081,World
+Bahrain,BHR,2022,0.068,Asia
+Bolivia,BOL,2022,0.354,South America
+Botswana,BWA,2022,0.378,Africa
+Brazil,BRA,2022,0.448,South America
+Denmark,DNK,2022,0.877,Europe
+Equatorial Guinea,GNQ,2022,0.043,Africa
+Europe,,2022,0.60565853,World
+Fiji,FJI,2022,0.303,Oceania
+Georgia,GEO,2022,0.532,Asia
+Iceland,ISL,2022,0.714,Europe
+Indonesia,IDN,2022,0.487,Asia
+Iran,IRN,2022,0.093,Asia
+Italy,ITA,2022,0.768,Europe
+Mali,MLI,2022,0.252,Africa
+Moldova,MDA,2022,0.674,Europe
+North America,,2022,0.4636,World
+North Korea,PRK,2022,0.011,Asia
+Oceania,,2022,0.51916665,World
+Papua New Guinea,PNG,2022,0.273,Oceania
+Rwanda,RWA,2022,0.213,Africa
+South America,,2022,0.46325,World
+Suriname,SUR,2022,0.606,South America
+Uzbekistan,UZB,2022,0.16,Asia
+World,OWID_WRL,2022,0.3843743,World

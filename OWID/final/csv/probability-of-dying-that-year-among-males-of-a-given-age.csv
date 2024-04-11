@@ -1,0 +1,7 @@
+Entity,Code,Year,Probability of death - Type: period - Sex: male - Age: 0,Probability of death - Type: period - Sex: male - Age: 10,Probability of death - Type: period - Sex: male - Age: 15,Probability of death - Type: period - Sex: male - Age: 25,Probability of death - Type: period - Sex: male - Age: 45,Probability of death - Type: period - Sex: male - Age: 65,Probability of death - Type: period - Sex: male - Age: 80
+France,FRA,1816,19.281,0.599,0.495,1.202,1.492,4.5290003,15.266999
+France,FRA,1850,15.235,0.523,0.441,1.005,1.271,4.2599998,15.049
+France,FRA,1900,17.905,0.318,0.38,0.75699997,1.536,4.8300004,18.532
+France,FRA,1950,5.78661,0.059981998,0.104945004,0.21277301,0.69954497,3.371201,12.938134
+France,FRA,2000,0.520655,0.010999,0.036993,0.10394599,0.400198,1.7642981,6.9348984
+France,FRA,2021,0.395006,0.006857,0.018741,0.069399,0.22691199,1.255879,4.435707

@@ -1,0 +1,33 @@
+Entity,Code,Year,Cumulative number of exoplanets discovered
+Microlensing,,1992,0
+Microlensing,,1995,0
+Microlensing,,2000,0
+Microlensing,,2005,3
+Microlensing,,2010,12
+Microlensing,,2015,35
+Microlensing,,2020,109
+Microlensing,,2023,199
+Other methods,,1992,2
+Other methods,,1995,3
+Other methods,,2000,3
+Other methods,,2005,8
+Other methods,,2010,30
+Other methods,,2015,77
+Other methods,,2020,103
+Other methods,,2023,130
+Radial velocity,,1992,0
+Radial velocity,,1995,1
+Radial velocity,,2000,43
+Radial velocity,,2005,155
+Radial velocity,,2010,361
+Radial velocity,,2015,571
+Radial velocity,,2020,830
+Radial velocity,,2023,1036
+Transit,,1992,0
+Transit,,1995,0
+Transit,,2000,0
+Transit,,2005,6
+Transit,,2010,108
+Transit,,2015,1262
+Transit,,2020,3335
+Transit,,2023,4073

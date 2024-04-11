@@ -1,0 +1,21 @@
+Entity,Code,Year,Nuclear weapons status
+India,IND,1938,0
+India,IND,1960,1
+India,IND,1980,2
+India,IND,2000,3
+India,IND,2023,3
+South Africa,ZAF,1938,0
+South Africa,ZAF,1960,0
+South Africa,ZAF,1980,3
+South Africa,ZAF,2000,0
+South Africa,ZAF,2023,0
+South Korea,KOR,1938,0
+South Korea,KOR,1960,0
+South Korea,KOR,1980,2
+South Korea,KOR,2000,0
+South Korea,KOR,2023,0
+United States,USA,1938,0
+United States,USA,1960,3
+United States,USA,1980,3
+United States,USA,2000,3
+United States,USA,2023,3

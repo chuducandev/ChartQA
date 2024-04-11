@@ -1,0 +1,28 @@
+Entity,Code,Year,Breast
+Chile,CHL,1999,73.3
+Chile,CHL,2004,76.8
+Chile,CHL,2009,77.1
+China,CHN,1999,53.8
+China,CHN,2004,78.0
+China,CHN,2009,80.9
+Estonia,EST,1999,62.3
+Estonia,EST,2004,70.4
+Estonia,EST,2009,72.4
+France,FRA,1999,83.7
+France,FRA,2004,86.5
+France,FRA,2009,86.9
+Malaysia,MYS,1999,64.8
+Malaysia,MYS,2004,71.1
+Malaysia,MYS,2009,67.8
+Netherlands,NLD,1999,80.0
+Netherlands,NLD,2004,83.5
+Netherlands,NLD,2009,85.0
+South Korea,KOR,1999,76.7
+South Korea,KOR,2004,79.6
+South Korea,KOR,2009,82.7
+Sweden,SWE,1999,83.8
+Sweden,SWE,2004,85.6
+Sweden,SWE,2009,86.2
+Thailand,THA,1999,65.9
+Thailand,THA,2004,72.9
+Thailand,THA,2009,71.3

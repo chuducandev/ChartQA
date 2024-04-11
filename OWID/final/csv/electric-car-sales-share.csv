@@ -1,0 +1,43 @@
+Entity,Code,Year,Share of new cars that are electric
+China,CHN,2010,0.01
+China,CHN,2012,0.073
+China,CHN,2014,0.4
+China,CHN,2016,1.5
+China,CHN,2018,4.9
+China,CHN,2020,5.8
+China,CHN,2022,29.0
+European Union (27),,2010,0.012
+European Union (27),,2012,0.19
+European Union (27),,2014,0.56
+European Union (27),,2016,0.98
+European Union (27),,2018,1.9
+European Union (27),,2020,10.0
+European Union (27),,2022,21.0
+Norway,NOR,2010,0.28
+Norway,NOR,2012,3.1
+Norway,NOR,2014,15.0
+Norway,NOR,2016,29.0
+Norway,NOR,2018,49.0
+Norway,NOR,2020,75.0
+Norway,NOR,2022,88.0
+United Kingdom,GBR,2010,0.013
+United Kingdom,GBR,2012,0.13
+United Kingdom,GBR,2014,0.6
+United Kingdom,GBR,2016,1.4
+United Kingdom,GBR,2018,2.6
+United Kingdom,GBR,2020,11.0
+United Kingdom,GBR,2022,23.0
+United States,USA,2010,0.011
+United States,USA,2012,0.41
+United States,USA,2014,0.89
+United States,USA,2016,1.0
+United States,USA,2018,2.0
+United States,USA,2020,2.2
+United States,USA,2022,7.7
+World,OWID_WRL,2010,0.011
+World,OWID_WRL,2012,0.16
+World,OWID_WRL,2014,0.43
+World,OWID_WRL,2016,0.89
+World,OWID_WRL,2018,2.3
+World,OWID_WRL,2020,4.2
+World,OWID_WRL,2022,14.0

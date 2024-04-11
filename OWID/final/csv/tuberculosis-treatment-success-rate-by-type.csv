@@ -1,0 +1,7 @@
+Entity,Code,Year,Treatment success rate: new TB cases,Treatment success rate for patients treated for MDR-TB (%),Treatment success rate: XDR-TB cases
+World,OWID_WRL,1995,57.0,,
+World,OWID_WRL,2000,69.0,68.0,
+World,OWID_WRL,2005,84.0,66.0,
+World,OWID_WRL,2010,84.0,50.0,19.0
+World,OWID_WRL,2015,83.0,55.0,34.0
+World,OWID_WRL,2021,87.0,,

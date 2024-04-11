@@ -1,0 +1,17 @@
+Entity,Code,Year,legis_constr_vdem_owid,legis_constr_vdem_low_owid,legis_constr_vdem_high_owid
+Argentina,ARG,1900,0.563,0.405,0.719
+Argentina,ARG,1950,0.375,0.233,0.528
+Argentina,ARG,2000,0.727,0.582,0.844
+Argentina,ARG,2022,0.723,0.582,0.842
+Australia,AUS,1850,0.766,0.559,0.871
+Australia,AUS,1950,0.9,0.794,0.951
+Australia,AUS,2000,0.951,0.89,0.979
+Australia,AUS,2022,0.961,0.907,0.986
+Botswana,BWA,2000,0.823,0.72,0.906
+Botswana,BWA,2022,0.684,0.533,0.802
+China,CHN,1789,0.233,0.111,0.373
+China,CHN,1850,0.233,0.111,0.373
+China,CHN,1900,0.233,0.111,0.373
+China,CHN,1950,0.105,0.046,0.233
+China,CHN,2000,0.064,0.03,0.144
+China,CHN,2022,0.12,0.062,0.23

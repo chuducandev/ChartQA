@@ -1,0 +1,38 @@
+Entity,Code,Year,Electricity from solar - TWh
+Australia,AUS,1990,0.0
+Australia,AUS,2000,0.05
+Australia,AUS,2010,0.98
+Australia,AUS,2022,38.84
+China,CHN,1980,0.0
+China,CHN,1990,0.002
+China,CHN,2000,0.02
+China,CHN,2010,0.7
+China,CHN,2022,427.72
+India,IND,1980,0.0
+India,IND,1990,0.0
+India,IND,2000,0.01
+India,IND,2010,0.11
+India,IND,2022,95.16
+South Africa,ZAF,1980,0.0
+South Africa,ZAF,1990,0.0
+South Africa,ZAF,2000,0.0
+South Africa,ZAF,2010,0.02
+South Africa,ZAF,2022,6.21
+Spain,ESP,1965,0.0
+Spain,ESP,1970,0.0
+Spain,ESP,1980,0.0
+Spain,ESP,1990,0.01
+Spain,ESP,2000,0.01
+Spain,ESP,2010,7.19
+Spain,ESP,2022,32.83
+United States,USA,1990,0.37079495
+United States,USA,2000,0.49
+United States,USA,2010,1.21
+United States,USA,2022,205.08
+World,OWID_WRL,1965,0.0
+World,OWID_WRL,1970,0.0
+World,OWID_WRL,1980,0.0
+World,OWID_WRL,1990,0.38834995
+World,OWID_WRL,2000,1.08
+World,OWID_WRL,2010,32.08
+World,OWID_WRL,2022,1310.02

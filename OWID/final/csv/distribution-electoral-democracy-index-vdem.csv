@@ -1,0 +1,24 @@
+Entity,Code,Year,electdem_vdem_owid,region
+Africa,,2022,0.389125,World
+Argentina,ARG,2022,0.823,South America
+Armenia,ARM,2022,0.645,Asia
+Asia,,2022,0.33844897,World
+Austria,AUT,2022,0.794,Europe
+Bolivia,BOL,2022,0.597,South America
+Cape Verde,CPV,2022,0.75,Africa
+Colombia,COL,2022,0.689,South America
+Denmark,DNK,2022,0.916,Europe
+Europe,,2022,0.727,World
+Germany,DEU,2022,0.857,Europe
+Guinea,GIN,2022,0.191,Africa
+Haiti,HTI,2022,0.248,North America
+Honduras,HND,2022,0.556,North America
+North America,,2022,0.5918667,World
+Oceania,,2022,0.6666667,World
+Oman,OMN,2022,0.17,Asia
+Philippines,PHL,2022,0.431,Asia
+Saudi Arabia,SAU,2022,0.016,Asia
+South America,,2022,0.65858334,World
+South Sudan,SSD,2022,0.129,Africa
+World,OWID_WRL,2022,0.497,World
+Zanzibar,OWID_ZAN,2022,0.284,Africa

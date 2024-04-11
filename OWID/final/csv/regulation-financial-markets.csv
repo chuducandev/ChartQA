@@ -1,0 +1,23 @@
+Entity,Code,Year,10.5.1 - Return on assets (%) - FI_FSI_FSERA,10.5.1 - Regulatory capital to assets (%) - FI_FSI_FSKA,10.5.1 - Liquid assets to short term liabilities (%) - FI_FSI_FSLS,10.5.1 - Non-performing loans to total gross loans (%) - FI_FSI_FSANL,10.5.1 - Net open position in foreign exchange to capital (%) - FI_FSI_FSSNO,10.5.1 - Non-performing loans net of provisions to capital (%) - FI_FSI_FSKNL,10.5.1 - Regulatory Tier 1 capital to risk-weighted assets (%) - FI_FSI_FSKRTC
+Germany,DEU,2005,0.43,4.07,,4.05,,34.97,
+Germany,DEU,2008,-0.29,4.49,120.38,2.85,6.56,25.33,9.55
+Germany,DEU,2010,0.21,4.3,136.99,3.2,4.4,34.22,11.83
+Germany,DEU,2012,0.32,4.73,144.17,2.86,3.93,27.41,14.18
+Germany,DEU,2014,0.29,5.61,145.48,2.34,3.95,21.28,15.35
+Germany,DEU,2016,0.33,5.98,146.62,1.71,4.0,14.68,16.28
+Germany,DEU,2018,0.23,6.47,151.7,1.24,3.19,9.06,16.62
+Germany,DEU,2021,0.73,5.94,170.88,,4.35,,16.77
+United Kingdom,GBR,2005,0.95,4.22,55.62,0.99,5.83,,8.91
+United Kingdom,GBR,2008,0.31,3.28,42.32,1.56,59.31,8.65,9.61
+United Kingdom,GBR,2010,0.07,4.47,37.9,3.95,7.21,16.86,13.23
+United Kingdom,GBR,2012,0.02,4.68,36.81,3.59,-8.86,13.87,14.51
+United Kingdom,GBR,2014,0.07,4.37,35.85,1.65,5.2,5.44,13.61
+United Kingdom,GBR,2016,-0.06,5.95,40.47,1.69,-7.34,7.44,16.5
+United Kingdom,GBR,2018,0.07,5.93,50.96,1.1,-8.45,6.79,17.9
+United Kingdom,GBR,2021,0.07,5.53,47.63,0.97,-8.39,6.88,19.08
+United States,USA,2010,0.88,8.8,129.06,4.39,,9.41,12.46
+United States,USA,2012,1.42,8.81,178.65,3.32,,7.57,12.7
+United States,USA,2014,1.46,9.2,196.89,1.85,,2.47,13.09
+United States,USA,2016,1.5,9.33,222.08,1.32,,0.51,13.17
+United States,USA,2018,1.67,9.44,202.74,0.91,,-1.35,13.78
+United States,USA,2021,1.45,8.62,436.28,0.81,,-3.43,14.85

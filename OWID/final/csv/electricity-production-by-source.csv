@@ -1,0 +1,8 @@
+Entity,Code,Year,Electricity from coal - TWh,Electricity from gas - TWh,Electricity from nuclear - TWh,Electricity from hydro - TWh,Electricity from solar - TWh,Electricity from oil - TWh,Electricity from wind - TWh,Electricity from bioenergy - TWh,Other renewables excluding bioenergy - TWh
+World,OWID_WRL,1990,4460.2417,1789.7031,2000.596,2158.854,0.38834995,1364.6844,3.6324706,,
+World,OWID_WRL,2000,5761.28,2699.79,2521.93,2622.75,1.08,1267.99,31.22,152.08,49.65
+World,OWID_WRL,2010,8405.11,4704.34,2701.57,3420.53,32.08,1074.24,345.93,318.89,66.84
+World,OWID_WRL,2022,10212.22,6443.6,2632.03,4288.59,1310.02,904.15,2098.46,675.11,96.8
+World,OWID_WRL,1965,,,25.539724,923.19806,0.0,,0.0,,
+World,OWID_WRL,1970,,,78.87466,1174.6497,0.0,,0.0,,
+World,OWID_WRL,1980,,,711.9242,1731.6493,0.0,,0.0105,,

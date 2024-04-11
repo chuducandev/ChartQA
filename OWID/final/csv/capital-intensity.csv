@@ -1,0 +1,82 @@
+Entity,Code,Year,"Capital Intensity (Bergeaud, Cette, and Lecat (2016))"
+Austria,AUT,1890,5
+Austria,AUT,1900,6
+Austria,AUT,1920,8
+Austria,AUT,1940,11
+Austria,AUT,1960,23
+Austria,AUT,1980,79
+Austria,AUT,2000,156
+Austria,AUT,2010,195
+Austria,AUT,2015,210
+Denmark,DNK,1890,4
+Denmark,DNK,1900,6
+Denmark,DNK,1920,10
+Denmark,DNK,1940,13
+Denmark,DNK,1960,32
+Denmark,DNK,1980,96
+Denmark,DNK,2000,149
+Denmark,DNK,2010,189
+Denmark,DNK,2015,199
+France,FRA,1890,12
+France,FRA,1900,14
+France,FRA,1920,18
+France,FRA,1940,36
+France,FRA,1960,35
+France,FRA,1980,108
+France,FRA,2000,187
+France,FRA,2010,228
+France,FRA,2015,243
+Germany,DEU,1890,9
+Germany,DEU,1900,11
+Germany,DEU,1920,18
+Germany,DEU,1940,15
+Germany,DEU,1960,29
+Germany,DEU,1980,93
+Germany,DEU,2000,177
+Germany,DEU,2010,211
+Germany,DEU,2015,218
+Italy,ITA,1890,3
+Italy,ITA,1900,3
+Italy,ITA,1920,5
+Italy,ITA,1940,9
+Italy,ITA,1960,22
+Italy,ITA,1980,90
+Italy,ITA,2000,145
+Italy,ITA,2010,172
+Italy,ITA,2015,182
+Japan,JPN,1890,1
+Japan,JPN,1900,1
+Japan,JPN,1920,2
+Japan,JPN,1940,5
+Japan,JPN,1960,9
+Japan,JPN,1980,59
+Japan,JPN,2000,136
+Japan,JPN,2010,158
+Japan,JPN,2015,161
+Norway,NOR,1890,9
+Norway,NOR,1900,10
+Norway,NOR,1920,19
+Norway,NOR,1940,30
+Norway,NOR,1960,61
+Norway,NOR,1980,141
+Norway,NOR,2000,220
+Norway,NOR,2010,265
+Norway,NOR,2015,287
+United Kingdom,GBR,1890,14
+United Kingdom,GBR,1900,15
+United Kingdom,GBR,1920,18
+United Kingdom,GBR,1940,19
+United Kingdom,GBR,1960,35
+United Kingdom,GBR,1980,90
+United Kingdom,GBR,2000,129
+United Kingdom,GBR,2010,155
+United Kingdom,GBR,2015,153
+United States,USA,1890,25
+United States,USA,1900,30
+United States,USA,1920,51
+United States,USA,1940,73
+United States,USA,1960,84
+United States,USA,1980,120
+United States,USA,2000,149
+United States,USA,2010,200
+United States,USA,2015,198

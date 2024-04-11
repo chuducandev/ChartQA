@@ -1,0 +1,31 @@
+Entity,Code,Year,Gas production (TWh)
+Canada,CAN,1900,0.0
+Canada,CAN,1920,4.771784
+Canada,CAN,1940,12.242363
+Canada,CAN,1960,173.76724
+Canada,CAN,1980,712.2795
+Canada,CAN,2000,1763.0466
+Canada,CAN,2022,1850.1636
+Qatar,QAT,1900,0.0
+Qatar,QAT,1920,0.0
+Qatar,QAT,1940,0.0
+Qatar,QAT,1960,0.0
+Qatar,QAT,1980,49.069347
+Qatar,QAT,2000,257.715
+Qatar,QAT,2022,1784.1106
+Russia,RUS,2000,5370.56
+Russia,RUS,2022,6183.6816
+United Kingdom,GBR,1900,0.0
+United Kingdom,GBR,1920,0.0
+United Kingdom,GBR,1940,0.0
+United Kingdom,GBR,1960,0.8510873
+United Kingdom,GBR,1980,364.1469
+United Kingdom,GBR,2000,1134.5905
+United Kingdom,GBR,2022,381.55322
+United States,USA,1900,73.84042
+United States,USA,1920,236.5805
+United States,USA,1940,905.94135
+United States,USA,1960,3918.8633
+United States,USA,1980,5250.907
+United States,USA,2000,5186.003
+United States,USA,2022,9785.507

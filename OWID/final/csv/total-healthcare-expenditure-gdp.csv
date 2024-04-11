@@ -1,0 +1,41 @@
+Entity,Code,Year,Current health expenditure (CHE) as percentage of gross domestic product (GDP) (%)
+Brazil,BRA,2000,8.33
+Brazil,BRA,2005,8.04
+Brazil,BRA,2010,7.95
+Brazil,BRA,2015,8.91
+Brazil,BRA,2021,9.89
+China,CHN,2000,4.51
+China,CHN,2005,4.18
+China,CHN,2010,4.23
+China,CHN,2015,4.94
+China,CHN,2021,5.38
+France,FRA,2000,9.58
+France,FRA,2005,10.21
+France,FRA,2010,11.23
+France,FRA,2015,11.45
+France,FRA,2021,12.31
+India,IND,2000,4.03
+India,IND,2005,3.79
+India,IND,2010,3.27
+India,IND,2015,3.6
+India,IND,2021,3.28
+Japan,JPN,2000,7.03
+Japan,JPN,2005,7.66
+Japan,JPN,2010,9.06
+Japan,JPN,2015,10.75
+Japan,JPN,2021,10.82
+Nigeria,NGA,2000,3.2
+Nigeria,NGA,2005,4.47
+Nigeria,NGA,2010,3.3
+Nigeria,NGA,2015,3.58
+Nigeria,NGA,2021,4.08
+United Kingdom,GBR,2000,7.13
+United Kingdom,GBR,2005,8.36
+United Kingdom,GBR,2010,9.93
+United Kingdom,GBR,2015,9.8
+United Kingdom,GBR,2021,12.36
+United States,USA,2000,12.49
+United States,USA,2005,14.58
+United States,USA,2010,16.2
+United States,USA,2015,16.49
+United States,USA,2021,17.36

@@ -1,0 +1,10 @@
+Entity,Code,Year,Deaths - All causes - Sex: Both - Age: Under 5 (Number),Deaths - Sex: all - Age: 0-4 - Variant: estimates,Observation value - Unit_of_measure: Number of deaths - Indicator: Under-five deaths - Sex: Both sexes - Wealth_quintile: All wealth quintiles
+World,OWID_WRL,1980,,14615233.0,
+World,OWID_WRL,1985,,14049802.0,
+World,OWID_WRL,1990,11981203.0,13107722.0,12831685.0
+World,OWID_WRL,1995,10847655.0,11584666.0,11392568.0
+World,OWID_WRL,2000,9642910.0,10060720.0,9903236.0
+World,OWID_WRL,2005,8476975.0,8474813.0,8357464.0
+World,OWID_WRL,2010,7302984.0,7179900.0,7108596.0
+World,OWID_WRL,2015,6096194.0,6082582.0,6070327.0
+World,OWID_WRL,2021,,5022350.0,5033672.0

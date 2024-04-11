@@ -1,0 +1,33 @@
+Entity,Code,Year,Deaths averted due to antiretroviral therapy - Disaggregation: estimate
+Botswana,BWA,1990,0
+Botswana,BWA,1995,0
+Botswana,BWA,2000,207
+Botswana,BWA,2005,9343
+Botswana,BWA,2010,14596
+Botswana,BWA,2015,12916
+Botswana,BWA,2020,10438
+Botswana,BWA,2022,9096
+Namibia,NAM,1990,0
+Namibia,NAM,1995,0
+Namibia,NAM,2000,0
+Namibia,NAM,2005,2360
+Namibia,NAM,2010,9444
+Namibia,NAM,2015,9078
+Namibia,NAM,2020,8014
+Namibia,NAM,2022,7385
+South Africa,ZAF,1990,0
+South Africa,ZAF,1995,0
+South Africa,ZAF,2000,2547
+South Africa,ZAF,2005,49032
+South Africa,ZAF,2010,210427
+South Africa,ZAF,2015,323946
+South Africa,ZAF,2020,346911
+South Africa,ZAF,2022,333328
+World,OWID_WRL,1990,0
+World,OWID_WRL,1995,9426
+World,OWID_WRL,2000,66223
+World,OWID_WRL,2005,284130
+World,OWID_WRL,2010,1016423
+World,OWID_WRL,2015,1332263
+World,OWID_WRL,2020,1446699
+World,OWID_WRL,2022,1436601

@@ -1,0 +1,81 @@
+Entity,Code,Year,Life expectancy - Sex: female - Age: at birth - Variant: estimates
+Brazil,BRA,1950,51.0
+Brazil,BRA,1960,55.2
+Brazil,BRA,1970,59.7
+Brazil,BRA,1980,64.2
+Brazil,BRA,1990,69.0
+Brazil,BRA,2000,73.4
+Brazil,BRA,2010,76.6
+Brazil,BRA,2021,76.0
+China,CHN,1950,45.6
+China,CHN,1960,34.6
+China,CHN,1970,58.6
+China,CHN,1980,66.7
+China,CHN,1990,70.4
+China,CHN,2000,74.2
+China,CHN,2010,78.3
+China,CHN,2021,81.2
+India,IND,1950,40.8
+India,IND,1960,44.5
+India,IND,1970,47.6
+India,IND,1980,53.7
+India,IND,1990,59.5
+India,IND,2000,63.6
+India,IND,2010,68.6
+India,IND,2021,68.9
+Japan,JPN,1950,60.9
+Japan,JPN,1960,70.1
+Japan,JPN,1970,74.7
+Japan,JPN,1980,78.8
+Japan,JPN,1990,81.9
+Japan,JPN,2000,84.5
+Japan,JPN,2010,86.2
+Japan,JPN,2021,87.7
+Mexico,MEX,1950,45.6
+Mexico,MEX,1960,57.0
+Mexico,MEX,1970,62.9
+Mexico,MEX,1980,68.6
+Mexico,MEX,1990,73.6
+Mexico,MEX,2000,76.5
+Mexico,MEX,2010,77.1
+Mexico,MEX,2021,74.9
+Nigeria,NGA,1950,37.1
+Nigeria,NGA,1960,38.6
+Nigeria,NGA,1970,40.7
+Nigeria,NGA,1980,47.5
+Nigeria,NGA,1990,47.6
+Nigeria,NGA,2000,48.3
+Nigeria,NGA,2010,51.4
+Nigeria,NGA,2021,53.1
+Norway,NOR,1950,73.3
+Norway,NOR,1960,75.9
+Norway,NOR,1970,77.3
+Norway,NOR,1980,79.2
+Norway,NOR,1990,79.8
+Norway,NOR,2000,81.4
+Norway,NOR,2010,83.2
+Norway,NOR,2021,84.9
+Spain,ESP,1950,64.1
+Spain,ESP,1960,71.6
+Spain,ESP,1970,74.9
+Spain,ESP,1980,78.6
+Spain,ESP,1990,80.6
+Spain,ESP,2000,82.8
+Spain,ESP,2010,85.0
+Spain,ESP,2021,85.8
+United Kingdom,GBR,1950,70.9
+United Kingdom,GBR,1960,73.9
+United Kingdom,GBR,1970,75.0
+United Kingdom,GBR,1980,76.6
+United Kingdom,GBR,1990,78.5
+United Kingdom,GBR,2000,80.2
+United Kingdom,GBR,2010,82.3
+United Kingdom,GBR,2021,82.8
+United States,USA,1950,71.0
+United States,USA,1960,73.3
+United States,USA,1970,74.6
+United States,USA,1980,77.5
+United States,USA,1990,78.8
+United States,USA,2000,79.4
+United States,USA,2010,81.2
+United States,USA,2021,80.2

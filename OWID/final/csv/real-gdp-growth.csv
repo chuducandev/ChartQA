@@ -1,0 +1,23 @@
+Entity,Code,Year,"Gross domestic product, constant prices - Percent change - Observations","Gross domestic product, constant prices - Percent change - Forecasts"
+China,CHN,1980,7.91,
+China,CHN,1990,3.888,
+China,CHN,2000,8.472,
+China,CHN,2010,10.611,
+China,CHN,2020,2.242,
+China,CHN,2028,,3.38
+India,IND,1980,5.281,
+India,IND,1990,5.534,
+India,IND,2000,3.975,
+India,IND,2010,10.26,
+India,IND,2020,-5.831,
+India,IND,2028,,6.263
+Russia,RUS,2000,10.054,
+Russia,RUS,2010,4.512,
+Russia,RUS,2020,-2.654,
+Russia,RUS,2028,,0.95
+United States,USA,1980,-0.257,
+United States,USA,1990,1.886,
+United States,USA,2000,4.077,
+United States,USA,2010,2.709,
+United States,USA,2020,-2.768,
+United States,USA,2028,,2.122

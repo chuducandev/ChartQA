@@ -1,0 +1,100 @@
+Entity,Code,Year,Number of nuclear warheads
+China,CHN,1945,0
+China,CHN,1950,0
+China,CHN,1960,0
+China,CHN,1970,75
+China,CHN,1980,205
+China,CHN,1990,232
+China,CHN,2000,232
+China,CHN,2010,240
+China,CHN,2023,410
+France,FRA,1945,0
+France,FRA,1950,0
+France,FRA,1960,0
+France,FRA,1970,36
+France,FRA,1980,250
+France,FRA,1990,505
+France,FRA,2000,470
+France,FRA,2010,300
+France,FRA,2023,290
+India,IND,1945,0
+India,IND,1950,0
+India,IND,1960,0
+India,IND,1970,0
+India,IND,1980,0
+India,IND,1990,0
+India,IND,2000,13
+India,IND,2010,80
+India,IND,2023,164
+Israel,ISR,1945,0
+Israel,ISR,1950,0
+Israel,ISR,1960,0
+Israel,ISR,1970,8
+Israel,ISR,1980,31
+Israel,ISR,1990,53
+Israel,ISR,2000,72
+Israel,ISR,2010,80
+Israel,ISR,2023,90
+North Korea,PRK,1945,0
+North Korea,PRK,1950,0
+North Korea,PRK,1960,0
+North Korea,PRK,1970,0
+North Korea,PRK,1980,0
+North Korea,PRK,1990,0
+North Korea,PRK,2000,0
+North Korea,PRK,2010,0
+North Korea,PRK,2023,30
+Pakistan,PAK,1945,0
+Pakistan,PAK,1950,0
+Pakistan,PAK,1960,0
+Pakistan,PAK,1970,0
+Pakistan,PAK,1980,0
+Pakistan,PAK,1990,0
+Pakistan,PAK,2000,14
+Pakistan,PAK,2010,90
+Pakistan,PAK,2023,170
+Russia,RUS,1945,0
+Russia,RUS,1950,5
+Russia,RUS,1960,1627
+Russia,RUS,1970,11736
+Russia,RUS,1980,30665
+Russia,RUS,1990,32980
+Russia,RUS,2000,12188
+Russia,RUS,2010,5215
+Russia,RUS,2023,4489
+South Africa,ZAF,1945,0
+South Africa,ZAF,1950,0
+South Africa,ZAF,1960,0
+South Africa,ZAF,1970,0
+South Africa,ZAF,1980,0
+South Africa,ZAF,1990,0
+South Africa,ZAF,2000,0
+South Africa,ZAF,2010,0
+South Africa,ZAF,2023,0
+United Kingdom,GBR,1945,0
+United Kingdom,GBR,1950,0
+United Kingdom,GBR,1960,105
+United Kingdom,GBR,1970,375
+United Kingdom,GBR,1980,500
+United Kingdom,GBR,1990,350
+United Kingdom,GBR,2000,280
+United Kingdom,GBR,2010,225
+United Kingdom,GBR,2023,225
+United States,USA,1945,2
+United States,USA,1950,299
+United States,USA,1960,18638
+United States,USA,1970,26008
+United States,USA,1980,24104
+United States,USA,1990,21392
+United States,USA,2000,10577
+United States,USA,2010,5066
+United States,USA,2023,3708
+World,OWID_WRL,1945,6
+World,OWID_WRL,1950,374
+World,OWID_WRL,1960,22144
+World,OWID_WRL,1970,38799
+World,OWID_WRL,1980,55352
+World,OWID_WRL,1990,61229
+World,OWID_WRL,2000,34004
+World,OWID_WRL,2010,21234
+World,OWID_WRL,2023,12512

@@ -1,0 +1,10 @@
+Entity,Code,Year,Number of cases of yaws reported,Total (estimated) polio cases,Reported cases of guinea worm disease in humans,"Number of new cases of rabies, in both sexes aged all ages","Number of new cases of malaria, in both sexes aged all ages","Number of new cases of hiv/aids, in both sexes aged all ages","Number of new cases of tuberculosis, in both sexes aged all ages",Number of reported smallpox cases,Reported cholera cases
+Guinea,GIN,1980,,224.0,0.0,,,,,,
+Guinea,GIN,2000,,0.0,0.0,64.39523,3683109.2,9476.331,13782.181,,519.0
+Guinea,GIN,2022,,,0.0,,,,,,
+World,OWID_WRL,1980,,368410.0,35894.0,,,,,0.0,42776.0
+World,OWID_WRL,2000,,3298.0,75223.0,23014.861,252861250.0,3077182.2,8879660.0,0.0,143944.0
+World,OWID_WRL,2022,,,13.0,,,,,0.0,
+World,OWID_WRL,1920,,,,,,,,401318.0,
+World,OWID_WRL,1940,,,,,,,,235820.0,
+World,OWID_WRL,1960,,,,,,,,67146.0,38130.0

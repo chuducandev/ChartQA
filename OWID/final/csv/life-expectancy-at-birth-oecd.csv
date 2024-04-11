@@ -1,0 +1,56 @@
+Entity,Code,Year,Period life expectancy at birth - Sex: all
+Austria,AUT,1960,68.7
+Austria,AUT,1970,70.1
+Austria,AUT,1980,72.7
+Austria,AUT,1990,75.8
+Austria,AUT,2000,78.3
+Austria,AUT,2010,80.7
+Austria,AUT,2021,81.3
+Belgium,BEL,1960,69.7
+Belgium,BEL,1970,71.0
+Belgium,BEL,1980,73.3
+Belgium,BEL,1990,76.2
+Belgium,BEL,2000,77.9
+Belgium,BEL,2010,80.3
+Belgium,BEL,2021,81.9
+France,FRA,1960,70.3
+France,FRA,1970,72.2
+France,FRA,1980,74.3
+France,FRA,1990,77.0
+France,FRA,2000,79.2
+France,FRA,2010,81.9
+France,FRA,2021,82.4
+Germany,DEU,1960,69.1
+Germany,DEU,1970,70.6
+Germany,DEU,1980,72.9
+Germany,DEU,1990,77.4
+Germany,DEU,2000,78.3
+Germany,DEU,2010,80.5
+Germany,DEU,2021,80.8
+Portugal,PRT,1960,64.0
+Portugal,PRT,1970,66.7
+Portugal,PRT,1980,71.5
+Portugal,PRT,1990,74.1
+Portugal,PRT,2000,76.8
+Portugal,PRT,2010,80.1
+Portugal,PRT,2021,81.5
+Switzerland,CHE,1960,71.4
+Switzerland,CHE,1970,73.2
+Switzerland,CHE,1980,75.7
+Switzerland,CHE,1990,77.5
+Switzerland,CHE,2000,80.0
+Switzerland,CHE,2010,82.7
+Switzerland,CHE,2021,83.9
+United Kingdom,GBR,1960,70.8
+United Kingdom,GBR,1970,71.9
+United Kingdom,GBR,1980,73.2
+United Kingdom,GBR,1990,75.7
+United Kingdom,GBR,2000,77.9
+United Kingdom,GBR,2010,80.6
+United States,USA,1960,69.7
+United States,USA,1970,70.8
+United States,USA,1980,73.7
+United States,USA,1990,75.4
+United States,USA,2000,76.8
+United States,USA,2010,78.7
+United States,USA,2021,76.4

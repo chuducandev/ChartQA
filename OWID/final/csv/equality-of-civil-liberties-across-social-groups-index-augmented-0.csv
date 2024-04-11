@@ -1,0 +1,14 @@
+Entity,Code,Year,socgr_civ_libs_vdem_owid,socgr_civ_libs_vdem_high_owid,socgr_civ_libs_vdem_low_owid
+Algeria,DZA,1900,0.514,1.345,-0.19
+Algeria,DZA,1950,0.514,1.345,-0.19
+Algeria,DZA,2000,1.173,1.578,0.664
+Algeria,DZA,2022,1.06,1.489,0.477
+Belgium,BEL,1789,1.581,2.491,0.778
+Belgium,BEL,1850,1.451,1.861,0.909
+Belgium,BEL,1900,1.451,1.861,0.909
+Belgium,BEL,1950,1.891,2.445,1.203
+Belgium,BEL,2000,2.781,3.477,2.035
+Belgium,BEL,2022,2.781,3.477,2.035
+Oldenburg,,1789,-0.13,0.263,-0.498
+Oldenburg,,1850,1.586,2.149,0.714
+Saxe-Weimar-Eisenach,,1850,0.284,1.329,-0.49

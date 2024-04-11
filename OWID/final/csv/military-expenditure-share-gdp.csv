@@ -1,0 +1,30 @@
+Entity,Code,Year,military_expenditure_share_gdp
+China,CHN,1990,2.45
+China,CHN,2000,1.83
+China,CHN,2010,1.74
+China,CHN,2020,1.75
+France,FRA,1960,5.43
+France,FRA,1970,3.46
+France,FRA,1980,3.16
+France,FRA,1990,2.81
+France,FRA,2000,2.09
+France,FRA,2010,1.97
+France,FRA,2020,2.07
+Russia,RUS,2000,3.31
+Russia,RUS,2010,3.59
+Russia,RUS,2020,4.26
+United Kingdom,GBR,1960,7.09
+United Kingdom,GBR,1970,5.2
+United Kingdom,GBR,1980,5.02
+United Kingdom,GBR,1990,3.98
+United Kingdom,GBR,2000,2.37
+United Kingdom,GBR,2010,2.58
+United Kingdom,GBR,2020,2.25
+United States,USA,1949,5.27
+United States,USA,1960,8.99
+United States,USA,1970,8.03
+United States,USA,1980,5.15
+United States,USA,1990,5.61
+United States,USA,2000,3.11
+United States,USA,2010,4.92
+United States,USA,2020,3.74

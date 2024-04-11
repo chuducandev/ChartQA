@@ -1,0 +1,8 @@
+Entity,Code,Year,number_nondem_bmr_owid,number_dem_bmr_owid
+World,OWID_WRL,1800,22,1
+World,OWID_WRL,1850,51,3
+World,OWID_WRL,1900,43,12
+World,OWID_WRL,1950,48,34
+World,OWID_WRL,2000,84,107
+World,OWID_WRL,2013,77,118
+World,OWID_WRL,2020,75,118

@@ -1,0 +1,182 @@
+Entity,Code,Year,GDP.per.capita,Baseline Gini series (GCIP income and van Zanden et al. (2014)),Population (historical estimates),GDP.per.capita_source
+Afghanistan,AFG,1820,450.09600165288,0.5771468,3288817.0,Maddison - extrapolated using average regional growth rate
+Afghanistan,AFG,2011,,,29249156.0,
+Afghanistan,AFG,2012,,,30466484.0,
+Afghanistan,AFG,2014,,,32716214.0,
+Austria,AUT,1820,1941.0,0.5335227,3367266.0,Maddison - original
+Austria,AUT,2011,,,8391201.0,
+Austria,AUT,2012,,,8429641.0,
+Austria,AUT,2014,,,8546066.0,
+Bahrain,BHR,1820,1305.90137503786,0.5771468,64474.0,Maddison - extrapolated using average regional growth rate
+Bahrain,BHR,2011,,,1212086.0,
+Bahrain,BHR,2012,,,1224948.0,
+Bahrain,BHR,2014,,,1311142.0,
+Bangladesh,BGD,1820,595.706695672127,0.328,20085068.0,Maddison - extrapolated using average regional growth rate
+Bangladesh,BGD,2011,,,150211008.0,
+Bangladesh,BGD,2012,,,152090656.0,
+Bangladesh,BGD,2014,,,155961312.0,
+Belgium,BEL,1820,2358.0,0.6243673,3446611.0,Maddison - original
+Belgium,BEL,2011,,,10955742.0,
+Belgium,BEL,2012,,,11031140.0,
+Belgium,BEL,2014,,,11176727.0,
+Bolivia,BOL,1820,1020.52700406296,0.47762336,1097885.0,Maddison - extrapolated using average regional growth rate
+Bolivia,BOL,2011,,,10396249.0,
+Bolivia,BOL,2012,,,10569697.0,
+Bolivia,BOL,2014,,,10916991.0,
+Brazil,BRA,1820,867.0,0.4710099,4472454.0,Maddison - original
+Brazil,BRA,2011,,,198185296.0,
+Brazil,BRA,2012,,,199977712.0,
+Brazil,BRA,2014,,,203459648.0,
+Cambodia,KHM,1820,441.781699926039,0.4928329,2092839.0,Maddison - extrapolated using average regional growth rate
+Cambodia,KHM,2011,,,14573894.0,
+Cambodia,KHM,2012,,,14786650.0,
+Cambodia,KHM,2014,,,15210817.0,
+China,CHN,1820,882.0,0.448543,380427133.0,Maddison - original
+China,CHN,2011,,,1357095424.0,
+China,CHN,2012,,,1366560768.0,
+China,CHN,2014,,,1385189632.0,
+Czechoslovakia,OWID_CZS,1820,1353.0,0.465460366666667,7657000.0,Maddison - original
+Eswatini,SWZ,1820,224.33331890158,0.5190016,77437.0,Maddison - extrapolated using average regional growth rate
+Eswatini,SWZ,2011,,,1105379.0,
+Eswatini,SWZ,2012,,,1111453.0,
+Eswatini,SWZ,2014,,,1125872.0,
+Ethiopia,ETH,1820,455.098957998729,0.5190016,12499625.0,Maddison - extrapolated using average regional growth rate
+Ethiopia,ETH,2011,,,91817936.0,
+Ethiopia,ETH,2012,,,94451280.0,
+Ethiopia,ETH,2014,,,99746768.0,
+France,FRA,1820,1809.0,0.59,31299931.0,Maddison - original
+France,FRA,2011,,,62775272.0,
+France,FRA,2012,,,63071412.0,
+France,FRA,2014,,,63588496.0,
+Germany,DEU,1820,1572.0,0.520763746153846,24844857.0,Maddison - original
+Germany,DEU,2011,,,81423384.0,
+Germany,DEU,2012,,,81545568.0,
+Germany,DEU,2014,,,81858824.0,
+Hungary,HUN,1820,1185.63709207996,0.4741291,4134289.0,Maddison - extrapolated using average regional growth rate
+Hungary,HUN,2011,,,9953247.0,
+Hungary,HUN,2012,,,9922133.0,
+Hungary,HUN,2014,,,9867906.0,
+Iceland,ISL,1820,2273.88059763844,0.520763746153846,61291.0,Maddison - extrapolated using average regional growth rate
+Iceland,ISL,2011,,,319308.0,
+Iceland,ISL,2012,,,320988.0,
+Iceland,ISL,2014,,,327650.0,
+India,IND,1820,935.338517361967,0.328,209843353.0,Maddison - extrapolated using average regional growth rate
+India,IND,2011,,,1257621248.0,
+India,IND,2012,,,1274487168.0,
+India,IND,2014,,,1307246464.0,
+Indonesia,IDN,1820,827.0,0.5169444,17236636.0,Maddison - original
+Indonesia,IDN,2011,,,247099696.0,
+Indonesia,IDN,2012,,,250222688.0,
+Indonesia,IDN,2014,,,256229760.0,
+Ireland,IRL,1820,1398.0,0.4458137,7079278.0,Maddison - original
+Ireland,IRL,2011,,,4544504.0,
+Ireland,IRL,2012,,,4564550.0,
+Ireland,IRL,2014,,,4622165.0,
+Israel,ISR,1820,3611.95580819589,0.5771468,209954.0,Maddison - extrapolated using average regional growth rate
+Israel,ISR,2011,,,7459750.0,
+Israel,ISR,2012,,,7592099.0,
+Israel,ISR,2014,,,7863849.0,
+Italy,ITA,1820,2665.0,0.5386328,20217832.0,Maddison - original
+Italy,ITA,2011,,,60025952.0,
+Italy,ITA,2012,,,60190152.0,
+Italy,ITA,2014,,,60322792.0,
+Japan,JPN,1820,1317.0,0.5315753,30925444.0,Maddison - original
+Japan,JPN,2011,,,128007256.0,
+Japan,JPN,2012,,,127853688.0,
+Japan,JPN,2014,,,127476728.0,
+Luxembourg,LUX,1820,3579.66281892293,0.520763746153846,129306.0,Maddison - extrapolated using average regional growth rate
+Luxembourg,LUX,2011,,,518207.0,
+Luxembourg,LUX,2012,,,530596.0,
+Luxembourg,LUX,2014,,,556075.0,
+Mexico,MEX,1820,1007.0,0.4011364,6524512.0,Maddison - original
+Mexico,MEX,2011,,,114150480.0,
+Mexico,MEX,2012,,,115755912.0,
+Mexico,MEX,2014,,,118755888.0,
+Morocco,MAR,1820,685.0,0.5771468,2686218.0,Maddison - original
+Morocco,MAR,2011,,,32903708.0,
+Morocco,MAR,2012,,,33352166.0,
+Morocco,MAR,2014,,,34248608.0,
+Netherlands,NLD,1820,3006.0,0.5633,2331997.0,Maddison - original
+Netherlands,NLD,2011,,,16701470.0,
+Netherlands,NLD,2012,,,16785296.0,
+Netherlands,NLD,2014,,,16954080.0,
+Nigeria,NGA,1820,882.429759706968,0.5485265,12128130.0,Maddison - extrapolated using average regional growth rate
+Nigeria,NGA,2011,,,165463744.0,
+Nigeria,NGA,2012,,,170075936.0,
+Nigeria,NGA,2014,,,179379024.0,
+Paraguay,PRY,1820,658.829255905466,0.47762336,148904.0,Maddison - extrapolated using average regional growth rate
+Paraguay,PRY,2011,,,5843938.0,
+Paraguay,PRY,2012,,,5923327.0,
+Paraguay,PRY,2014,,,6090727.0,
+Peru,PER,1820,835.0,0.5739507,1318957.0,Maddison - original
+Peru,PER,2011,,,29477722.0,
+Peru,PER,2012,,,29749592.0,
+Peru,PER,2014,,,30353956.0,
+Poland,POL,1820,818.0,0.3451052,10426570.0,Maddison - original
+Poland,POL,2011,,,38620848.0,
+Poland,POL,2012,,,38625872.0,
+Poland,POL,2014,,,38581880.0,
+Portugal,PRT,1820,1665.0,0.5506711,3290556.0,Maddison - original
+Portugal,PRT,2011,,,10564820.0,
+Portugal,PRT,2012,,,10522085.0,
+Portugal,PRT,2014,,,10408379.0,
+Romania,ROU,1820,246.525345969527,0.465460366666667,6389374.0,Maddison - extrapolated using average regional growth rate
+Romania,ROU,2011,,,20220286.0,
+Romania,ROU,2012,,,20137112.0,
+Romania,ROU,2014,,,19995836.0,
+Russia,RUS,1820,618.33738761322,0.4556807,32073923.0,Maddison - extrapolated using average regional growth rate
+Russia,RUS,2011,,,143364544.0,
+Russia,RUS,2012,,,143629360.0,
+Russia,RUS,2014,,,144285072.0,
+Senegal,SEN,1820,1578.67116257365,0.4590492,1008261.0,Maddison - extrapolated using average regional growth rate
+Senegal,SEN,2011,,,12875878.0,
+Senegal,SEN,2012,,,13231840.0,
+Senegal,SEN,2014,,,13970314.0,
+Seychelles,SYC,1820,1800.4068454088,0.5190016,12548.0,Maddison - extrapolated using average regional growth rate
+Seychelles,SYC,2011,,,93842.0,
+Seychelles,SYC,2012,,,95319.0,
+Seychelles,SYC,2014,,,98016.0,
+South Africa,ZAF,1820,1188.0,0.5190016,1584887.0,Maddison - original
+South Africa,ZAF,2011,,,52443320.0,
+South Africa,ZAF,2012,,,53145036.0,
+South Africa,ZAF,2014,,,54729556.0,
+Spain,ESP,1820,1600.0,0.3804,12230231.0,Maddison - original
+Spain,ESP,2011,,,46729232.0,
+Spain,ESP,2012,,,46756084.0,
+Spain,ESP,2014,,,46464548.0,
+Sweden,SWE,1820,1415.0,0.5544166,2579409.0,Maddison - original
+Sweden,SWE,2011,,,9467384.0,
+Sweden,SWE,2012,,,9555984.0,
+Sweden,SWE,2014,,,9747507.0,
+Switzerland,CHE,1820,1984.54685887814,0.4173431,1985184.0,Maddison - extrapolated using average regional growth rate
+Switzerland,CHE,2011,,,7910988.0,
+Switzerland,CHE,2012,,,7995738.0,
+Switzerland,CHE,2014,,,8187792.0,
+Turkey,TUR,1820,974.0,0.5771468,10105826.0,Maddison - original
+Turkey,TUR,2011,,,74173856.0,
+Turkey,TUR,2012,,,75277440.0,
+Turkey,TUR,2014,,,78112064.0,
+Uganda,UGA,1820,676.166401719424,0.5190016,2126967.0,Maddison - extrapolated using average regional growth rate
+Uganda,UGA,2011,,,33295738.0,
+Uganda,UGA,2012,,,34273296.0,
+Uganda,UGA,2014,,,36336544.0,
+United Kingdom,GBR,1820,3306.0,0.5927,20706854.0,Maddison - original
+United Kingdom,GBR,2011,,,63286360.0,
+United Kingdom,GBR,2012,,,63808728.0,
+United Kingdom,GBR,2014,,,64773504.0,
+United States,USA,1820,2674.0,0.5700726,9966626.0,Maddison - original
+United States,USA,2011,,,313876608.0,
+United States,USA,2012,,,316651328.0,
+United States,USA,2014,,,322033952.0,
+Uruguay,URY,1820,1983.0,0.47762336,55987.0,Maddison - original
+Uruguay,URY,2011,,,3361631.0,
+Uruguay,URY,2012,,,3371134.0,
+Uruguay,URY,2014,,,3391660.0,
+Uzbekistan,UZB,1820,508.998850488984,0.4556807,1929758.0,Maddison - extrapolated using average regional growth rate
+Uzbekistan,UZB,2011,,,29057456.0,
+Uzbekistan,UZB,2012,,,29503058.0,
+Uzbekistan,UZB,2014,,,30446542.0,
+Vietnam,VNM,1820,840.0,0.4928329,6444528.0,Maddison - original
+Vietnam,VNM,2011,,,88349104.0,
+Vietnam,VNM,2012,,,89301328.0,
+Vietnam,VNM,2014,,,91235504.0,

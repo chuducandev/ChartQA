@@ -1,0 +1,38 @@
+Entity,Code,Year,Life expectancy difference (f-m) - Type: period - Sex: both - Age: 0
+Australia,AUS,1940,4.709999
+Australia,AUS,1960,6.102997
+Australia,AUS,1980,7.1417007
+Australia,AUS,2000,5.327301
+Australia,AUS,2021,2.667801
+Ecuador,ECU,1960,3.2328987
+Ecuador,ECU,1980,4.315899
+Ecuador,ECU,2000,6.164299
+Ecuador,ECU,2021,7.2015
+Egypt,EGY,1960,3.7003021
+Egypt,EGY,1980,4.0158997
+Egypt,EGY,2000,4.198204
+Egypt,EGY,2021,4.672394
+Finland,FIN,1878,1.8599968
+Finland,FIN,1900,2.8300018
+Finland,FIN,1920,4.670002
+Finland,FIN,1940,19.320004
+Finland,FIN,1960,6.9886017
+Finland,FIN,1980,8.6104965
+Finland,FIN,2000,6.8676987
+Finland,FIN,2021,5.371895
+Land-locked Developing Countries (LLDC),,1960,4.0628014
+Land-locked Developing Countries (LLDC),,1980,4.601898
+Land-locked Developing Countries (LLDC),,2000,3.6785011
+Land-locked Developing Countries (LLDC),,2021,5.5410004
+"Less developed regions, excluding least developed countries",,1960,2.2416992
+"Less developed regions, excluding least developed countries",,1980,3.5634003
+"Less developed regions, excluding least developed countries",,2000,3.978302
+"Less developed regions, excluding least developed countries",,2021,4.8844986
+Somalia,SOM,1960,2.7873993
+Somalia,SOM,1980,2.8087997
+Somalia,SOM,2000,2.7943
+Somalia,SOM,2021,4.1681023
+Turkey,TUR,1960,5.882
+Turkey,TUR,1980,6.8081017
+Turkey,TUR,2000,6.6915054
+Turkey,TUR,2021,6.0815964

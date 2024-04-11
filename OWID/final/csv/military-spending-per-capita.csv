@@ -1,0 +1,49 @@
+Entity,Code,Year,military_expenditure_per_capita
+France,FRA,1988,540.34
+France,FRA,1990,631.31
+France,FRA,1995,694.16
+France,FRA,2000,481.29
+France,FRA,2005,727.13
+France,FRA,2010,827.68
+France,FRA,2015,708.23
+France,FRA,2020,808.09
+Germany,DEU,1988,421.88
+Germany,DEU,1990,503.89
+Germany,DEU,1995,477.49
+Germany,DEU,2000,325.52
+Germany,DEU,2005,371.62
+Germany,DEU,2010,532.32
+Germany,DEU,2015,466.7
+Germany,DEU,2020,629.77
+Russia,RUS,1988,867.41
+Russia,RUS,1990,763.13
+Russia,RUS,1995,85.96
+Russia,RUS,2000,63.03
+Russia,RUS,2005,190.27
+Russia,RUS,2010,409.26
+Russia,RUS,2015,458.13
+Russia,RUS,2020,422.88
+South Africa,ZAF,1988,121.45
+South Africa,ZAF,1990,118.6
+South Africa,ZAF,1995,79.46
+South Africa,ZAF,2000,42.07
+South Africa,ZAF,2005,74.5
+South Africa,ZAF,2010,81.77
+South Africa,ZAF,2015,62.99
+South Africa,ZAF,2020,53.13
+United Kingdom,GBR,1988,675.15
+United Kingdom,GBR,1990,762.15
+United Kingdom,GBR,1995,661.02
+United Kingdom,GBR,2000,667.71
+United Kingdom,GBR,2005,1022.65
+United Kingdom,GBR,2010,1008.18
+United Kingdom,GBR,2015,910.87
+United Kingdom,GBR,2020,872.62
+United States,USA,1988,1251.8
+United States,USA,1990,1289.58
+United States,USA,1995,1115.74
+United States,USA,2000,1136.22
+United States,USA,2005,1807.51
+United States,USA,2010,2388.28
+United States,USA,2015,1975.3
+United States,USA,2020,2351.14

@@ -1,0 +1,5 @@
+Entity,Code,Year,Number of people not in extreme poverty (OWID based on World Bank (2016) and Bourguignon and Morrisson (2002)),Number of people living in extreme poverty (OWID based on World Bank (2016) and Bourguignon and Morrisson (2002))
+World,OWID_WRL,1820,117436202.1,964925107.9
+World,OWID_WRL,1850,164148669.6,1098533404.0
+World,OWID_WRL,1950,923580000.0,1596420000.0
+World,OWID_WRL,2015,6615994784.0,733477315.5

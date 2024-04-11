@@ -1,0 +1,7 @@
+Entity,Code,Year,Life expectancy - Format: 1x1 - Type: period - Sex: both - Age: 0,Life expectancy - Format: 1x1 - Type: cohort - Sex: both - Age: 0
+France,FRA,1816,40.1,38.69
+France,FRA,1850,43.31,42.09
+France,FRA,1900,45.1,51.87
+France,FRA,1950,66.38,
+France,FRA,2000,79.05,
+France,FRA,2021,82.33,

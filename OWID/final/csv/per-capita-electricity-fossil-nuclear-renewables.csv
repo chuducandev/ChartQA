@@ -1,0 +1,13 @@
+Entity,Code,Year,Fossil fuel electricity per capita - kWh (adapted for visualization of chart per-capita-electricity-fossil-nuclear-renewables),Nuclear electricity per capita - kWh (adapted for visualization of chart per-capita-electricity-fossil-nuclear-renewables),Renewable electricity per capita - kWh (adapted for visualization of chart per-capita-electricity-fossil-nuclear-renewables)
+Australia,AUS,2022,6978.9185,0.0,3470.9316
+Brazil,BRA,2022,344.28867,67.52944,2750.501
+China,CHN,2022,4040.116,293.01053,1872.6444
+France,FRA,2022,886.322,4609.2456,1787.3439
+Germany,DEU,2022,3370.0435,430.1316,2923.4792
+India,IND,2022,1009.70026,32.593052,268.75333
+Japan,JPN,2022,6089.8726,417.6627,1830.7938
+South Africa,ZAF,2022,3074.2708,168.13068,324.07315
+Sweden,SWE,2022,289.11734,4872.3384,11162.774
+United Kingdom,GBR,2022,2124.4595,706.8694,1998.9945
+United States,USA,2022,7559.257,2280.7068,2832.3345
+World,OWID_WRL,2022,2201.8481,330.03076,1061.9271

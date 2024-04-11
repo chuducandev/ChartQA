@@ -1,0 +1,33 @@
+Entity,Code,Year,Share of car stocks that are electric
+Chile,CHL,2012,0.00047
+Chile,CHL,2014,0.0012
+Chile,CHL,2016,0.0035
+Chile,CHL,2018,0.013
+Chile,CHL,2020,0.026
+Chile,CHL,2022,0.082
+China,CHN,2010,0.003
+China,CHN,2012,0.019
+China,CHN,2014,0.069
+China,CHN,2016,0.38
+China,CHN,2018,1.1
+China,CHN,2020,1.8
+China,CHN,2022,4.9
+European Union (27),,2010,0.0014
+European Union (27),,2012,0.014
+European Union (27),,2014,0.06
+European Union (27),,2016,0.17
+European Union (27),,2018,0.33
+European Union (27),,2020,0.86
+European Union (27),,2022,2.3
+South Africa,ZAF,2014,0.0008
+South Africa,ZAF,2016,0.01
+South Africa,ZAF,2018,0.015
+South Africa,ZAF,2020,0.022
+South Africa,ZAF,2022,0.032
+World,OWID_WRL,2010,0.002
+World,OWID_WRL,2012,0.02
+World,OWID_WRL,2014,0.072
+World,OWID_WRL,2016,0.19
+World,OWID_WRL,2018,0.45
+World,OWID_WRL,2020,0.83
+World,OWID_WRL,2022,2.1

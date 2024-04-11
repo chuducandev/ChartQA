@@ -1,0 +1,82 @@
+Entity,Code,Year,Gender Inequality Index
+Armenia,ARM,1990,0.47
+Armenia,ARM,1995,0.469
+Armenia,ARM,2000,0.453
+Armenia,ARM,2005,0.386
+Armenia,ARM,2010,0.346
+Armenia,ARM,2015,0.309
+Armenia,ARM,2021,0.216
+Benin,BEN,1990,0.694
+Benin,BEN,1995,0.68
+Benin,BEN,2000,0.673
+Benin,BEN,2005,0.654
+Benin,BEN,2010,0.619
+Benin,BEN,2015,0.622
+Benin,BEN,2021,0.602
+Bosnia and Herzegovina,BIH,2005,0.271
+Bosnia and Herzegovina,BIH,2010,0.222
+Bosnia and Herzegovina,BIH,2015,0.165
+Bosnia and Herzegovina,BIH,2021,0.136
+Central African Republic,CAF,1990,0.751
+Central African Republic,CAF,1995,0.743
+Central African Republic,CAF,2000,0.71
+Central African Republic,CAF,2005,0.694
+Central African Republic,CAF,2010,0.701
+Central African Republic,CAF,2015,0.68
+Central African Republic,CAF,2021,0.672
+East Timor,TLS,2005,0.52
+East Timor,TLS,2010,0.453
+East Timor,TLS,2015,0.397
+East Timor,TLS,2021,0.378
+Malta,MLT,1990,0.318
+Malta,MLT,1995,0.303
+Malta,MLT,2000,0.299
+Malta,MLT,2005,0.285
+Malta,MLT,2010,0.264
+Malta,MLT,2015,0.19
+Malta,MLT,2021,0.167
+Myanmar,MMR,2010,0.555
+Myanmar,MMR,2015,0.493
+Myanmar,MMR,2021,0.498
+Nepal,NPL,1990,0.726
+Nepal,NPL,1995,0.709
+Nepal,NPL,2000,0.663
+Nepal,NPL,2005,0.643
+Nepal,NPL,2010,0.518
+Nepal,NPL,2015,0.495
+Nepal,NPL,2021,0.452
+Russia,RUS,1990,0.447
+Russia,RUS,1995,0.455
+Russia,RUS,2000,0.403
+Russia,RUS,2005,0.364
+Russia,RUS,2010,0.307
+Russia,RUS,2015,0.253
+Russia,RUS,2021,0.203
+Sweden,SWE,1990,0.101
+Sweden,SWE,1995,0.075
+Sweden,SWE,2000,0.06
+Sweden,SWE,2005,0.047
+Sweden,SWE,2010,0.052
+Sweden,SWE,2015,0.039
+Sweden,SWE,2021,0.023
+Thailand,THA,1990,0.437
+Thailand,THA,1995,0.428
+Thailand,THA,2000,0.406
+Thailand,THA,2005,0.394
+Thailand,THA,2010,0.378
+Thailand,THA,2015,0.416
+Thailand,THA,2021,0.333
+Tunisia,TUN,1990,0.558
+Tunisia,TUN,1995,0.502
+Tunisia,TUN,2000,0.394
+Tunisia,TUN,2005,0.317
+Tunisia,TUN,2010,0.29
+Tunisia,TUN,2015,0.283
+Tunisia,TUN,2021,0.259
+Vietnam,VNM,1990,0.41
+Vietnam,VNM,1995,0.384
+Vietnam,VNM,2000,0.328
+Vietnam,VNM,2005,0.3
+Vietnam,VNM,2010,0.315
+Vietnam,VNM,2015,0.316
+Vietnam,VNM,2021,0.296

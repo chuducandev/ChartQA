@@ -1,0 +1,27 @@
+Entity,Code,Year,participdem_vdem_owid,region
+Africa,,2022,0.23414285,World
+Angola,AGO,2022,0.112,Africa
+Armenia,ARM,2022,0.401,Asia
+Asia,,2022,0.19726531,World
+Australia,AUS,2022,0.614,Oceania
+Bangladesh,BGD,2022,0.127,Asia
+Barbados,BRB,2022,0.331,North America
+Benin,BEN,2022,0.266,Africa
+Bulgaria,BGR,2022,0.486,Europe
+Chad,TCD,2022,0.087,Africa
+Cote d'Ivoire,CIV,2022,0.304,Africa
+Eritrea,ERI,2022,0.011,Africa
+Europe,,2022,0.5078537,World
+Guinea,GIN,2022,0.17,Africa
+Iraq,IRQ,2022,0.195,Asia
+Japan,JPN,2022,0.537,Asia
+Lebanon,LBN,2022,0.248,Asia
+North America,,2022,0.37346667,World
+Oceania,,2022,0.43716666,World
+Panama,PAN,2022,0.432,North America
+Sierra Leone,SLE,2022,0.362,Africa
+South America,,2022,0.44858333,World
+South Sudan,SSD,2022,0.05,Africa
+Switzerland,CHE,2022,0.801,Europe
+United States,USA,2022,0.582,North America
+World,OWID_WRL,2022,0.31959775,World

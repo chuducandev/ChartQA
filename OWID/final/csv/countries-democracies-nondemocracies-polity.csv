@@ -1,0 +1,7 @@
+Entity,Code,Year,number_aut_polity,number_ano_polity,number_dem_polity
+World,OWID_WRL,1800,19,3,0
+World,OWID_WRL,1850,24,28,3
+World,OWID_WRL,1900,12,31,11
+World,OWID_WRL,1950,28,26,23
+World,OWID_WRL,2000,31,49,81
+World,OWID_WRL,2018,21,46,99

@@ -1,0 +1,5 @@
+Entity,Code,Year,Estimated number of farmed fish,Estimated number of farmed fish (upper bound),Estimated number of farmed fish (lower bound)
+China,CHN,2017,49960415000.0,76074340000.0,23846494000.0
+India,IND,2017,8428985300.0,14245214000.0,2612757000.0
+United States,USA,2017,413707740.0,583182400.0,244233100.0
+World,OWID_WRL,2017,90301550000.0,138356240000.0,42246853000.0

@@ -1,0 +1,52 @@
+Entity,Code,Year,"Borrowed from a financial institution, income, poorest 40% (% ages 15+) [w2]","Borrowed from a financial institution, income, richest 60% (% ages 15+) [w2]",Population (historical estimates),World Bank's income classification
+Argentina,ARG,2014,4.551112,10.85058,42824064.0,High-income countries
+Austria,AUT,2014,15.76218,11.59516,8546066.0,High-income countries
+Azerbaijan,AZE,2014,18.02583,19.45295,9741879.0,Upper-middle-income countries
+Belarus,BLR,2014,13.14826,14.86332,9693741.0,Upper-middle-income countries
+Bolivia,BOL,2014,10.54343,25.63173,10916991.0,Lower-middle-income countries
+Brazil,BRA,2014,7.472695,14.93732,203459648.0,Upper-middle-income countries
+Canada,CAN,2014,24.8209,28.54262,35404616.0,High-income countries
+Chile,CHL,2014,13.05205,17.35209,17687108.0,High-income countries
+China,CHN,2014,5.8807,12.0505,1385189632.0,Upper-middle-income countries
+Colombia,COL,2014,6.390322,21.85477,46677944.0,Upper-middle-income countries
+Czechia,CZE,2014,14.13785,12.21701,10517178.0,High-income countries
+Denmark,DNK,2014,20.72966,22.25223,5650654.0,High-income countries
+Finland,FIN,2014,17.54777,24.34989,5461436.0,High-income countries
+France,FRA,2014,14.79834,15.32364,63588496.0,High-income countries
+Germany,DEU,2014,16.64618,19.92213,81858824.0,High-income countries
+Ghana,GHA,2014,5.861041,9.612953,28196356.0,Lower-middle-income countries
+High-income countries,,2014,,,1183328941.0,
+Hungary,HUN,2014,9.4862,8.06978,9867906.0,High-income countries
+India,IND,2014,4.930196,7.304369,1307246464.0,Lower-middle-income countries
+Indonesia,IDN,2014,11.32961,14.34594,256229760.0,Lower-middle-income countries
+Iran,IRN,2014,24.41693,36.42504,79961672.0,Upper-middle-income countries
+Israel,ISR,2014,39.57557,41.12975,7863849.0,High-income countries
+Japan,JPN,2014,8.079206,7.862332,127476728.0,High-income countries
+Kenya,KEN,2014,10.63235,17.82951,45831860.0,Lower-middle-income countries
+Latvia,LVA,2014,13.20596,19.23234,2011040.0,High-income countries
+Low-income countries,,2014,,,579035766.0,
+Lower-middle-income countries,,2014,,,3099123675.0,
+Malawi,MWI,2014,3.57785,7.701871,16477972.0,Low-income countries
+Malaysia,MYS,2014,15.23419,22.37022,30606454.0,Upper-middle-income countries
+Mauritius,MUS,2014,11.14726,20.96769,1292112.0,Upper-middle-income countries
+Mongolia,MNG,2014,33.36338,37.2458,2902826.0,Upper-middle-income countries
+Montenegro,MNE,2014,21.57876,24.84172,634301.0,Upper-middle-income countries
+New Zealand,NZL,2014,29.06278,35.02388,4514198.0,High-income countries
+Nigeria,NGA,2014,6.504346,4.43488,179379024.0,Lower-middle-income countries
+Norway,NOR,2014,27.21924,30.94852,5137926.0,High-income countries
+Pakistan,PAK,2014,2.017888,1.141659,208251632.0,Lower-middle-income countries
+Puerto Rico,PRI,2014,6.138899,14.83914,3560008.0,High-income countries
+Rwanda,RWA,2014,2.610797,12.13244,11368450.0,Low-income countries
+Saudi Arabia,SAU,2014,9.038324,14.54109,32125570.0,High-income countries
+South Africa,ZAF,2014,4.294285,17.51694,54729556.0,Upper-middle-income countries
+South Korea,KOR,2014,13.15203,21.72112,50558044.0,High-income countries
+Spain,ESP,2014,15.15422,20.02704,46464548.0,High-income countries
+Sudan,SDN,2014,3.265574,4.81391,37003248.0,Lower-middle-income countries
+Thailand,THA,2014,16.22192,14.83187,69960944.0,Upper-middle-income countries
+United States,USA,2014,23.22985,23.26603,322033952.0,High-income countries
+Upper-middle-income countries,,2014,,,2444604237.0,
+Venezuela,VEN,2014,0.0,3.344115,30193260.0,High-income countries
+Vietnam,VNM,2014,19.87928,17.43497,91235504.0,Lower-middle-income countries
+World,OWID_WRL,2014,8.691916,12.0429,7339013632.0,
+Yemen,YEM,2014,0.1954022,0.5757654,27753310.0,Lower-middle-income countries
+Zambia,ZMB,2014,1.924404,6.792763,15737796.0,Lower-middle-income countries

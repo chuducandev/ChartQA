@@ -1,0 +1,29 @@
+Entity,Code,Year,Country where conflict took place - Conflict type: all
+China,CHN,1989,1
+China,CHN,1995,0
+China,CHN,2000,0
+China,CHN,2005,0
+China,CHN,2010,0
+China,CHN,2015,1
+China,CHN,2022,1
+Russia,RUS,1989,0
+Russia,RUS,1995,1
+Russia,RUS,2000,1
+Russia,RUS,2005,1
+Russia,RUS,2010,1
+Russia,RUS,2015,1
+Russia,RUS,2022,1
+United Kingdom,GBR,1989,1
+United Kingdom,GBR,1995,0
+United Kingdom,GBR,2000,0
+United Kingdom,GBR,2005,1
+United Kingdom,GBR,2010,0
+United Kingdom,GBR,2015,0
+United Kingdom,GBR,2022,0
+United States,USA,1989,0
+United States,USA,1995,0
+United States,USA,2000,0
+United States,USA,2005,0
+United States,USA,2010,1
+United States,USA,2015,1
+United States,USA,2022,1

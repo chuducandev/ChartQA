@@ -1,0 +1,33 @@
+Entity,Code,Year,State involved in conflict - Conflict type: state-based
+China,CHN,1946,1
+China,CHN,1960,0
+China,CHN,1970,0
+China,CHN,1980,1
+China,CHN,1990,0
+China,CHN,2000,0
+China,CHN,2010,0
+China,CHN,2022,0
+Russia,RUS,1946,1
+Russia,RUS,1960,0
+Russia,RUS,1970,0
+Russia,RUS,1980,1
+Russia,RUS,1990,1
+Russia,RUS,2000,1
+Russia,RUS,2010,1
+Russia,RUS,2022,1
+United Kingdom,GBR,1946,1
+United Kingdom,GBR,1960,1
+United Kingdom,GBR,1970,1
+United Kingdom,GBR,1980,1
+United Kingdom,GBR,1990,1
+United Kingdom,GBR,2000,0
+United Kingdom,GBR,2010,0
+United Kingdom,GBR,2022,0
+United States,USA,1946,0
+United States,USA,1960,0
+United States,USA,1970,1
+United States,USA,1980,0
+United States,USA,1990,0
+United States,USA,2000,0
+United States,USA,2010,1
+United States,USA,2022,0

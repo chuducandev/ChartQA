@@ -1,0 +1,55 @@
+Entity,Code,Year,Cumulative number of objects launched into outer space
+China,CHN,1970,1
+China,CHN,1990,32
+China,CHN,2000,79
+China,CHN,2010,183
+China,CHN,2023,1051
+European Space Agency,,1990,31
+European Space Agency,,2000,45
+European Space Agency,,2010,71
+European Space Agency,,2023,104
+France,FRA,1970,8
+France,FRA,1990,29
+France,FRA,2010,71
+France,FRA,2023,151
+Germany,DEU,1970,2
+Germany,DEU,1990,19
+Germany,DEU,2000,38
+Germany,DEU,2010,64
+Germany,DEU,2023,120
+India,IND,1980,3
+India,IND,1990,15
+India,IND,2000,29
+India,IND,2010,56
+India,IND,2023,144
+Japan,JPN,1970,1
+Japan,JPN,1980,20
+Japan,JPN,1990,52
+Japan,JPN,2000,84
+Japan,JPN,2010,156
+Japan,JPN,2023,325
+Russia,RUS,1957,2
+Russia,RUS,1970,494
+Russia,RUS,1980,1550
+Russia,RUS,1990,2677
+Russia,RUS,2000,3118
+Russia,RUS,2010,3336
+Russia,RUS,2023,3723
+United Kingdom,GBR,1970,6
+United Kingdom,GBR,1990,26
+United Kingdom,GBR,2000,36
+United Kingdom,GBR,2010,52
+United Kingdom,GBR,2023,765
+United States,USA,1970,680
+United States,USA,1980,960
+United States,USA,1990,1191
+United States,USA,2000,1711
+United States,USA,2010,2027
+United States,USA,2023,9632
+World,OWID_WRL,1957,2
+World,OWID_WRL,1970,1212
+World,OWID_WRL,1980,2639
+World,OWID_WRL,1990,4145
+World,OWID_WRL,2000,5405
+World,OWID_WRL,2010,6381
+World,OWID_WRL,2023,17263

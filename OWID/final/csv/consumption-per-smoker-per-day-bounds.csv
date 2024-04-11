@@ -1,0 +1,9 @@
+Entity,Code,Year,"Cigarette consumption per smoker per day (IHME, GHDx (2012))","Consumption per smoker per day upper bound (IHME, GHDx (2012))","Consumption per smoker per day lower bound (IHME, GHDx (2012))"
+Brazil,BRA,1980,39.599998,52.200001,30.0
+Brazil,BRA,1985,36.900002,46.299999,29.200001
+Brazil,BRA,1990,34.0,42.0,27.6
+Brazil,BRA,1995,32.799999,40.700001,26.6
+Brazil,BRA,2000,30.4,36.900002,25.200001
+Brazil,BRA,2005,29.200001,34.900002,24.5
+Brazil,BRA,2010,25.0,30.5,20.0
+Brazil,BRA,2012,22.799999,28.700001,17.700001

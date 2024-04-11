@@ -1,0 +1,69 @@
+Entity,Code,Year,Gender Development Index
+Bulgaria,BGR,1990,0.976
+Bulgaria,BGR,1995,0.99
+Bulgaria,BGR,2000,0.976
+Bulgaria,BGR,2005,0.978
+Bulgaria,BGR,2010,0.992
+Bulgaria,BGR,2015,0.992
+Bulgaria,BGR,2021,0.995
+Central African Republic,CAF,1990,0.738
+Central African Republic,CAF,1995,0.744
+Central African Republic,CAF,2000,0.743
+Central African Republic,CAF,2005,0.746
+Central African Republic,CAF,2010,0.776
+Central African Republic,CAF,2015,0.788
+Central African Republic,CAF,2021,0.81
+Low human development (UNDP),,2000,0.754
+Low human development (UNDP),,2005,0.782
+Low human development (UNDP),,2010,0.818
+Low human development (UNDP),,2015,0.842
+Low human development (UNDP),,2021,0.864
+Mali,MLI,1990,0.712
+Mali,MLI,1995,0.739
+Mali,MLI,2000,0.769
+Mali,MLI,2005,0.806
+Mali,MLI,2010,0.867
+Mali,MLI,2015,0.869
+Mali,MLI,2021,0.887
+Malta,MLT,1990,0.882
+Malta,MLT,1995,0.893
+Malta,MLT,2000,0.916
+Malta,MLT,2005,0.923
+Malta,MLT,2010,0.934
+Malta,MLT,2015,0.968
+Malta,MLT,2021,0.98
+Morocco,MAR,1990,0.721
+Morocco,MAR,1995,0.742
+Morocco,MAR,2000,0.779
+Morocco,MAR,2005,0.806
+Morocco,MAR,2010,0.829
+Morocco,MAR,2015,0.844
+Morocco,MAR,2021,0.861
+Norway,NOR,1990,0.979
+Norway,NOR,1995,0.978
+Norway,NOR,2000,0.988
+Norway,NOR,2005,0.989
+Norway,NOR,2010,0.996
+Norway,NOR,2015,0.993
+Norway,NOR,2021,0.983
+Romania,ROU,1990,0.947
+Romania,ROU,1995,0.96
+Romania,ROU,2000,0.962
+Romania,ROU,2005,0.974
+Romania,ROU,2010,0.986
+Romania,ROU,2015,0.975
+Romania,ROU,2021,0.994
+United Kingdom,GBR,1990,0.97
+United Kingdom,GBR,1995,0.97
+United Kingdom,GBR,2000,0.974
+United Kingdom,GBR,2005,0.975
+United Kingdom,GBR,2010,0.964
+United Kingdom,GBR,2015,0.969
+United Kingdom,GBR,2021,0.987
+Vietnam,VNM,1990,0.934
+Vietnam,VNM,1995,0.947
+Vietnam,VNM,2000,0.952
+Vietnam,VNM,2005,0.967
+Vietnam,VNM,2010,0.992
+Vietnam,VNM,2015,1.004
+Vietnam,VNM,2021,1.002

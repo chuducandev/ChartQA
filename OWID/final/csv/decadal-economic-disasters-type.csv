@@ -1,0 +1,12 @@
+Entity,Code,Year,Total economic damages from natural disasters as a share of GDP - Drought (decadal),Total economic damages from natural disasters as a share of GDP - Flood (decadal),Total economic damages from natural disasters as a share of GDP - Earthquake (decadal),Total economic damages from natural disasters as a share of GDP - Extreme weather (decadal),Total economic damages from natural disasters as a share of GDP - Extreme temperature (decadal),Total economic damages from natural disasters as a share of GDP - Volcanic activity (decadal),Total economic damages from natural disasters as a share of GDP - Landslide (decadal),Total economic damages from natural disasters as a share of GDP - Wildfire (decadal),Total economic damages from natural disasters as a share of GDP - Glacial lake outburst (decadal),Total economic damages from natural disasters as a share of GDP - Dry mass movement (decadal),Total economic damages from natural disasters as a share of GDP - Fog (decadal)
+World,OWID_WRL,1920,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
+World,OWID_WRL,1930,0.0,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0
+World,OWID_WRL,1940,0.0,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0
+World,OWID_WRL,1950,0.0,,,,0.0,0.0,0.0,0.0,0.0,0.0,0
+World,OWID_WRL,1960,0.0042503304,0.023313202,0.028054742,0.039594512,0.0,9.112035e-05,1.2477476e-07,0.00030653726,0.0,0.0012898664,0
+World,OWID_WRL,1970,0.008100753,0.017666932,0.028990883,0.031500325,0.0051942454,9.005298e-05,0.00021170567,0.00034753163,0.0,0.0,0
+World,OWID_WRL,1980,0.011999776,0.028745336,0.043388467,0.03400688,0.0030271881,0.0019226327,0.0020442284,0.002876739,0.0,5.776922e-07,0
+World,OWID_WRL,1990,0.014531151,0.07255213,0.064987965,0.07868581,0.0036657408,0.0001508522,0.0011132194,0.00663194,0.0,0.0,0
+World,OWID_WRL,2000,0.0056561986,0.038122036,0.032909885,0.097846955,0.007272424,3.715363e-05,0.00029515472,0.0048437654,0.0,0.0,0
+World,OWID_WRL,2010,0.011887271,0.051233567,0.055178937,0.09346766,0.00092061993,0.00021767119,0.00047011478,0.0074605625,0.0,1.0308324e-06,0
+World,OWID_WRL,2020,0.012959334,0.06958169,0.014586277,0.12313872,0.0029011613,0.00073557213,0.00020589183,0.011357733,7.252903e-05,0.0,0

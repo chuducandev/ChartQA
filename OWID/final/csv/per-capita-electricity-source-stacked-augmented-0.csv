@@ -1,0 +1,9 @@
+Entity,Code,Year,Coal electricity per capita - kWh (adapted for visualization of chart per-capita-electricity-source-stacked),Gas electricity per capita - kWh (adapted for visualization of chart per-capita-electricity-source-stacked),Oil electricity per capita - kWh (adapted for visualization of chart per-capita-electricity-source-stacked),Nuclear electricity per capita - kWh (adapted for visualization of chart per-capita-electricity-source-stacked),Hydro electricity per capita - kWh (adapted for visualization of chart per-capita-electricity-source-stacked),Wind electricity per capita - kWh (adapted for visualization of chart per-capita-electricity-source-stacked),Solar electricity per capita - kWh (adapted for visualization of chart per-capita-electricity-source-stacked),Bioenergy electricity per capita - kWh (adapted for visualization of chart per-capita-electricity-source-stacked),Other renewable electricity excluding bioenergy per capita - kWh (adapted for visualization of chart per-capita-electricity-source-stacked)
+Colombia,COL,2022,82.70034,245.40218,59.760155,0.0,1195.3959,1.3494229,9.44596,35.27777,0.0
+Costa Rica,CRI,2022,0.0,0.0,48.25476,0.0,1795.077,262.5059,11.581142,3.860381,316.55124
+Georgia,GEO,2022,0.0,905.35565,0.0,0.0,2876.3071,21.365324,0.0,0.0,0.0
+Malaysia,MYS,2022,2250.855,2013.9537,51.858944,0.0,905.17426,0.0,80.14564,33.885105,0.0
+Portugal,PRT,2022,5.8417716,1697.0345,144.09703,0.0,738.98413,1292.9788,296.9567,375.82065,17.525314
+Romania,ROU,2022,523.4172,499.50986,46.288597,565.1278,712.13226,354.54013,89.52519,31.537285,0.0
+Upper-middle-income countries,,2022,2398.883,554.67755,35.175453,276.16473,900.8864,367.02078,202.78156,0.0,0.0
+World,OWID_WRL,2022,1280.5123,807.9643,113.37155,330.03076,537.74713,263.1263,164.26367,84.652176,12.137772

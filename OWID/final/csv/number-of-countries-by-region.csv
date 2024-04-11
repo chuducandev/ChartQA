@@ -1,0 +1,46 @@
+Entity,Code,Year,Number of states in a region,Number of states in a region.1,Number of states in a region.2
+Africa,,1816,75,5.0,0.0
+Africa,,1850,80,4.0,2.0
+Africa,,1900,20,5.0,2.0
+Africa,,1950,3,3.0,3.0
+Africa,,2000,52,52.0,52.0
+Africa,,2007,52,52.0,52.0
+Africa,,2017,53,53.0,53.0
+Africa,,2020,53,53.0,53.0
+Africa,,2022,53,53.0,53.0
+Americas,,1816,5,4.0,1.0
+Americas,,1850,20,19.0,10.0
+Americas,,1900,19,20.0,18.0
+Americas,,1950,22,22.0,22.0
+Americas,,2000,35,35.0,35.0
+Americas,,2007,35,35.0,35.0
+Americas,,2017,35,35.0,35.0
+Americas,,2020,35,35.0,35.0
+Americas,,2022,35,35.0,35.0
+Asia and Oceania,,1816,85,8.0,0.0
+Asia and Oceania,,1850,48,8.0,0.0
+Asia and Oceania,,1900,16,5.0,4.0
+Asia and Oceania,,1950,17,18.0,16.0
+Asia and Oceania,,2000,43,43.0,43.0
+Asia and Oceania,,2007,44,44.0,44.0
+Asia and Oceania,,2017,44,44.0,44.0
+Asia and Oceania,,2020,44,44.0,44.0
+Asia and Oceania,,2022,44,44.0,44.0
+Europe,,1816,50,29.0,21.0
+Europe,,1850,51,31.0,26.0
+Europe,,1900,19,23.0,16.0
+Europe,,1950,25,31.0,24.0
+Europe,,2000,46,46.0,46.0
+Europe,,2007,47,47.0,47.0
+Europe,,2017,48,50.0,48.0
+Europe,,2020,48,50.0,48.0
+Europe,,2022,48,50.0,48.0
+Middle East,,1816,5,3.0,1.0
+Middle East,,1850,10,4.0,1.0
+Middle East,,1900,4,3.0,2.0
+Middle East,,1950,10,11.0,10.0
+Middle East,,2000,15,15.0,15.0
+Middle East,,2007,15,15.0,15.0
+Middle East,,2017,15,15.0,15.0
+Middle East,,2020,15,15.0,15.0
+Middle East,,2022,15,15.0,15.0

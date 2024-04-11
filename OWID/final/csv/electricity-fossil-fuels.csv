@@ -1,0 +1,55 @@
+Entity,Code,Year,Electricity from fossil fuels - TWh
+Canada,CAN,1985,93.03
+Canada,CAN,1990,108.342
+Canada,CAN,1995,117.882904
+Canada,CAN,2000,155.65
+Canada,CAN,2005,150.88
+Canada,CAN,2010,130.32
+Canada,CAN,2015,125.85
+Canada,CAN,2020,102.36
+Canada,CAN,2022,111.07
+Germany,DEU,1985,350.46002
+Germany,DEU,1990,375.24997
+Germany,DEU,1995,353.79
+Germany,DEU,2000,363.93
+Germany,DEU,2005,384.78
+Germany,DEU,2010,376.99
+Germany,DEU,2015,358.09
+Germany,DEU,2020,250.02
+Germany,DEU,2022,280.96
+Japan,JPN,1985,411.23755
+Japan,JPN,1990,579.75256
+Japan,JPN,1995,618.4401
+Japan,JPN,2000,679.52
+Japan,JPN,2005,757.24
+Japan,JPN,2010,745.44
+Japan,JPN,2015,871.58
+Japan,JPN,2020,758.79
+Japan,JPN,2022,754.85
+Spain,ESP,1985,64.866
+Spain,ESP,1990,70.91
+Spain,ESP,1995,85.76
+Spain,ESP,2000,124.22
+Spain,ESP,2005,184.65
+Spain,ESP,2010,138.39
+Spain,ESP,2015,123.19
+Spain,ESP,2020,87.64
+Spain,ESP,2022,106.29
+United Kingdom,GBR,1985,228.366
+United Kingdom,GBR,1990,246.19
+United Kingdom,GBR,1995,236.65
+United Kingdom,GBR,2000,282.09
+United Kingdom,GBR,2005,299.8
+United Kingdom,GBR,2010,293.74
+United Kingdom,GBR,2015,185.17
+United Kingdom,GBR,2020,127.24
+United Kingdom,GBR,2022,143.42
+United States,USA,1985,1929.3295
+United States,USA,1990,2261.9565
+United States,USA,1995,2466.5684
+United States,USA,2000,2697.28
+United States,USA,2005,2899.96
+United States,USA,2010,2882.49
+United States,USA,2015,2730.32
+United States,USA,2020,2431.9
+United States,USA,2022,2557.22

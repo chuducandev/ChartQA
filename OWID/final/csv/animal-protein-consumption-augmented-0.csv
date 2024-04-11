@@ -1,0 +1,10 @@
+Entity,Code,Year,"Meat, poultry | 00002734 || Food available for consumption | 0674pc || grams of protein per day per capita","Meat, pig | 00002733 || Food available for consumption | 0674pc || grams of protein per day per capita","Meat, beef | 00002731 || Food available for consumption | 0674pc || grams of protein per day per capita","Meat, sheep and goat | 00002732 || Food available for consumption | 0674pc || grams of protein per day per capita","Meat, Other | 00002735 || Food available for consumption | 0674pc || grams of protein per day per capita",All egg products | 00002744 || Food available for consumption | 0674pc || grams of protein per day per capita,Milk - Excluding Butter | 00002848 || Food available for consumption | 0674pc || grams of protein per day per capita,Fish and seafood | 00002960 || Food available for consumption | 0674pc || grams of protein per day per capita
+Australia,AUS,2020,16.768099,5.701948,13.986661,3.576135,0.3874146,2.2648854,21.595882,5.9900265
+Chad,TCD,2020,0.15789628,0.04934259,11.309321,6.8487515,0.33552963,0.05921111,2.0625203,2.852002
+Estonia,EST,2020,7.134355,9.22976,3.4923418,0.1496718,0.079824954,3.5821447,38.874752,3.7018821
+High-income countries,,2020,13.4564705,9.053971,7.739184,0.5869151,0.54215807,4.3645387,19.439323,7.834202
+Iraq,IRQ,2020,1.6213375,0.07296019,0.90794903,0.518828,0.3242675,0.64042836,3.3318489,0.8187755
+Low-income countries,,2020,0.92885447,0.5016647,1.5228245,1.0227476,0.50059724,0.31341037,3.2903466,1.555153
+Northern Europe (FAO),,2020,12.4,7.62,6.56,1.07,0.85,3.65,22.8,7.02
+Qatar,QAT,2020,19.73658,0.38617316,4.258342,4.4879584,0.17743091,4.84282,9.883945,5.6673517
+World,OWID_WRL,2020,5.6037397,4.2497497,3.429449,0.74123544,0.34590986,3.132955,8.825644,5.57409

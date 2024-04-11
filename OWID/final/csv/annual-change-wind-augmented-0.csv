@@ -1,0 +1,32 @@
+Entity,Code,Year,Wind (TWh growth - equivalent)
+Argentina,ARG,2000,-6.777793e-05
+Argentina,ARG,2010,-0.032494448
+Argentina,ARG,2022,3.0752602
+CIS (EI),,2000,0.0056182775
+CIS (EI),,2010,-0.0041165277
+CIS (EI),,2022,6.269887
+Chile,CHL,2000,0.0
+Chile,CHL,2010,0.68230414
+Chile,CHL,2022,4.457163
+Croatia,HRV,2000,0.0
+Croatia,HRV,2010,0.23471804
+Croatia,HRV,2022,0.5987625
+Philippines,PHL,1966,0.0
+Philippines,PHL,1970,0.0
+Philippines,PHL,1980,0.0
+Philippines,PHL,1990,0.0
+Philippines,PHL,2000,0.0
+Philippines,PHL,2010,-0.008628607
+Philippines,PHL,2022,-0.792696
+Russia,RUS,2000,0.0056182775
+Russia,RUS,2010,0.0010062782
+Russia,RUS,2022,4.189011
+United States,USA,1990,2.0207796
+United States,USA,2000,3.3012638
+United States,USA,2010,56.941483
+United States,USA,2022,145.4483
+Western Africa (EI),,1980,0.0
+Western Africa (EI),,1990,0.0
+Western Africa (EI),,2000,0.00029569492
+Western Africa (EI),,2010,-0.005142251
+Western Africa (EI),,2022,-0.009713769

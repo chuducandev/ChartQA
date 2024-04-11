@@ -1,0 +1,19 @@
+Entity,Code,Year,efficiency_lighting_uk
+Candles,,1700,28
+Candles,,1750,29
+Candles,,1800,37
+Candles,,1850,76
+Candles,,1900,80
+Electricity,,1900,1310
+Electricity,,1950,11660
+Electricity,,2000,25000
+Gas,,1800,68
+Gas,,1850,186
+Gas,,1900,497
+Gas,,1950,887
+Kerosene,,1850,112
+Kerosene,,1900,246
+Whale Oil,,1700,10
+Whale Oil,,1750,21
+Whale Oil,,1800,56
+Whale Oil,,1850,76

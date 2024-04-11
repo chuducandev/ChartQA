@@ -1,0 +1,36 @@
+Entity,Code,Year,Electricity from nuclear - TWh
+France,FRA,1965,0.897
+France,FRA,1970,5.711
+France,FRA,1980,61.251
+France,FRA,1990,314.08
+France,FRA,2000,415.16
+France,FRA,2010,428.52
+France,FRA,2022,297.88
+Germany,DEU,1965,0.117
+Germany,DEU,1970,6.494
+Germany,DEU,1980,55.589
+Germany,DEU,1990,152.47
+Germany,DEU,2000,169.61
+Germany,DEU,2010,140.56
+Germany,DEU,2022,35.86
+Japan,JPN,1965,0.025
+Japan,JPN,1970,4.581
+Japan,JPN,1980,82.591
+Japan,JPN,1990,194.57127
+Japan,JPN,2000,319.12
+Japan,JPN,2010,292.35
+Japan,JPN,2022,51.77
+Sweden,SWE,1965,0.018
+Sweden,SWE,1970,0.056
+Sweden,SWE,1980,26.488
+Sweden,SWE,1990,68.18
+Sweden,SWE,2000,57.32
+Sweden,SWE,2010,57.83
+Sweden,SWE,2022,51.4
+United Kingdom,GBR,1965,15.135
+United Kingdom,GBR,1970,26.012
+United Kingdom,GBR,1980,37.023
+United Kingdom,GBR,1990,65.75
+United Kingdom,GBR,2000,85.06
+United Kingdom,GBR,2010,62.14
+United Kingdom,GBR,2022,47.72

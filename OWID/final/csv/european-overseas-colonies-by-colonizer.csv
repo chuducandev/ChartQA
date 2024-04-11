@@ -1,0 +1,49 @@
+Entity,Code,Year,Number of colonies
+Belgium,BEL,1500,0
+Belgium,BEL,1600,0
+Belgium,BEL,1700,0
+Belgium,BEL,1800,0
+Belgium,BEL,1900,1
+Belgium,BEL,2022,0
+France,FRA,1500,0
+France,FRA,1600,0
+France,FRA,1700,5
+France,FRA,1800,3
+France,FRA,1900,15
+France,FRA,2022,0
+Germany,DEU,1500,0
+Germany,DEU,1600,0
+Germany,DEU,1700,0
+Germany,DEU,1800,0
+Germany,DEU,1900,12
+Germany,DEU,2022,0
+Italy,ITA,1500,0
+Italy,ITA,1600,0
+Italy,ITA,1700,0
+Italy,ITA,1800,0
+Italy,ITA,1900,1
+Italy,ITA,2022,0
+Netherlands,NLD,1500,0
+Netherlands,NLD,1600,1
+Netherlands,NLD,1700,4
+Netherlands,NLD,1800,4
+Netherlands,NLD,1900,2
+Netherlands,NLD,2022,0
+Portugal,PRT,1500,2
+Portugal,PRT,1600,6
+Portugal,PRT,1700,7
+Portugal,PRT,1800,7
+Portugal,PRT,1900,6
+Portugal,PRT,2022,0
+Spain,ESP,1500,1
+Spain,ESP,1600,21
+Spain,ESP,1700,22
+Spain,ESP,1800,21
+Spain,ESP,1900,2
+Spain,ESP,2022,0
+United Kingdom,GBR,1500,0
+United Kingdom,GBR,1600,0
+United Kingdom,GBR,1700,6
+United Kingdom,GBR,1800,12
+United Kingdom,GBR,1900,47
+United Kingdom,GBR,2022,0

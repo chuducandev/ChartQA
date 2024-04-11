@@ -1,0 +1,22 @@
+Entity,Code,Year,Eggs | 00002949 || Food available for consumption | 0645pc || kilograms per year per capita
+Australia,AUS,1961,11.707796
+Australia,AUS,1970,12.203103
+Australia,AUS,1980,11.451301
+Australia,AUS,1990,9.707822
+Australia,AUS,2000,5.964649
+Australia,AUS,2010,6.469666
+Australia,AUS,2020,7.698624
+Kenya,KEN,1961,0.8831154
+Kenya,KEN,1970,0.77477604
+Kenya,KEN,1980,0.9346466
+Kenya,KEN,1990,1.5386195
+Kenya,KEN,2000,1.6427574
+Kenya,KEN,2010,1.8424927
+Kenya,KEN,2020,1.7687323
+United Kingdom,GBR,1961,14.853964
+United Kingdom,GBR,1970,15.34752
+United Kingdom,GBR,1980,13.81148
+United Kingdom,GBR,1990,10.659828
+United Kingdom,GBR,2000,9.331557
+United Kingdom,GBR,2010,10.762267
+United Kingdom,GBR,2020,11.368414

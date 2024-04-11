@@ -1,0 +1,50 @@
+Entity,Code,Year,popw_wom_parl_vdem_owid
+Africa,,1900,0.0
+Africa,,1920,0.0
+Africa,,1940,0.2902215
+Africa,,1960,0.97114635
+Africa,,1980,5.3040304
+Africa,,2000,9.308501
+Africa,,2022,23.739471
+Asia,,1900,0.0
+Asia,,1920,0.0
+Asia,,1940,0.122258715
+Asia,,1960,8.331446
+Asia,,1980,12.606222
+Asia,,2000,13.776284
+Asia,,2022,19.945005
+Europe,,1900,0.0
+Europe,,1920,0.1131826
+Europe,,1940,1.0414784
+Europe,,1960,12.236795
+Europe,,1980,18.1362
+Europe,,2000,16.00795
+Europe,,2022,30.528763
+North America,,1900,0.0
+North America,,1920,0.0
+North America,,1940,0.02480839
+North America,,1960,3.7193615
+North America,,1980,5.33415
+North America,,2000,14.694701
+North America,,2022,33.227596
+Oceania,,1900,0.0
+Oceania,,1920,0.0
+Oceania,,1940,0.69224316
+Oceania,,1960,0.78386354
+Oceania,,1980,2.6757848
+Oceania,,2000,19.60085
+Oceania,,2022,29.954466
+South America,,1900,0.0
+South America,,1920,0.0
+South America,,1940,0.0
+South America,,1960,1.4796269
+South America,,1980,2.3381476
+South America,,2000,10.016986
+South America,,2022,25.012808
+World,OWID_WRL,1900,0.0
+World,OWID_WRL,1920,0.040828194
+World,OWID_WRL,1940,0.24053305
+World,OWID_WRL,1960,7.9148307
+World,OWID_WRL,1980,11.773677
+World,OWID_WRL,2000,13.364698
+World,OWID_WRL,2022,22.94711

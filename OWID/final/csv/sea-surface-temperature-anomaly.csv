@@ -1,0 +1,13 @@
+Entity,Code,Year,Sea surface temperature anomaly (relative to 1961-90 average),Sea surface temp anomaly (Lower CI),Sea surface temp anomaly (Upper CI)
+Global,,1850,-0.3095,-0.40579,-0.23192
+Global,,1860,-0.23687,-0.2975,-0.17646
+Global,,1880,-0.2034,-0.24996,-0.15454
+Global,,1900,-0.23602,-0.31012,-0.16808
+Global,,1920,-0.28462,-0.35558,-0.19775
+Global,,1940,-0.01199,-0.10675,0.09208
+Global,,1960,-0.07483,-0.13625,0.00429
+Global,,1961,-0.02732,-0.07729,0.02942
+Global,,1980,0.14203,0.11863,0.15975
+Global,,1990,0.29425,0.26604,0.31217
+Global,,2000,0.28053,0.2535,0.29704
+Global,,2020,0.70998,0.68475,0.73458

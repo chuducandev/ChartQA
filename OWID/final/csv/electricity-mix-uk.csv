@@ -1,0 +1,7 @@
+Entity,Code,Year,Electricity generation from other renewables,Electricity generation from hydropower,Electricity generation from solar,Electricity generation from wind,Electricity generation from nuclear,Net electricity imports,Electricity generation from oil,Electricity generation from gas,Electricity generation from coal
+United Kingdom,GBR,1920,0.0,0.012000066,0.0,0.0,0.0,0.0,0.016421553,0.0,3.9569497
+United Kingdom,GBR,1940,0.0,0.8000044,0.0,0.0,0.0,0.0,0.06677391,0.0,26.485031
+United Kingdom,GBR,1960,0.0,3.1230173,0.0,0.0,7.560042,-0.001,19.99837,0.0,104.039955
+United Kingdom,GBR,1980,0.0,3.954,0.0,0.0,37.023,0.0,29.409933,1.6104525,195.59329
+United Kingdom,GBR,2000,3.88,5.09,0.0,0.94,85.06,14.17,14.06,148.08,119.95
+United Kingdom,GBR,2022,35.45089,5.32,13.92,80.26,47.72,-5.33,12.55,125.3,5.57

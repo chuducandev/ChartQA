@@ -1,0 +1,34 @@
+Entity,Code,Year,biomass_mean_region
+Australia,AUS,1970,2.29500324306199
+Australia,AUS,1980,2.6791878092794197
+Australia,AUS,1990,2.2234140637209303
+Australia,AUS,2000,1.35886978092071
+Australia,AUS,2010,1.39615785721339
+Canada East Coast,,1970,1.15107889215031
+Canada East Coast,,1980,1.12842867462945
+Canada East Coast,,1990,0.924875081168831
+Canada East Coast,,2000,0.7287936215587429
+Canada East Coast,,2010,0.8835085825935021
+Canada East Coast,,2018,0.2602291666666669
+Indian Ocean tunas,,1970,2.155
+Indian Ocean tunas,,1980,2.22
+Indian Ocean tunas,,1990,2.1
+Indian Ocean tunas,,2000,1.56
+Indian Ocean tunas,,2010,1.08
+Japan,JPN,1970,0.243934490536432
+Japan,JPN,1980,0.68791795912611
+Japan,JPN,1990,0.7907012386079619
+Japan,JPN,2000,0.599040858271505
+Japan,JPN,2010,0.599552062657583
+Japan,JPN,2018,0.7673661133730041
+Pacific Ocean tunas,,1970,2.08
+Pacific Ocean tunas,,1980,1.58
+Pacific Ocean tunas,,1990,1.695
+Pacific Ocean tunas,,2000,1.39
+Pacific Ocean tunas,,2010,1.25
+South America,,1970,1.31359670281801
+South America,,1980,1.37539476262057
+South America,,1990,1.21883009007655
+South America,,2000,1.0341598418218
+South America,,2010,0.8539290340000001
+South America,,2018,0.769915

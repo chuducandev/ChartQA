@@ -1,0 +1,8 @@
+Entity,Code,Year,Observation value - Unit_of_measure: Deaths per 100 live births - Indicator: Under-five mortality rate - Sex: Female - Wealth_quintile: All wealth quintiles,Observation value - Unit_of_measure: Deaths per 100 live births - Indicator: Under-five mortality rate - Sex: Male - Wealth_quintile: All wealth quintiles
+World,OWID_WRL,1990,9.045575,9.5440235
+World,OWID_WRL,1995,8.508898,8.93023
+World,OWID_WRL,2000,7.4297395,7.8198137
+World,OWID_WRL,2005,6.1041946,6.5023103
+World,OWID_WRL,2010,4.942732,5.325079
+World,OWID_WRL,2015,4.109378,4.5156918
+World,OWID_WRL,2021,3.5739963,4.02757

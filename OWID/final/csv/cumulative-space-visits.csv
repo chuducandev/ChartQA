@@ -1,0 +1,24 @@
+Entity,Code,Year,cumulative_visits
+Japan,JPN,2000,7
+Japan,JPN,2010,13
+Japan,JPN,2021,21
+Russia,RUS,1961,2
+Russia,RUS,1970,26
+Russia,RUS,1980,82
+Russia,RUS,1990,132
+Russia,RUS,2000,183
+Russia,RUS,2010,222
+Russia,RUS,2021,273
+United States,USA,1961,2
+United States,USA,1970,49
+United States,USA,1990,260
+United States,USA,2000,600
+United States,USA,2010,804
+United States,USA,2021,865
+World,OWID_WRL,1961,4
+World,OWID_WRL,1970,75
+World,OWID_WRL,1980,162
+World,OWID_WRL,1990,415
+World,OWID_WRL,2000,863
+World,OWID_WRL,2010,1150
+World,OWID_WRL,2021,1294

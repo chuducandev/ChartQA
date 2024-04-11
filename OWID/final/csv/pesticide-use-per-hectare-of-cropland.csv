@@ -1,0 +1,29 @@
+Entity,Code,Year,Pesticides (total) | 00001357 || Use per area of cropland | 005159 || Kilograms per hectare
+Canada,CAN,1990,0.71
+Canada,CAN,1995,0.78
+Canada,CAN,2000,0.97
+Canada,CAN,2005,0.91
+Canada,CAN,2010,1.61
+Canada,CAN,2015,1.96
+Canada,CAN,2020,2.05
+China,CHN,1990,1.1
+China,CHN,1995,1.58
+China,CHN,2000,1.86
+China,CHN,2005,2.07
+China,CHN,2010,2.45
+China,CHN,2015,2.49
+China,CHN,2020,1.95
+United Kingdom,GBR,1990,4.41
+United Kingdom,GBR,1995,5.63
+United Kingdom,GBR,2000,5.57
+United Kingdom,GBR,2005,5.44
+United Kingdom,GBR,2010,2.79
+United Kingdom,GBR,2015,3.05
+United Kingdom,GBR,2020,2.48
+United States,USA,1990,2.14
+United States,USA,1995,2.3
+United States,USA,2000,2.41
+United States,USA,2005,2.3
+United States,USA,2010,2.34
+United States,USA,2015,2.56
+United States,USA,2020,2.54

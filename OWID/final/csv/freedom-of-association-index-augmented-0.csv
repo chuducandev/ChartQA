@@ -1,0 +1,19 @@
+Entity,Code,Year,freeassoc_vdem_owid,freeassoc_vdem_high_owid,freeassoc_vdem_low_owid
+Hesse Electoral,OWID_HSE,1789,0.036,0.068,0.017
+Hesse Electoral,OWID_HSE,1850,0.06,0.11,0.034
+Iceland,ISL,1900,0.881,0.928,0.798
+Iceland,ISL,1950,0.889,0.94,0.826
+Iceland,ISL,2000,0.909,0.948,0.846
+Iceland,ISL,2022,0.895,0.937,0.826
+Kazakhstan,KAZ,1789,0.056,0.103,0.032
+Kazakhstan,KAZ,1850,0.056,0.103,0.032
+Kazakhstan,KAZ,1900,0.175,0.26,0.116
+Kazakhstan,KAZ,1950,0.024,0.046,0.012
+Kazakhstan,KAZ,2000,0.43,0.546,0.319
+Kazakhstan,KAZ,2022,0.3,0.411,0.213
+Slovakia,SVK,1789,0.316,0.429,0.216
+Slovakia,SVK,1850,0.164,0.26,0.104
+Slovakia,SVK,1900,0.509,0.628,0.407
+Slovakia,SVK,1950,0.041,0.076,0.023
+Slovakia,SVK,2000,0.895,0.942,0.839
+Slovakia,SVK,2022,0.877,0.928,0.809

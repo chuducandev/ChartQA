@@ -1,0 +1,92 @@
+Entity,Code,Year,Gender Inequality Index
+Finland,FIN,1990,0.108
+Finland,FIN,1995,0.092
+Finland,FIN,2000,0.084
+Finland,FIN,2005,0.083
+Finland,FIN,2010,0.07
+Finland,FIN,2015,0.054
+Finland,FIN,2021,0.033
+Germany,DEU,1990,0.183
+Germany,DEU,1995,0.14
+Germany,DEU,2000,0.133
+Germany,DEU,2005,0.108
+Germany,DEU,2010,0.096
+Germany,DEU,2015,0.078
+Germany,DEU,2021,0.073
+Ghana,GHA,1990,0.646
+Ghana,GHA,1995,0.625
+Ghana,GHA,2000,0.604
+Ghana,GHA,2005,0.573
+Ghana,GHA,2010,0.573
+Ghana,GHA,2015,0.554
+Ghana,GHA,2021,0.529
+Indonesia,IDN,1990,0.6
+Indonesia,IDN,1995,0.571
+Indonesia,IDN,2000,0.57
+Indonesia,IDN,2005,0.544
+Indonesia,IDN,2010,0.499
+Indonesia,IDN,2015,0.478
+Indonesia,IDN,2021,0.444
+Japan,JPN,1990,0.162
+Japan,JPN,1995,0.159
+Japan,JPN,2000,0.147
+Japan,JPN,2005,0.142
+Japan,JPN,2010,0.114
+Japan,JPN,2015,0.115
+Japan,JPN,2021,0.083
+Jordan,JOR,1990,0.671
+Jordan,JOR,1995,0.642
+Jordan,JOR,2000,0.593
+Jordan,JOR,2005,0.519
+Jordan,JOR,2010,0.482
+Jordan,JOR,2015,0.464
+Jordan,JOR,2021,0.471
+Malaysia,MYS,1990,0.372
+Malaysia,MYS,1995,0.347
+Malaysia,MYS,2000,0.289
+Malaysia,MYS,2005,0.284
+Malaysia,MYS,2010,0.28
+Malaysia,MYS,2015,0.261
+Malaysia,MYS,2021,0.228
+Norway,NOR,1990,0.132
+Norway,NOR,1995,0.112
+Norway,NOR,2000,0.1
+Norway,NOR,2005,0.07
+Norway,NOR,2010,0.072
+Norway,NOR,2015,0.04
+Norway,NOR,2021,0.016
+Singapore,SGP,1990,0.261
+Singapore,SGP,1995,0.24
+Singapore,SGP,2000,0.264
+Singapore,SGP,2005,0.151
+Singapore,SGP,2010,0.085
+Singapore,SGP,2015,0.057
+Singapore,SGP,2021,0.04
+South Africa,ZAF,1990,0.511
+South Africa,ZAF,1995,0.476
+South Africa,ZAF,2000,0.459
+South Africa,ZAF,2005,0.454
+South Africa,ZAF,2010,0.44
+South Africa,ZAF,2015,0.427
+South Africa,ZAF,2021,0.405
+Sweden,SWE,1990,0.101
+Sweden,SWE,1995,0.075
+Sweden,SWE,2000,0.06
+Sweden,SWE,2005,0.047
+Sweden,SWE,2010,0.052
+Sweden,SWE,2015,0.039
+Sweden,SWE,2021,0.023
+United Kingdom,GBR,1990,0.255
+United Kingdom,GBR,1995,0.235
+United Kingdom,GBR,2000,0.21
+United Kingdom,GBR,2005,0.202
+United Kingdom,GBR,2010,0.179
+United Kingdom,GBR,2015,0.13
+United Kingdom,GBR,2021,0.098
+United States,USA,1990,0.294
+United States,USA,1995,0.295
+United States,USA,2000,0.275
+United States,USA,2005,0.256
+United States,USA,2010,0.248
+United States,USA,2015,0.219
+United States,USA,2021,0.179

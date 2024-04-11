@@ -1,0 +1,14 @@
+Entity,Code,Year,Electricity from fossil fuels - TWh (adapted for visualization of chart elec-mix-bar),Electricity from nuclear - TWh (adapted for visualization of chart elec-mix-bar),Electricity from renewables - TWh (adapted for visualization of chart elec-mix-bar)
+Australia,AUS,2022,182.69,0.0,90.86
+Brazil,BRA,2022,74.13,14.54,592.22
+Canada,CAN,2022,111.07,82.28,445.07
+China,CHN,2022,5760.75,417.8,2670.18
+France,FRA,2022,57.28,297.88,115.51
+India,IND,2022,1430.92,46.19,380.87
+Japan,JPN,2022,754.85,51.77,226.93
+Norway,NOR,2022,1.6,0.0,151.21
+South Africa,ZAF,2022,184.13,10.07,19.41
+Sweden,SWE,2022,3.05,51.4,117.76
+United Kingdom,GBR,2022,143.42,47.72,134.95
+United States,USA,2022,2557.22,771.54,958.15
+World,OWID_WRL,2022,17559.97,2632.03,8468.98

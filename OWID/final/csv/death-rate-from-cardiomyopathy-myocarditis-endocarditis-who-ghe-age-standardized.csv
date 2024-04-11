@@ -1,0 +1,31 @@
+Entity,Code,Year,"Death rate per 100,000 people - Cause: Cardiomyopathy, myocarditis, endocarditis - Sex: Both sexes - Age group: Age-standardized"
+Brazil,BRA,2000,15.614032
+Brazil,BRA,2005,12.838942
+Brazil,BRA,2010,10.471188
+Brazil,BRA,2015,9.195182
+Brazil,BRA,2019,7.8745704
+France,FRA,2000,5.2207026
+France,FRA,2005,4.50681
+France,FRA,2010,3.82335
+France,FRA,2015,3.6592333
+France,FRA,2019,3.3461683
+India,IND,2000,1.1954159
+India,IND,2005,1.1152996
+India,IND,2010,1.1176285
+India,IND,2015,1.0984634
+India,IND,2019,1.088159
+Russia,RUS,2000,28.451141
+Russia,RUS,2005,51.66792
+Russia,RUS,2010,42.815414
+Russia,RUS,2015,30.250595
+Russia,RUS,2019,26.303528
+South Africa,ZAF,2000,15.260684
+South Africa,ZAF,2005,14.466004
+South Africa,ZAF,2010,13.706964
+South Africa,ZAF,2015,12.76278
+South Africa,ZAF,2019,11.547606
+United States,USA,2000,8.519908
+United States,USA,2005,7.581271
+United States,USA,2010,6.3647904
+United States,USA,2015,5.8775563
+United States,USA,2019,5.6529794

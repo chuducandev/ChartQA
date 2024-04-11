@@ -1,0 +1,101 @@
+Entity,Code,Year,Gini Index around 2015 (1990-2015 countries),Gini Index around 1990 (1990-2015 countries),Population (historical estimates),World Bank Region with Advanced Industrial category (1990-2015 countries)
+Algeria,DZA,2015,27.620001,40.189999,39543148,Middle East and North Africa
+Algeria,DZA,1990,,,25518074,
+Bangladesh,BGD,2015,32.389999,28.85,157830000,South Asia
+Bangladesh,BGD,1990,,,107147656,
+Bolivia,BOL,2015,46.73,42.040001,11090090,Latin America and Caribbean
+Bolivia,BOL,1990,,,7096195,
+Brazil,BRA,2015,51.330002,60.490002,205188208,Latin America and Caribbean
+Brazil,BRA,1990,,,150706448,
+Burkina Faso,BFA,2015,35.299999,48.07,18718022,Sub-Saharan Africa
+Burkina Faso,BFA,1990,,,9131362,
+Chile,CHL,2015,47.650002,57.25,17870122,Latin America and Caribbean
+Chile,CHL,1990,,,13342876,
+China,CHN,2015,49.5,34.900002,1393715456,East Asia and Pacific
+China,CHN,1990,,,1153704192,
+Colombia,COL,2015,51.139999,51.450001,47119728,Latin America and Caribbean
+Colombia,COL,1990,,,32601396,
+Costa Rica,CRI,2015,48.380001,45.299999,4895241,Latin America and Caribbean
+Costa Rica,CRI,1990,,,3158257,
+Croatia,HRV,2015,31.110001,22.780001,4254821,Eastern Europe and Central Asia
+Croatia,HRV,1990,,,4873705,
+Czechia,CZE,2015,25.870001,26.6,10523801,Eastern Europe and Central Asia
+Czechia,CZE,1990,,,10301190,
+Denmark,DNK,2015,24.9,23.799999,5677795,Advanced industrial economies
+Denmark,DNK,1990,,,5144626,
+Ecuador,ECU,2015,45.950001,50.490002,16195904,Latin America and Caribbean
+Ecuador,ECU,1990,,,10449845,
+Finland,FIN,2015,25.200001,20.799999,5479457,Advanced industrial economies
+Finland,FIN,1990,,,4986551,
+France,FRA,2015,28.719999,28.32,63809768,Advanced industrial economies
+France,FRA,1990,,,56412896,
+Ghana,GHA,2015,42.369999,35.990002,28870946,Sub-Saharan Africa
+Ghana,GHA,1990,,,15446987,
+Guinea,GIN,2015,33.73,46.84,11626003,Sub-Saharan Africa
+Guinea,GIN,1990,,,6354146,
+Guinea-Bissau,GNB,2015,50.66,43.610001,1788931,Sub-Saharan Africa
+Guinea-Bissau,GNB,1990,,,973557,
+Honduras,HND,2015,49.580002,57.360001,9294510,Latin America and Caribbean
+Honduras,HND,1990,,,5053235,
+Hungary,HUN,2015,30.41,25.049999,9844250,Eastern Europe and Central Asia
+Hungary,HUN,1990,,,10375989,
+India,IND,2015,35.150002,29.700001,1322866560,South Asia
+India,IND,1990,,,870452160,
+Indonesia,IDN,2015,41.0,32.0,259091968,East Asia and Pacific
+Indonesia,IDN,1990,,,182159888,
+Jordan,JOR,2015,33.66,43.360001,9494250,Middle East and North Africa
+Jordan,JOR,1990,,,3480591,
+Kenya,KEN,2015,40.779999,57.459999,46851496,Sub-Saharan Africa
+Kenya,KEN,1990,,,23162270,
+Lesotho,LSO,2015,54.18,56.02,2118532,Sub-Saharan Africa
+Lesotho,LSO,1990,,,1799004,
+Mali,MLI,2015,33.040001,50.439999,18112910,Sub-Saharan Africa
+Mali,MLI,1990,,,8945030,
+Mexico,MEX,2015,48.310001,54.34,120149896,Latin America and Caribbean
+Mexico,MEX,1990,,,81720424,
+Mongolia,MNG,2015,32.349998,33.200001,2964756,East Asia and Pacific
+Mongolia,MNG,1990,,,2161440,
+Morocco,MAR,2015,39.549999,39.200001,34680456,Middle East and North Africa
+Morocco,MAR,1990,,,24570816,
+Nicaragua,NIC,2015,46.16,57.360001,6298610,Latin America and Caribbean
+Nicaragua,NIC,1990,,,4227824,
+Nigeria,NGA,2015,42.970001,44.98,183995776,Sub-Saharan Africa
+Nigeria,NGA,1990,,,95214256,
+Norway,NOR,2015,27.1,21.700001,5190357,Advanced industrial economies
+Norway,NOR,1990,,,4241637,
+Pakistan,PAK,2015,33.450001,33.25,210969296,South Asia
+Pakistan,PAK,1990,,,115414072,
+Philippines,PHL,2015,40.110001,43.82,103031360,East Asia and Pacific
+Philippines,PHL,1990,,,61558900,
+Portugal,PRT,2015,34.0,38.700001,10365436,Advanced industrial economies
+Portugal,PRT,1990,,,10007347,
+Romania,ROU,2015,35.91,23.309999,19906078,Eastern Europe and Central Asia
+Romania,ROU,1990,,,22836234,
+Russia,RUS,2015,37.740002,48.380001,144668384,Eastern Europe and Central Asia
+Russia,RUS,1990,,,148005696,
+Rwanda,RWA,2015,45.110001,28.9,11642963,Sub-Saharan Africa
+Rwanda,RWA,1990,,,7319970,
+Senegal,SEN,2015,40.290001,54.139999,14356191,Sub-Saharan Africa
+Senegal,SEN,1990,,,7536003,
+South Africa,ZAF,2015,63.029999,59.330002,55876504,Sub-Saharan Africa
+South Africa,ZAF,1990,,,39877568,
+Spain,ESP,2015,34.599998,27.75,46431344,Advanced industrial economies
+Spain,ESP,1990,,,38889888,
+Sri Lanka,LKA,2015,39.810001,32.450001,21336692,South Asia
+Sri Lanka,LKA,1990,,,17204098,
+Sweden,SWE,2015,33.0,23.700001,9849344,Advanced industrial economies
+Sweden,SWE,1990,,,8548407,
+Tanzania,TZA,2015,37.779999,35.290001,52542824,Sub-Saharan Africa
+Tanzania,TZA,1990,,,26206024,
+Thailand,THA,2015,35.990002,45.27,70294408,East Asia and Pacific
+Thailand,THA,1990,,,55228408,
+Tunisia,TUN,2015,35.810001,40.240002,11557779,Middle East and North Africa
+Tunisia,TUN,1990,,,8440035,
+Ukraine,UKR,2015,25.459999,29.709999,44982568,Eastern Europe and Central Asia
+Ukraine,UKR,1990,,,51589816,
+United States,USA,2015,41.5,38.240002,324607776,Advanced industrial economies
+United States,USA,1990,,,248083728,
+Vietnam,VNM,2015,35.27,35.650002,92191400,East Asia and Pacific
+Vietnam,VNM,1990,,,66912616,
+Zambia,ZMB,2015,57.139999,60.509998,16248231,Sub-Saharan Africa
+Zambia,ZMB,1990,,,7686405,

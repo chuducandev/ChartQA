@@ -1,0 +1,33 @@
+Entity,Code,Year,"Total deaths that are from all causes, in both sexes aged all ages","Deaths that are from all causes, in both sexes aged all ages",Deaths - Cause: All Causes - Sex: Both sexes - Age group: ALLAges,Deaths - Sex: all - Age: all - Variant: estimates
+Australia,AUS,1950,78187.0,,,77952.0
+Australia,AUS,1960,88464.0,,,88303.0
+Australia,AUS,1970,113048.0,,,112806.0
+Australia,AUS,1980,108695.0,,,108144.0
+Australia,AUS,1990,118915.0,117667.36,,118778.0
+Australia,AUS,2000,128784.0,127597.72,125564.3,128647.0
+Australia,AUS,2010,143473.0,140411.62,141805.0,142544.0
+Australia,AUS,2021,171469.0,,,166082.0
+Brazil,BRA,1980,749644.0,,,1073639.0
+Brazil,BRA,1990,816434.0,984029.6,,1078578.0
+Brazil,BRA,2000,946391.0,1049384.1,991177.7,1125256.0
+Brazil,BRA,2010,1136946.0,1222110.0,1146161.0,1217149.0
+Brazil,BRA,1950,,,,934070.0
+Brazil,BRA,1960,,,,1024950.0
+Brazil,BRA,1970,,,,1042815.0
+Brazil,BRA,2021,,,,1784239.0
+Peru,PER,2000,84393.0,124569.76,113008.5,154375.0
+Peru,PER,2010,99334.0,139553.12,121533.1,202144.0
+Peru,PER,1990,,140428.16,,160277.0
+Peru,PER,1950,,,,155279.0
+Peru,PER,1960,,,,175308.0
+Peru,PER,1970,,,,254397.0
+Peru,PER,1980,,,,193033.0
+Peru,PER,2021,,,,269050.0
+South Africa,ZAF,2000,413736.0,571880.9,531604.6,476555.0
+South Africa,ZAF,2010,543856.0,649474.2,616891.7,582529.0
+South Africa,ZAF,1990,,293903.66,,319227.0
+South Africa,ZAF,1950,,,,279631.0
+South Africa,ZAF,1960,,,,232405.0
+South Africa,ZAF,1970,,,,273496.0
+South Africa,ZAF,1980,,,,288820.0
+South Africa,ZAF,2021,,,,678798.0

@@ -1,0 +1,10 @@
+Entity,Code,Year,Growth rate - Sex: all - Age: all - Variant: estimates,Growth rate - Sex: all - Age: all - Variant: medium
+World,OWID_WRL,1950,1.73,
+World,OWID_WRL,1960,1.57,
+World,OWID_WRL,1980,1.79,
+World,OWID_WRL,2000,1.33,
+World,OWID_WRL,2020,0.92,
+World,OWID_WRL,2040,,0.64
+World,OWID_WRL,2060,,0.28
+World,OWID_WRL,2080,,0.06
+World,OWID_WRL,2100,,-0.11

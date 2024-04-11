@@ -1,0 +1,21 @@
+Entity,Code,Year,State involved in war - Conflict type: all
+China,CHN,1816,0
+China,CHN,1850,0
+China,CHN,1900,1
+China,CHN,1950,1
+China,CHN,2011,0
+Russia,RUS,1816,0
+Russia,RUS,1850,0
+Russia,RUS,1900,1
+Russia,RUS,1950,0
+Russia,RUS,2011,0
+United Kingdom,GBR,1816,1
+United Kingdom,GBR,1850,1
+United Kingdom,GBR,1900,1
+United Kingdom,GBR,1950,1
+United Kingdom,GBR,2011,1
+United States,USA,1816,0
+United States,USA,1850,0
+United States,USA,1900,1
+United States,USA,1950,1
+United States,USA,2011,1

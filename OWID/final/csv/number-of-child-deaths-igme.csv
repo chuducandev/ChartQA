@@ -1,0 +1,22 @@
+Entity,Code,Year,Observation value - Unit_of_measure: Number of deaths - Indicator: Under-five deaths - Sex: Both sexes - Wealth_quintile: All wealth quintiles
+Cameroon,CMR,1970,58374
+Cameroon,CMR,1980,65794
+Cameroon,CMR,1990,65819
+Cameroon,CMR,2000,85627
+Cameroon,CMR,2010,84106
+Cameroon,CMR,2021,64977
+Colombia,COL,1957,95432
+Colombia,COL,1970,73611
+Colombia,COL,1980,46668
+Colombia,COL,1990,31347
+Colombia,COL,2000,21811
+Colombia,COL,2010,14040
+Colombia,COL,2021,9382
+Oceania,,1990,16806
+Oceania,,2000,16503
+Oceania,,2010,16544
+Oceania,,2021,13684
+Somalia,SOM,1990,62143
+Somalia,SOM,2000,70440
+Somalia,SOM,2010,86817
+Somalia,SOM,2021,79723

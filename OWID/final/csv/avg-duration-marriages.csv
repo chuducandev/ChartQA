@@ -1,0 +1,17 @@
+Entity,Code,Year,Duration of marriages ending in divorce,143153-annotations
+Australia,AUS,2000,11.60000038146973,Median duration
+Ecuador,ECU,2000,12.5,Mean duration
+Germany,DEU,2000,12.89999961853027,Mean duration
+New Zealand,NZL,1980,12.06999969482422,Median duration
+New Zealand,NZL,2000,13.0600004196167,Median duration
+New Zealand,NZL,2019,13.52999973297119,Median duration
+Singapore,SGP,1980,8.7,Median duration
+Singapore,SGP,2000,9.6,Median duration
+Singapore,SGP,2019,10.4,Median duration
+United Kingdom,GBR,1980,10.10000038146973,Median duration
+United Kingdom,GBR,2000,10.69999980926514,Median duration
+United States,USA,1867,7.400000095367432,Median duration
+United States,USA,1880,7.900000095367432,Median duration
+United States,USA,1900,8.300000190734863,Median duration
+United States,USA,1960,7.199999809265137,Median duration
+United States,USA,1980,6.800000190734863,Median duration

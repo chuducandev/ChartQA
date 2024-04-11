@@ -1,0 +1,59 @@
+Entity,Code,Year,Cumulative CO₂ emissions
+Africa,,1750,0.0
+Africa,,1800,0.0
+Africa,,1850,0.0
+Africa,,1900,31942752.0
+Africa,,1950,1737904000.0
+Africa,,2000,24128690000.0
+Africa,,2022,51012395000.0
+Asia (excl. China and India),,1750,0.0
+Asia (excl. China and India),,1800,0.0
+Asia (excl. China and India),,1850,21693.0
+Asia (excl. China and India),,1900,304739100.0
+Asia (excl. China and India),,1950,8068924400.0
+Asia (excl. China and India),,2000,118073790000.0
+Asia (excl. China and India),,2022,258064700000.0
+China,CHN,1950,2271156500.0
+China,CHN,2000,75724000000.0
+China,CHN,2022,260619240000.0
+Europe (excl. EU-27),,1750,9305937.0
+Europe (excl. EU-27),,1800,786281660.0
+Europe (excl. EU-27),,1850,3713737200.0
+Europe (excl. EU-27),,1900,17561350000.0
+Europe (excl. EU-27),,1950,49477575000.0
+Europe (excl. EU-27),,2000,189081750000.0
+Europe (excl. EU-27),,2022,246489580000.0
+European Union (27),,1800,5327456.0
+European Union (27),,1850,864346300.0
+European Union (27),,1900,15705393000.0
+European Union (27),,1950,65644876000.0
+European Union (27),,2000,223313740000.0
+European Union (27),,2022,295969980000.0
+India,IND,1900,115005144.0
+India,IND,1950,1998734300.0
+India,IND,2000,18913452000.0
+India,IND,2022,59740700000.0
+North America (excl. USA),,1750,0.0
+North America (excl. USA),,1800,58624.0
+North America (excl. USA),,1850,428688.0
+North America (excl. USA),,1900,287774200.0
+North America (excl. USA),,1950,6028434000.0
+North America (excl. USA),,2000,37025063000.0
+North America (excl. USA),,2022,63326870000.0
+Oceania,,1750,0.0
+Oceania,,1800,0.0
+Oceania,,1850,906107.0
+Oceania,,1900,188625740.0
+Oceania,,1950,1786893000.0
+Oceania,,2000,11959056000.0
+Oceania,,2022,21732500000.0
+South America,,1900,29744352.0
+South America,,1950,1638549400.0
+South America,,2000,22603590000.0
+South America,,2022,45060840000.0
+United States,USA,1800,252815.98
+United States,USA,1850,189974740.0
+United States,USA,1900,10664452000.0
+United States,USA,1950,91987830000.0
+United States,USA,2000,304362460000.0
+United States,USA,2022,426914550000.0

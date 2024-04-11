@@ -1,0 +1,20 @@
+Entity,Code,Year,Observation value - Unit_of_measure: Deaths per 100 live births - Indicator: Neonatal mortality rate - Sex: Both sexes - Wealth_quintile: All wealth quintiles
+Argentina,ARG,1970,2.4843907
+Argentina,ARG,1980,1.9215174
+Argentina,ARG,1990,1.5027628
+Argentina,ARG,2000,1.1058115
+Argentina,ARG,2010,0.75712
+Argentina,ARG,2021,0.51333565
+South-Eastern Asia (SDG),,1990,2.7791162
+South-Eastern Asia (SDG),,2000,2.0881238
+South-Eastern Asia (SDG),,2010,1.6098185
+South-Eastern Asia (SDG),,2021,1.1755383
+United Arab Emirates,ARE,1980,1.5959932
+United Arab Emirates,ARE,1990,0.82448643
+United Arab Emirates,ARE,2000,0.58514404
+United Arab Emirates,ARE,2010,0.4633236
+United Arab Emirates,ARE,2021,0.34925342
+World,OWID_WRL,1990,3.6618264
+World,OWID_WRL,2000,3.0689654
+World,OWID_WRL,2010,2.2395992
+World,OWID_WRL,2021,1.7552086

@@ -1,0 +1,41 @@
+Entity,Code,Year,"Death rate per 100,000 people - Cause: Diarrhoeal diseases - Sex: Both sexes - Age group: ALLAges"
+Africa,,2000,107.80613
+Africa,,2005,77.208565
+Africa,,2010,63.345005
+Africa,,2015,49.774757
+Africa,,2019,39.478012
+Angola,AGO,2000,252.15
+Angola,AGO,2005,181.3
+Angola,AGO,2010,113.55
+Angola,AGO,2015,68.61
+Angola,AGO,2019,47.94
+Asia,,2000,46.18672
+Asia,,2005,35.508923
+Asia,,2010,28.80257
+Asia,,2015,23.04819
+Asia,,2019,20.574125
+Chad,TCD,2000,234.47
+Chad,TCD,2005,177.57
+Chad,TCD,2010,145.69
+Chad,TCD,2015,121.5
+Chad,TCD,2019,93.34
+Equatorial Guinea,GNQ,2000,128.62
+Equatorial Guinea,GNQ,2005,67.69
+Equatorial Guinea,GNQ,2010,50.13
+Equatorial Guinea,GNQ,2015,34.21
+Equatorial Guinea,GNQ,2019,25.73
+Niger,NER,2000,289.02
+Niger,NER,2005,189.27
+Niger,NER,2010,120.59
+Niger,NER,2015,84.6
+Niger,NER,2019,68.8
+Rwanda,RWA,2000,220.88
+Rwanda,RWA,2005,101.99
+Rwanda,RWA,2010,51.79
+Rwanda,RWA,2015,31.39
+Rwanda,RWA,2019,24.77
+World,OWID_WRL,2000,43.36293
+World,OWID_WRL,2005,33.292606
+World,OWID_WRL,2010,27.729195
+World,OWID_WRL,2015,22.628689
+World,OWID_WRL,2019,19.684576

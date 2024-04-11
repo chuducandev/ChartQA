@@ -1,0 +1,37 @@
+Entity,Code,Year,Per capita consumption-based CO₂ emissions,Annual CO₂ emissions (per capita),Share of world population,World Bank's income classification
+Bahrain,BHR,2021,12.30133,26.052996,0.018500587,High-income countries
+Belgium,BEL,2021,17.193697,8.23914,0.14680722,High-income countries
+Botswana,BWA,2021,4.4283123,2.3707244,0.032726355,Upper-middle-income countries
+China,CHN,2021,7.2376294,7.9502664,18.028072,Upper-middle-income countries
+Ethiopia,ETH,2021,0.1882909,0.15729143,1.5207806,Low-income countries
+France,FRA,2021,6.443828,4.7538953,0.81589377,High-income countries
+High-income countries,,2021,11.631232,10.213006,15.419633,
+Honduras,HND,2021,0.8665808,1.0541441,0.12995274,Lower-middle-income countries
+India,IND,2021,1.7389793,1.8998938,17.796326,Lower-middle-income countries
+Jordan,JOR,2021,2.694537,2.0332546,0.14095172,Upper-middle-income countries
+Laos,LAO,2021,3.3184123,3.1470437,0.093877584,Lower-middle-income countries
+Latvia,LVA,2021,8.168511,3.863811,0.023692705,High-income countries
+Low-income countries,,2021,0.11780934,0.2928033,8.834947,
+Lower-middle-income countries,,2021,1.6451592,1.8228737,43.126945,
+Malawi,MWI,2021,0.16237016,0.104497075,0.251473,Low-income countries
+Malta,MLT,2021,19.433935,3.050259,0.006659898,High-income countries
+Mexico,MEX,2021,3.995392,3.6998608,1.6019776,Upper-middle-income countries
+Mozambique,MOZ,2021,0.43922287,0.22415766,0.40556172,Low-income countries
+Namibia,NAM,2021,3.628782,1.4751465,0.03198958,Upper-middle-income countries
+Nepal,NPL,2021,0.98037636,0.52033556,0.37974292,Lower-middle-income countries
+Nigeria,NGA,2021,0.6176759,0.6143976,2.698108,Lower-middle-income countries
+Pakistan,PAK,2021,1.0637796,0.96563566,2.9256983,Lower-middle-income countries
+Philippines,PHL,2021,1.6058121,1.253542,1.4398291,Lower-middle-income countries
+Qatar,QAT,2021,26.705807,39.884155,0.033988353,High-income countries
+Russia,RUS,2021,9.371125,11.79849,1.8345852,Upper-middle-income countries
+South Korea,KOR,2021,13.296304,11.886425,0.65530664,High-income countries
+Switzerland,CHE,2021,13.654305,4.117553,0.10988854,High-income countries
+Tanzania,TZA,2021,0.33782172,0.24245292,0.8039696,Lower-middle-income countries
+Togo,TGO,2021,0.92364776,0.29565188,0.109299615,Low-income countries
+Turkey,TUR,2021,4.9772143,5.340025,1.0718453,Upper-middle-income countries
+United Arab Emirates,ARE,2021,25.750458,25.333178,0.11840687,High-income countries
+United States,USA,2021,16.534756,14.9324875,4.2607794,High-income countries
+Upper-middle-income countries,,2021,5.8147616,6.6130905,32.224342,
+Venezuela,VEN,2021,1.4249743,2.5394876,0.35654077,
+Vietnam,VNM,2021,2.32942,3.6171148,1.2323225,Lower-middle-income countries
+Zambia,ZMB,2021,0.39066356,0.44487745,0.24620566,Low-income countries

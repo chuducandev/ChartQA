@@ -1,0 +1,29 @@
+Entity,Code,Year,"Death rate, crude (per 1,000 people)"
+Germany,DEU,1960,12.0
+Germany,DEU,1970,12.5
+Germany,DEU,1980,12.2
+Germany,DEU,1990,11.6
+Germany,DEU,2000,10.2
+Germany,DEU,2010,10.5
+Germany,DEU,2020,11.9
+India,IND,1960,19.633
+India,IND,1970,17.228
+India,IND,1980,13.676
+India,IND,1990,10.691
+India,IND,2000,8.701
+India,IND,2010,7.385
+India,IND,2020,7.35
+United States,USA,1960,9.5
+United States,USA,1970,9.5
+United States,USA,1980,8.8
+United States,USA,1990,8.6
+United States,USA,2000,8.5
+United States,USA,2010,7.995
+United States,USA,2020,10.3
+World,OWID_WRL,1960,17.252907
+World,OWID_WRL,1970,12.145993
+World,OWID_WRL,1980,10.348633
+World,OWID_WRL,1990,9.259101
+World,OWID_WRL,2000,8.493634
+World,OWID_WRL,2010,7.8747635
+World,OWID_WRL,2020,8.032102

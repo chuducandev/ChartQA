@@ -1,0 +1,8 @@
+Entity,Code,Year,Arable land needed to produce a fixed quantity of crops
+World,OWID_WRL,1961,1.0
+World,OWID_WRL,1970,0.802121
+World,OWID_WRL,1980,0.67072684
+World,OWID_WRL,1990,0.5478828
+World,OWID_WRL,2000,0.43413937
+World,OWID_WRL,2010,0.3402539
+World,OWID_WRL,2020,0.2816289

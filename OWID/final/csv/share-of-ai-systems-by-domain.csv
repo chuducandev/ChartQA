@@ -1,0 +1,65 @@
+Entity,Code,Year,Cumulative number of AI systems by domain
+Biology,,1990,0
+Biology,,1995,0
+Biology,,2000,0
+Biology,,2005,1
+Biology,,2010,1
+Biology,,2015,1
+Biology,,2020,7
+Biology,,2023,35
+Games,,1990,4
+Games,,1995,5
+Games,,2000,5
+Games,,2005,5
+Games,,2010,5
+Games,,2015,11
+Games,,2020,35
+Games,,2023,42
+Image generation,,1990,0
+Image generation,,1995,0
+Image generation,,2000,0
+Image generation,,2005,0
+Image generation,,2010,0
+Image generation,,2015,2
+Image generation,,2020,7
+Image generation,,2023,30
+Language,,1990,2
+Language,,1995,5
+Language,,2000,10
+Language,,2005,18
+Language,,2010,23
+Language,,2015,51
+Language,,2020,175
+Language,,2023,283
+Multimodal,,1990,0
+Multimodal,,1995,0
+Multimodal,,2000,0
+Multimodal,,2005,0
+Multimodal,,2010,0
+Multimodal,,2015,0
+Multimodal,,2020,1
+Multimodal,,2023,30
+Other,,1990,23
+Other,,1995,26
+Other,,2000,28
+Other,,2005,31
+Other,,2010,56
+Other,,2015,70
+Other,,2020,104
+Other,,2023,143
+Speech,,1990,5
+Speech,,1995,6
+Speech,,2000,7
+Speech,,2005,8
+Speech,,2010,11
+Speech,,2015,17
+Speech,,2020,26
+Speech,,2023,31
+Vision,,1990,9
+Vision,,1995,10
+Vision,,2000,15
+Vision,,2005,21
+Vision,,2010,41
+Vision,,2015,79
+Vision,,2020,158
+Vision,,2023,180

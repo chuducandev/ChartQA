@@ -1,0 +1,11 @@
+Entity,Code,Year,Population - Sex: all - Age: all - Variant: estimates,Population - Sex: all - Age: all - Variant: constant fertility,Population - Sex: all - Age: all - Variant: high,Population - Sex: all - Age: all - Variant: medium,Population - Sex: all - Age: all - Variant: low
+World,OWID_WRL,1950,2499322000.0,,,,
+World,OWID_WRL,1960,3019233500.0,,,,
+World,OWID_WRL,1980,4444008000.0,,,,
+World,OWID_WRL,2000,6148899000.0,,,,
+World,OWID_WRL,2020,7840953000.0,,,,
+World,OWID_WRL,2021,7909295000.0,,,,
+World,OWID_WRL,2040,,9390161000.0,9634034000.0,9188251000.0,8743023000.0
+World,OWID_WRL,2060,,11191281000.0,11358134000.0,10067734000.0,8871693000.0
+World,OWID_WRL,2080,,13997872000.0,13065370000.0,10414637000.0,8196324000.0
+World,OWID_WRL,2100,,19205892000.0,14806532000.0,10349323000.0,7009037300.0

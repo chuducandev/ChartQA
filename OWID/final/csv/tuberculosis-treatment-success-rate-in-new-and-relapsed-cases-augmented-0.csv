@@ -1,0 +1,46 @@
+Entity,Code,Year,Treatment success rate for new and relapse cases
+Burundi,BDI,1994,44
+Burundi,BDI,2000,80
+Burundi,BDI,2005,71
+Burundi,BDI,2010,88
+Burundi,BDI,2015,92
+Burundi,BDI,2021,95
+Fiji,FJI,1994,90
+Fiji,FJI,2000,85
+Fiji,FJI,2005,65
+Fiji,FJI,2010,64
+Fiji,FJI,2015,86
+Fiji,FJI,2021,56
+Guatemala,GTM,1994,62
+Guatemala,GTM,2000,86
+Guatemala,GTM,2010,82
+Guatemala,GTM,2015,87
+Guatemala,GTM,2021,87
+Honduras,HND,1994,34
+Honduras,HND,2000,86
+Honduras,HND,2005,88
+Honduras,HND,2010,85
+Honduras,HND,2015,86
+Honduras,HND,2021,85
+Iceland,ISL,1994,100
+Iceland,ISL,2000,100
+Iceland,ISL,2005,100
+Iceland,ISL,2010,91
+Iceland,ISL,2015,100
+Iceland,ISL,2021,57
+Mali,MLI,1994,68
+Mali,MLI,2005,75
+Mali,MLI,2010,77
+Mali,MLI,2015,77
+Mali,MLI,2021,82
+New Zealand,NZL,2000,30
+New Zealand,NZL,2005,73
+New Zealand,NZL,2010,80
+New Zealand,NZL,2015,80
+New Zealand,NZL,2021,87
+Solomon Islands,SLB,1994,90
+Solomon Islands,SLB,2000,81
+Solomon Islands,SLB,2005,88
+Solomon Islands,SLB,2010,89
+Solomon Islands,SLB,2015,94
+Solomon Islands,SLB,2021,96

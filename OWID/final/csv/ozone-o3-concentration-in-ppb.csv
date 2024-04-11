@@ -1,0 +1,31 @@
+Entity,Code,Year,Ozone concentration-StateofGlobalAir
+Japan,JPN,1990,57
+Japan,JPN,1995,57
+Japan,JPN,2000,57
+Japan,JPN,2005,59
+Japan,JPN,2010,60
+Japan,JPN,2015,61
+Saudi Arabia,SAU,1990,63
+Saudi Arabia,SAU,1995,65
+Saudi Arabia,SAU,2000,66
+Saudi Arabia,SAU,2005,67
+Saudi Arabia,SAU,2010,68
+Saudi Arabia,SAU,2015,69
+Sweden,SWE,1990,47
+Sweden,SWE,1995,47
+Sweden,SWE,2000,47
+Sweden,SWE,2005,46
+Sweden,SWE,2010,46
+Sweden,SWE,2015,46
+United States,USA,1990,70
+United States,USA,1995,70
+United States,USA,2000,70
+United States,USA,2005,69
+United States,USA,2010,68
+United States,USA,2015,67
+Zimbabwe,ZWE,1990,53
+Zimbabwe,ZWE,1995,53
+Zimbabwe,ZWE,2000,53
+Zimbabwe,ZWE,2005,54
+Zimbabwe,ZWE,2010,56
+Zimbabwe,ZWE,2015,57

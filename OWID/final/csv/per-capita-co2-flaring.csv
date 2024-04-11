@@ -1,0 +1,40 @@
+Entity,Code,Year,Annual CO₂ emissions from flaring (per capita)
+Australia,AUS,1750,0.0
+Australia,AUS,1800,0.0
+Australia,AUS,1850,0.0
+Australia,AUS,1900,0.0
+Australia,AUS,1950,0.0
+Australia,AUS,2000,0.41817603
+Australia,AUS,2022,0.5073143
+Canada,CAN,1800,0.0
+Canada,CAN,1850,0.0
+Canada,CAN,1900,0.0
+Canada,CAN,1950,0.0
+Canada,CAN,2000,0.5295548
+Canada,CAN,2022,0.446335
+China,CHN,1950,0.0
+China,CHN,2000,0.0037471019
+China,CHN,2022,0.0032810138
+European Union (27),,1800,0.0
+European Union (27),,1850,0.0
+European Union (27),,1900,0.0
+European Union (27),,1950,0.0
+European Union (27),,2000,0.04862112
+European Union (27),,2022,0.039661992
+South Africa,ZAF,1900,0.0
+South Africa,ZAF,1950,0.0
+South Africa,ZAF,2000,0.0053716605
+South Africa,ZAF,2022,0.0006305151
+United Kingdom,GBR,1750,0.0
+United Kingdom,GBR,1800,0.0
+United Kingdom,GBR,1850,0.0
+United Kingdom,GBR,1900,0.0
+United Kingdom,GBR,1950,0.0
+United Kingdom,GBR,2000,0.10953302
+United Kingdom,GBR,2022,0.047945503
+United States,USA,1800,0.0
+United States,USA,1850,0.0
+United States,USA,1900,0.0
+United States,USA,1950,0.29080904
+United States,USA,2000,0.13780047
+United States,USA,2022,0.18709873

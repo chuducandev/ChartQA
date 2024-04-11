@@ -1,0 +1,77 @@
+Entity,Code,Year,Gini index of income in 2015 (Survey years only),Gini index of income in 1990 (Survey years only),Population (historical estimates),Country grouping
+Argentina,ARG,2015,42.150318,45.287067,43257064,Latin America and Caribbean
+Argentina,ARG,1990,,,32637658,
+Austria,AUT,2015,30.679569,21.983555,8642422,Advanced industrial economies
+Austria,AUT,1990,,,7678732,
+Belgium,BEL,2015,27.678499,24.800341,11248306,Advanced industrial economies
+Belgium,BEL,1990,,,9959565,
+Brazil,BRA,2015,44.837841,58.900295,205188208,Latin America and Caribbean
+Brazil,BRA,1990,,,150706448,
+Burkina Faso,BFA,2015,56.42429,84.485718,18718022,Sub-Saharan Africa
+Burkina Faso,BFA,1990,,,9131362,
+Chile,CHL,2015,48.906551,55.436741,17870122,Latin America and Caribbean
+Chile,CHL,1990,,,13342876,
+China,CHN,2015,52.941723,51.119804,1393715456,East Asia and Pacific
+China,CHN,1990,,,1153704192,
+Czechia,CZE,2015,26.065964,20.682375,10523801,Eastern Europe and Central Asia
+Czechia,CZE,1990,,,10301190,
+Egypt,EGY,2015,51.846153,52.930672,97723792,Middle East and North Africa
+Egypt,EGY,1990,,,57214632,
+Georgia,GEO,2015,49.083839,27.627506,3771135,Eastern Europe and Central Asia
+Georgia,GEO,1990,,,5391635,
+Germany,DEU,2015,31.548655,29.660877,82073232,Advanced industrial economies
+Germany,DEU,1990,,,79370192,
+Guinea-Bissau,GNB,2015,61.015034,61.752762,1788931,Sub-Saharan Africa
+Guinea-Bissau,GNB,1990,,,973557,
+India,IND,2015,44.771229,44.294956,1322866560,South Asia
+India,IND,1990,,,870452160,
+Indonesia,IDN,2015,52.035099,37.684837,259091968,East Asia and Pacific
+Indonesia,IDN,1990,,,182159888,
+Iran,IRN,2015,57.096573,59.570908,81790848,Middle East and North Africa
+Iran,IRN,1990,,,55793628,
+Israel,ISR,2015,41.457355,35.237583,8007777,Advanced industrial economies
+Israel,ISR,1990,,,4803255,
+Italy,ITA,2015,34.929543,31.20495,60232908,Advanced industrial economies
+Italy,ITA,1990,,,56756560,
+Kosovo,OWID_KOS,2015,41.341179,31.663626,1759122,Eastern Europe and Central Asia
+Kosovo,OWID_KOS,1990,,,1964994,
+Madagascar,MDG,2015,58.570362,62.079704,24850912,Sub-Saharan Africa
+Madagascar,MDG,1990,,,11882763,
+Mauritania,MRT,2015,55.356335,68.503716,3946225,Sub-Saharan Africa
+Mauritania,MRT,1990,,,2006035,
+Mexico,MEX,2015,47.35965,49.300957,120149896,Latin America and Caribbean
+Mexico,MEX,1990,,,81720424,
+Moldova,MDA,2015,44.760967,34.318134,3277390,Eastern Europe and Central Asia
+Moldova,MDA,1990,,,4480206,
+Namibia,NAM,2015,54.069881,62.297298,2282709,Sub-Saharan Africa
+Namibia,NAM,1990,,,1369016,
+Nepal,NPL,2015,38.076752,38.760246,27610328,South Asia
+Nepal,NPL,1990,,,19616528,
+Netherlands,NLD,2015,28.749149,31.851297,17041110,Advanced industrial economies
+Netherlands,NLD,1990,,,14944550,
+Nigeria,NGA,2015,48.82732,60.069866,183995776,Sub-Saharan Africa
+Nigeria,NGA,1990,,,95214256,
+Norway,NOR,2015,26.367861,41.244888,5190357,Advanced industrial economies
+Norway,NOR,1990,,,4241637,
+Romania,ROU,2015,36.69709,23.307804,19906078,Eastern Europe and Central Asia
+Romania,ROU,1990,,,22836234,
+Russia,RUS,2015,33.227013,43.398293,144668384,Eastern Europe and Central Asia
+Russia,RUS,1990,,,148005696,
+Senegal,SEN,2015,58.037209,70.404518,14356191,Sub-Saharan Africa
+Senegal,SEN,1990,,,7536003,
+Singapore,SGP,2015,40.066582,51.125652,5650020,Advanced industrial economies
+Singapore,SGP,1990,,,3022218,
+South Africa,ZAF,2015,66.235527,66.926636,55876504,Sub-Saharan Africa
+South Africa,ZAF,1990,,,39877568,
+Switzerland,CHE,2015,31.428608,36.818451,8281735,Advanced industrial economies
+Switzerland,CHE,1990,,,6711685,
+Ukraine,UKR,2015,42.54813,24.598358,44982568,Eastern Europe and Central Asia
+Ukraine,UKR,1990,,,51589816,
+United Kingdom,GBR,2015,33.288269,36.026714,65224368,Advanced industrial economies
+United Kingdom,GBR,1990,,,57210444,
+United States,USA,2015,40.86298,38.247868,324607776,Advanced industrial economies
+United States,USA,1990,,,248083728,
+Vietnam,VNM,2015,44.181568,49.354843,92191400,East Asia and Pacific
+Vietnam,VNM,1990,,,66912616,
+Zambia,ZMB,2015,63.556183,75.78299,16248231,Sub-Saharan Africa
+Zambia,ZMB,1990,,,7686405,

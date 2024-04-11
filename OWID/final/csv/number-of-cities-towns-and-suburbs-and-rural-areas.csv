@@ -1,0 +1,37 @@
+Entity,Code,Year,Number of cities (DEGURBA Level 1),Number of towns and suburbs (DEGURBA Level 1),Number of rural areas (DEGURBA Level 1),Number of rural areas (DEGURBA Level 1) (future projections),Number of cities (DEGURBA Level 1) (future projections),Number of towns and suburbs (DEGURBA Level 1) (future projections)
+Africa,,1975,2475.0,13371.0,40904.0,,,
+Africa,,1990,3693.0,19165.0,33892.0,,,
+Africa,,2000,4521.0,21808.0,30421.0,,,
+Africa,,2010,5334.0,27247.0,24169.0,,,
+Africa,,2020,5769.0,32894.0,18087.0,,,
+Africa,,2030,,,,14788.0,6486.0,35476.0
+Asia,,1975,16833.0,43541.0,104669.0,,,
+Asia,,1990,21222.0,63104.0,80717.0,,,
+Asia,,2000,24404.0,70063.0,70576.0,,,
+Asia,,2010,26940.0,74418.0,63685.0,,,
+Asia,,2020,28895.0,77395.0,58753.0,,,
+Asia,,2030,,,,55691.0,30127.0,79225.0
+Europe,,1975,6344.0,17426.0,83307.0,,,
+Europe,,1990,6727.0,17716.0,82634.0,,,
+Europe,,2000,6929.0,18505.0,81643.0,,,
+Europe,,2010,7155.0,18993.0,80929.0,,,
+Europe,,2020,7309.0,19007.0,80761.0,,,
+Europe,,2030,,,,81157.0,7381.0,18539.0
+North America,,1975,524.0,2402.0,11666.0,,,
+North America,,1990,683.0,2763.0,11146.0,,,
+North America,,2000,816.0,3013.0,10763.0,,,
+North America,,2010,923.0,3155.0,10514.0,,,
+North America,,2020,1027.0,3249.0,10316.0,,,
+North America,,2030,,,,10174.0,1074.0,3344.0
+Oceania,,1975,111.0,203.0,1036.0,,,
+Oceania,,1990,121.0,231.0,998.0,,,
+Oceania,,2000,137.0,239.0,974.0,,,
+Oceania,,2010,140.0,250.0,960.0,,,
+Oceania,,2020,149.0,247.0,954.0,,,
+Oceania,,2030,,,,949.0,163.0,238.0
+South America,,1975,486.0,3015.0,8132.0,,,
+South America,,1990,703.0,3206.0,7724.0,,,
+South America,,2000,870.0,3524.0,7239.0,,,
+South America,,2010,992.0,3650.0,6991.0,,,
+South America,,2020,1077.0,3753.0,6803.0,,,
+South America,,2030,,,,6724.0,1136.0,3773.0

@@ -1,0 +1,7 @@
+Entity,Code,Year,Number of statistical agencies operating by region,Number of civil registers implemented by region,Number of censuses implemented within 10 years by region,Number of population registers implemented by region,Number of register-based censuses implemented within 10 years by region
+World,OWID_WRL,1750,0,5,1,0,0
+World,OWID_WRL,1800,4,8,5,0,0
+World,OWID_WRL,1850,16,15,23,0,0
+World,OWID_WRL,1900,40,40,38,0,0
+World,OWID_WRL,1950,55,50,45,7,0
+World,OWID_WRL,2015,65,64,63,34,11

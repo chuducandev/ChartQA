@@ -1,0 +1,36 @@
+Entity,Code,Year,"Deaths that are from all causes attributed to unsafe sanitation per 100,000 people, in both sexes aged age-standardized"
+High Income (WB),,1990,0.26350376
+High Income (WB),,1995,0.12840657
+High Income (WB),,2000,0.07612128
+High Income (WB),,2005,0.075306304
+High Income (WB),,2010,0.070717484
+High Income (WB),,2015,0.05990164
+High Income (WB),,2019,0.050262816
+Low Income (WB),,1990,111.818695
+Low Income (WB),,1995,103.94535
+Low Income (WB),,2000,88.69521
+Low Income (WB),,2005,69.25491
+Low Income (WB),,2010,56.831345
+Low Income (WB),,2015,47.447376
+Low Income (WB),,2019,39.978146
+Lower Middle Income (WB),,1990,101.049164
+Lower Middle Income (WB),,1995,85.700676
+Lower Middle Income (WB),,2000,72.275665
+Lower Middle Income (WB),,2005,55.44669
+Lower Middle Income (WB),,2010,44.5016
+Lower Middle Income (WB),,2015,32.873154
+Lower Middle Income (WB),,2019,24.73674
+Middle Income (WB),,1990,6.827125
+Middle Income (WB),,1995,4.848945
+Middle Income (WB),,2000,3.144802
+Middle Income (WB),,2005,1.9553406
+Middle Income (WB),,2010,1.1896569
+Middle Income (WB),,2015,0.77110696
+Middle Income (WB),,2019,0.5913382
+World,OWID_WRL,1990,36.91966
+World,OWID_WRL,1995,32.122707
+World,OWID_WRL,2000,27.318403
+World,OWID_WRL,2005,21.470842
+World,OWID_WRL,2010,17.520208
+World,OWID_WRL,2015,13.242256
+World,OWID_WRL,2019,10.37797

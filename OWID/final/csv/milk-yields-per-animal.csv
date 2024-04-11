@@ -1,0 +1,29 @@
+Entity,Code,Year,Milk | 00001780 || Yield | 005420 || kilograms per animal
+China,CHN,1961,116.700005
+China,CHN,1970,107.6
+China,CHN,1980,134.5
+China,CHN,1990,242.1
+China,CHN,2000,243.8
+China,CHN,2010,514.60004
+China,CHN,2021,624.4
+New Zealand,NZL,1961,2704.8
+New Zealand,NZL,1970,2579.5
+New Zealand,NZL,1980,2922.1
+New Zealand,NZL,1990,2757.5
+New Zealand,NZL,2000,3666.1
+New Zealand,NZL,2010,3634.6
+New Zealand,NZL,2021,4555.3003
+United Kingdom,GBR,1961,2848.1
+United Kingdom,GBR,1970,3926.1
+United Kingdom,GBR,1980,4792.7
+United Kingdom,GBR,1990,5313.7
+United Kingdom,GBR,2000,6154.6
+United Kingdom,GBR,2010,7605.9
+United Kingdom,GBR,2021,8187.7
+United States,USA,1961,3306.8
+United States,USA,1970,4422.8003
+United States,USA,1980,5393.5
+United States,USA,1990,6625.6
+United States,USA,2000,8038.3003
+United States,USA,2010,9233.2
+United States,USA,2021,10588.101

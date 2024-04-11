@@ -1,0 +1,38 @@
+Entity,Code,Year,Wind electricity per capita - kWh
+Denmark,DNK,1980,2.048622
+Denmark,DNK,1990,118.57033
+Denmark,DNK,2000,793.909
+Denmark,DNK,2010,1406.9917
+Denmark,DNK,2022,3218.1514
+Germany,DEU,1990,0.88194317
+Germany,DEU,2000,114.65123
+Germany,DEU,2010,474.02347
+Germany,DEU,2022,1498.2637
+India,IND,1965,0.0
+India,IND,1970,0.0
+India,IND,1980,0.0
+India,IND,1990,0.034812976
+India,IND,2000,1.4910814
+India,IND,2010,15.685786
+India,IND,2022,49.42939
+Netherlands,NLD,1965,0.0
+Netherlands,NLD,1970,0.0
+Netherlands,NLD,1980,0.0
+Netherlands,NLD,1990,4.0148416
+Netherlands,NLD,2000,52.204086
+Netherlands,NLD,2010,240.1138
+Netherlands,NLD,2022,1223.524
+South Korea,KOR,1980,0.0
+South Korea,KOR,1990,0.0
+South Korea,KOR,2000,0.42745465
+South Korea,KOR,2010,16.798792
+South Korea,KOR,2022,65.03806
+United States,USA,1990,11.354101
+United States,USA,2000,19.79472
+United States,USA,2010,304.16202
+United States,USA,2022,1283.8103
+Vietnam,VNM,1980,0.0
+Vietnam,VNM,1990,0.0
+Vietnam,VNM,2000,0.0
+Vietnam,VNM,2010,0.45760822
+Vietnam,VNM,2022,81.88469

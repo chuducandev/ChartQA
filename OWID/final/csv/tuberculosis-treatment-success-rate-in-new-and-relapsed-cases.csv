@@ -1,0 +1,48 @@
+Entity,Code,Year,Treatment success rate for new and relapse cases
+Brazil,BRA,1994,70
+Brazil,BRA,2000,71
+Brazil,BRA,2005,72
+Brazil,BRA,2010,72
+Brazil,BRA,2015,71
+Brazil,BRA,2021,65
+China,CHN,1994,91
+China,CHN,2000,93
+China,CHN,2005,92
+China,CHN,2010,95
+China,CHN,2015,94
+China,CHN,2021,94
+Ethiopia,ETH,1994,74
+Ethiopia,ETH,2000,80
+Ethiopia,ETH,2005,78
+Ethiopia,ETH,2010,77
+Ethiopia,ETH,2015,84
+Ethiopia,ETH,2021,87
+India,IND,1994,83
+India,IND,2000,34
+India,IND,2005,87
+India,IND,2010,89
+India,IND,2015,72
+India,IND,2021,87
+Nigeria,NGA,1994,65
+Nigeria,NGA,2000,79
+Nigeria,NGA,2005,75
+Nigeria,NGA,2010,81
+Nigeria,NGA,2015,84
+Nigeria,NGA,2021,91
+Russia,RUS,2000,68
+Russia,RUS,2005,67
+Russia,RUS,2010,66
+Russia,RUS,2015,71
+Russia,RUS,2021,60
+South Africa,ZAF,1994,78
+South Africa,ZAF,2000,63
+South Africa,ZAF,2005,69
+South Africa,ZAF,2010,53
+South Africa,ZAF,2015,81
+South Africa,ZAF,2021,79
+United States,USA,1994,72
+United States,USA,2000,83
+United States,USA,2005,83
+United States,USA,2010,66
+United States,USA,2015,83
+United States,USA,2021,76

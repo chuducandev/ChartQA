@@ -1,0 +1,8 @@
+Entity,Code,Year,Observation value - Unit_of_measure: Number of deaths - Indicator: Neonatal deaths - Sex: Both sexes - Wealth_quintile: All wealth quintiles,Observation value - Unit_of_measure: Number of deaths - Indicator: Infant deaths - Sex: Both sexes - Wealth_quintile: All wealth quintiles,Observation value - Unit_of_measure: Number of deaths - Indicator: Under-five deaths - Sex: Both sexes - Wealth_quintile: All wealth quintiles
+World,OWID_WRL,1990,5191299.0,8989186,12831685.0
+World,OWID_WRL,1995,4579506.0,7944085,11392568.0
+World,OWID_WRL,2000,4094695.0,6959187,9903236.0
+World,OWID_WRL,2005,3544638.0,5955029,8357464.0
+World,OWID_WRL,2010,3161999.0,5178775,7108596.0
+World,OWID_WRL,2015,2774131.0,4477903,6070327.0
+World,OWID_WRL,2021,2344618.0,3759949,5033672.0

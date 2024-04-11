@@ -1,0 +1,43 @@
+Entity,Code,Year,Deaths - Cocaine use disorders - Sex: Both - Age: Age-standardized (Rate)
+Australia,AUS,1990,0.01
+Australia,AUS,1995,0.01
+Australia,AUS,2000,0.03
+Australia,AUS,2005,0.03
+Australia,AUS,2010,0.02
+Australia,AUS,2015,0.03
+Australia,AUS,2019,0.03
+Russia,RUS,1990,0.08
+Russia,RUS,1995,0.13
+Russia,RUS,2000,0.15
+Russia,RUS,2005,0.19
+Russia,RUS,2010,0.18
+Russia,RUS,2015,0.13
+Russia,RUS,2019,0.1
+Sweden,SWE,1990,0.02
+Sweden,SWE,1995,0.03
+Sweden,SWE,2000,0.07
+Sweden,SWE,2005,0.1
+Sweden,SWE,2010,0.13
+Sweden,SWE,2015,0.19
+Sweden,SWE,2019,0.21
+United Kingdom,GBR,1990,0.05
+United Kingdom,GBR,1995,0.05
+United Kingdom,GBR,2000,0.09
+United Kingdom,GBR,2005,0.14
+United Kingdom,GBR,2010,0.17
+United Kingdom,GBR,2015,0.18
+United Kingdom,GBR,2019,0.17
+United States,USA,1990,0.2
+United States,USA,1995,0.3
+United States,USA,2000,0.57
+United States,USA,2005,0.95
+United States,USA,2010,1.01
+United States,USA,2015,1.54
+United States,USA,2019,2.31
+World,OWID_WRL,1990,0.05
+World,OWID_WRL,1995,0.06
+World,OWID_WRL,2000,0.08
+World,OWID_WRL,2005,0.09
+World,OWID_WRL,2010,0.1
+World,OWID_WRL,2015,0.12
+World,OWID_WRL,2019,0.16

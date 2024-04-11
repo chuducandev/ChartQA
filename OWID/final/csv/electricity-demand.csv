@@ -1,0 +1,43 @@
+Entity,Code,Year,Electricity demand - TWh
+Brazil,BRA,2000,385.58
+Brazil,BRA,2005,434.76
+Brazil,BRA,2010,545.43
+Brazil,BRA,2015,605.99
+Brazil,BRA,2020,639.08
+Brazil,BRA,2022,703.99
+France,FRA,1990,371.76
+France,FRA,1995,421.36
+France,FRA,2000,464.12
+France,FRA,2005,509.53
+France,FRA,2010,532.12
+France,FRA,2015,509.86
+France,FRA,2020,482.21
+France,FRA,2022,485.78
+Germany,DEU,1990,547.75
+Germany,DEU,1995,537.63
+Germany,DEU,2000,572.07
+Germany,DEU,2005,606.66
+Germany,DEU,2010,607.78
+Germany,DEU,2015,590.39
+Germany,DEU,2020,546.86
+Germany,DEU,2022,533.3
+India,IND,2000,572.74
+India,IND,2005,706.07
+India,IND,2010,943.02
+India,IND,2015,1322.19
+India,IND,2020,1581.83
+India,IND,2022,1855.66
+United Kingdom,GBR,1990,329.7
+United Kingdom,GBR,1995,348.79
+United Kingdom,GBR,2000,391.23
+United Kingdom,GBR,2005,406.67
+United Kingdom,GBR,2010,384.72
+United Kingdom,GBR,2015,359.98
+United Kingdom,GBR,2020,329.68
+United Kingdom,GBR,2022,320.76
+United States,USA,2000,3835.86
+United States,USA,2005,4059.77
+United States,USA,2010,4139.92
+United States,USA,2015,4150.66
+United States,USA,2020,4090.49
+United States,USA,2022,4328.12

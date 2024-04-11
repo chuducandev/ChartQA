@@ -1,0 +1,54 @@
+Entity,Code,Year,Solar per capita (kWh - equivalent)
+Australia,AUS,1990,0.0
+Australia,AUS,2000,7.2688713
+Australia,AUS,2010,123.23536
+Australia,AUS,2022,3868.3604
+China,CHN,1980,0.0
+China,CHN,1990,0.005126073
+China,CHN,2000,0.05146265
+China,CHN,2010,1.4431784
+China,CHN,2022,782.0486
+India,IND,1980,0.0
+India,IND,1990,0.0
+India,IND,2000,0.019731347
+India,IND,2010,0.2528106
+India,IND,2022,175.05972
+Japan,JPN,1965,0.0
+Japan,JPN,1970,0.0
+Japan,JPN,1980,0.0
+Japan,JPN,1990,0.023907252
+Japan,JPN,2000,8.02331
+Japan,JPN,2010,86.262
+Japan,JPN,2022,2153.7854
+New Zealand,NZL,1965,0.0
+New Zealand,NZL,1970,0.0
+New Zealand,NZL,1980,0.0
+New Zealand,NZL,1990,0.0
+New Zealand,NZL,2000,0.0
+New Zealand,NZL,2010,2.4448957
+New Zealand,NZL,2022,139.98856
+Portugal,PRT,1965,0.0
+Portugal,PRT,1970,0.0
+Portugal,PRT,1980,0.0
+Portugal,PRT,1990,0.0
+Portugal,PRT,2000,0.40189552
+Portugal,PRT,2010,56.358788
+Portugal,PRT,2022,781.3754
+Spain,ESP,1965,0.0
+Spain,ESP,1970,0.0
+Spain,ESP,1980,0.0
+Spain,ESP,1990,0.45620966
+Spain,ESP,2000,1.306423
+Spain,ESP,2010,421.0159
+Spain,ESP,2022,1850.617
+United Kingdom,GBR,1965,0.0
+United Kingdom,GBR,1970,0.0
+United Kingdom,GBR,1980,0.0
+United Kingdom,GBR,1990,0.0
+United Kingdom,GBR,2000,0.05024635
+United Kingdom,GBR,2010,1.781264
+United Kingdom,GBR,2022,537.59845
+United States,USA,1990,4.4196234
+United States,USA,2000,5.4293346
+United States,USA,2010,26.874617
+United States,USA,2022,1588.9255

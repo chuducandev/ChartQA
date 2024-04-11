@@ -1,0 +1,10 @@
+Entity,Code,Year,Nutrient nitrogen N (total) | 00003102 || Use per area of cropland | 005159 || Kilograms per hectare,Nutrient phosphate P2O5 (total) | 00003103 || Use per area of cropland | 005159 || Kilograms per hectare,Nutrient potash K2O (total) | 00003104 || Use per area of cropland | 005159 || Kilograms per hectare
+Brazil,BRA,2020,93.06,113.89,113.7
+China,CHN,2020,190.85,72.68,73.25
+Ecuador,ECU,2020,83.92,22.06,45.84
+Ghana,GHA,2020,21.99,16.17,13.56
+India,IND,2020,120.97,53.23,18.7
+Nigeria,NGA,2020,10.52,3.28,2.74
+United Kingdom,GBR,2020,160.54,28.89,42.0
+United States,USA,2020,72.44,24.77,26.83
+World,OWID_WRL,2020,72.88,30.9,25.2

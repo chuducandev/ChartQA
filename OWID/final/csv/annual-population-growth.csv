@@ -1,0 +1,10 @@
+Entity,Code,Year,Population change - Sex: all - Age: all - Variant: estimates,Population change - Sex: all - Age: all - Variant: medium
+World,OWID_WRL,1951,43808256.0,
+World,OWID_WRL,1960,48941310.0,
+World,OWID_WRL,1980,78425090.0,
+World,OWID_WRL,2000,81140220.0,
+World,OWID_WRL,2020,76001790.0,
+World,OWID_WRL,2040,,59589630.0
+World,OWID_WRL,2060,,29027328.0
+World,OWID_WRL,2080,,6370304.0
+World,OWID_WRL,2100,,-10946560.0

@@ -1,0 +1,27 @@
+Entity,Code,Year,Electric car stocks
+Australia,AUS,2012,300
+Australia,AUS,2014,1880
+Australia,AUS,2016,5000
+Australia,AUS,2018,10900
+Australia,AUS,2020,27000
+Australia,AUS,2022,88000
+China,CHN,2010,1940
+China,CHN,2012,16920
+China,CHN,2014,85000
+China,CHN,2016,630000
+China,CHN,2018,2240000
+China,CHN,2020,4490000
+China,CHN,2022,14100000
+Germany,DEU,2012,5300
+Germany,DEU,2014,25400
+Germany,DEU,2016,73000
+Germany,DEU,2018,177000
+Germany,DEU,2020,630000
+Germany,DEU,2022,1890000
+United Kingdom,GBR,2010,1521
+United Kingdom,GBR,2012,5090
+United Kingdom,GBR,2014,21700
+United Kingdom,GBR,2016,85000
+United Kingdom,GBR,2018,186000
+United Kingdom,GBR,2020,410000
+United Kingdom,GBR,2022,950000

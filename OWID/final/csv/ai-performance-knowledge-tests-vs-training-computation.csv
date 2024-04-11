@@ -1,0 +1,5 @@
+Entity,Code,Year,MMLU avg,Training computation (petaFLOP),Organization
+GPT-2 (finetuned),,2019,32.4,36000,OpenAI
+GPT-4,,2023,86.4,21000000000,OpenAI
+LLaMA (13B),,2023,46.9,78000000,Meta AI
+PaLM-2,,2023,78.3,8160000000,Google Research

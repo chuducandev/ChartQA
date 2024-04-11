@@ -1,0 +1,9 @@
+Entity,Code,Year,Life expectancy - Sex: male - Age: at birth - Variant: estimates,Life expectancy - Sex: female - Age: at birth - Variant: estimates
+World,OWID_WRL,1950,44.6,48.4
+World,OWID_WRL,1960,46.0,49.4
+World,OWID_WRL,1970,54.2,58.1
+World,OWID_WRL,1980,58.2,62.9
+World,OWID_WRL,1990,61.5,66.5
+World,OWID_WRL,2000,64.1,68.9
+World,OWID_WRL,2010,67.6,72.7
+World,OWID_WRL,2021,68.4,73.8

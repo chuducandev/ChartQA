@@ -1,0 +1,63 @@
+Entity,Code,Year,Relative change in maternal mortality ratio since 1990,Continent
+Afghanistan,AFG,1990,0.0,
+Afghanistan,AFG,2015,-70.44776119,Asia
+Armenia,ARM,1990,0.0,
+Armenia,ARM,2015,-56.89655172,Asia
+Bahamas,BHS,1990,0.0,
+Bahamas,BHS,2015,73.91304348,North America
+Barbados,BRB,1990,0.0,
+Barbados,BRB,2015,-53.44827586,North America
+Belarus,BLR,1990,0.0,
+Belarus,BLR,2015,-87.87878788,Europe
+Belgium,BEL,1990,0.0,
+Belgium,BEL,2015,-22.22222222,Europe
+Canada,CAN,1990,0.0,
+Canada,CAN,2015,0.0,North America
+France,FRA,1990,0.0,
+France,FRA,2015,-46.66666667,Europe
+Georgia,GEO,1990,0.0,
+Georgia,GEO,2015,5.882352941,Asia
+Guyana,GUY,1990,0.0,
+Guyana,GUY,2015,33.91812865,South America
+Ireland,IRL,1990,0.0,
+Ireland,IRL,2015,-27.27272727,Europe
+Italy,ITA,1990,0.0,
+Italy,ITA,2015,-50.0,Europe
+Jamaica,JAM,1990,0.0,
+Jamaica,JAM,2015,12.65822785,North America
+Japan,JPN,1990,0.0,
+Japan,JPN,2015,-64.28571429,Asia
+Kyrgyzstan,KGZ,1990,0.0,
+Kyrgyzstan,KGZ,2015,-5.0,Asia
+Netherlands,NLD,1990,0.0,
+Netherlands,NLD,2015,-41.66666667,Europe
+Nicaragua,NIC,1990,0.0,
+Nicaragua,NIC,2015,-13.29479769,North America
+North America,,1990,0.0,
+North America,,2015,18.18181818,
+North Korea,PRK,1990,0.0,
+North Korea,PRK,2015,9.333333333,Asia
+Poland,POL,1990,0.0,
+Poland,POL,2015,-82.35294118,Europe
+Russia,RUS,1990,0.0,
+Russia,RUS,2015,-60.31746032,Europe
+Rwanda,RWA,1990,0.0,
+Rwanda,RWA,2015,-77.69230769,Africa
+Saudi Arabia,SAU,1990,0.0,
+Saudi Arabia,SAU,2015,-73.91304348,Asia
+Serbia,SRB,1990,0.0,
+Serbia,SRB,2015,21.42857143,Europe
+South Africa,ZAF,1990,0.0,
+South Africa,ZAF,2015,27.77777778,Africa
+Spain,ESP,1990,0.0,
+Spain,ESP,2015,-16.66666667,Europe
+Switzerland,CHE,1990,0.0,
+Switzerland,CHE,2015,-37.5,Europe
+Tonga,TON,1990,0.0,
+Tonga,TON,2015,65.33333333,Oceania
+United Kingdom,GBR,1990,0.0,
+United Kingdom,GBR,2015,-10.0,Europe
+United States,USA,1990,0.0,
+United States,USA,2015,16.66666667,North America
+Uzbekistan,UZB,1990,0.0,
+Uzbekistan,UZB,2015,-33.33333333,Asia

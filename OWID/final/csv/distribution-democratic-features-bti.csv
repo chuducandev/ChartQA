@@ -1,0 +1,49 @@
+Entity,Code,Year,democracy_bti,region
+Africa,,2021,4.795000000000001,World
+Africa,,2022,,World
+Asia,,2021,4.554263565891472,World
+Asia,,2022,,World
+Bolivia,BOL,2021,7.05,South America
+Bolivia,BOL,2022,,South America
+Botswana,BWA,2021,8.25,Africa
+Botswana,BWA,2022,,Africa
+Cambodia,KHM,2021,3.083333333333333,Asia
+Cambodia,KHM,2022,,Asia
+Democratic Republic of Congo,COD,2021,3.666666666666667,Africa
+Democratic Republic of Congo,COD,2022,,Africa
+Equatorial Guinea,GNQ,2021,2.766666666666667,Africa
+Equatorial Guinea,GNQ,2022,,Africa
+Eswatini,SWZ,2021,3.483333333333333,Africa
+Eswatini,SWZ,2022,,Africa
+Europe,,2021,7.336507936507936,World
+Europe,,2022,,World
+Haiti,HTI,2021,3.866666666666666,North America
+Haiti,HTI,2022,,North America
+Jordan,JOR,2021,4.2,Asia
+Jordan,JOR,2022,,Asia
+Madagascar,MDG,2021,4.566666666666666,Africa
+Madagascar,MDG,2022,,Africa
+Mexico,MEX,2021,5.95,North America
+Mexico,MEX,2022,,North America
+Moldova,MDA,2021,6.15,Europe
+Moldova,MDA,2022,,Europe
+Namibia,NAM,2021,7.55,Africa
+Namibia,NAM,2022,,Africa
+North America,,2021,5.963888888888889,World
+North America,,2022,,World
+Oceania,,2021,6.1,World
+Oceania,,2022,,World
+Peru,PER,2021,6.45,South America
+Peru,PER,2022,,South America
+Senegal,SEN,2021,6.8,Africa
+Senegal,SEN,2022,,Africa
+South America,,2021,7.043333333333332,World
+South America,,2022,,World
+Turkey,TUR,2021,4.8,Asia
+Turkey,TUR,2022,,Asia
+Uruguay,URY,2021,9.95,South America
+Uruguay,URY,2022,,South America
+World,OWID_WRL,2021,5.385036496350364,World
+World,OWID_WRL,2022,,World
+Yemen,YEM,2021,1.5,Asia
+Yemen,YEM,2022,,Asia

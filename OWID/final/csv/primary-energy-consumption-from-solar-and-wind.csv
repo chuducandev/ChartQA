@@ -1,0 +1,43 @@
+Entity,Code,Year,Solar and wind (TWh - equivalent)
+Brazil,BRA,1965,0.0
+Brazil,BRA,1970,0.0
+Brazil,BRA,1980,0.0
+Brazil,BRA,1990,0.0
+Brazil,BRA,2000,0.002957
+Brazil,BRA,2010,6.0412083
+Brazil,BRA,2022,291.36823
+China,CHN,1965,0.0
+China,CHN,1970,0.0
+China,CHN,1980,0.0
+China,CHN,1990,0.011887694
+China,CHN,2000,1.8093789
+China,CHN,2010,139.05821
+China,CHN,2022,3103.563
+India,IND,1965,0.0
+India,IND,1970,0.0
+India,IND,1980,0.0
+India,IND,1990,0.08960583
+India,IND,2000,4.698865
+India,IND,2010,54.31641
+India,IND,2022,430.70712
+Spain,ESP,1965,0.0
+Spain,ESP,1970,0.0
+Spain,ESP,1980,0.0
+Spain,ESP,1990,0.05913972
+Spain,ESP,2000,14.030913
+Spain,ESP,2010,140.84894
+Spain,ESP,2022,251.48874
+United Kingdom,GBR,1965,0.0
+United Kingdom,GBR,1970,0.0
+United Kingdom,GBR,1980,0.0
+United Kingdom,GBR,1990,0.026612887
+United Kingdom,GBR,2000,2.800269
+United Kingdom,GBR,2010,28.660408
+United Kingdom,GBR,2022,245.28584
+United States,USA,1965,0.0
+United States,USA,1970,0.0
+United States,USA,1980,0.0
+United States,USA,1990,9.425588
+United States,USA,2000,18.239511
+United States,USA,2010,273.73135
+United States,USA,2022,1682.5806

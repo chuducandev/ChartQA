@@ -1,0 +1,68 @@
+Entity,Code,Year,Human Development Index
+Brazil,BRA,1990,0.61
+Brazil,BRA,1995,0.646
+Brazil,BRA,2000,0.679
+Brazil,BRA,2005,0.698
+Brazil,BRA,2010,0.723
+Brazil,BRA,2015,0.753
+Brazil,BRA,2021,0.754
+Chile,CHL,1990,0.706
+Chile,CHL,1995,0.728
+Chile,CHL,2000,0.763
+Chile,CHL,2005,0.795
+Chile,CHL,2010,0.813
+Chile,CHL,2015,0.846
+Chile,CHL,2021,0.855
+China,CHN,1990,0.484
+China,CHN,1995,0.535
+China,CHN,2000,0.584
+China,CHN,2005,0.638
+China,CHN,2010,0.691
+China,CHN,2015,0.733
+China,CHN,2021,0.768
+Democratic Republic of Congo,COD,1990,0.386
+Democratic Republic of Congo,COD,1995,0.373
+Democratic Republic of Congo,COD,2000,0.376
+Democratic Republic of Congo,COD,2005,0.395
+Democratic Republic of Congo,COD,2010,0.429
+Democratic Republic of Congo,COD,2015,0.463
+Democratic Republic of Congo,COD,2021,0.479
+India,IND,1990,0.434
+India,IND,1995,0.458
+India,IND,2000,0.491
+India,IND,2005,0.534
+India,IND,2010,0.575
+India,IND,2015,0.629
+India,IND,2021,0.633
+Niger,NER,1990,0.216
+Niger,NER,1995,0.238
+Niger,NER,2000,0.262
+Niger,NER,2005,0.298
+Niger,NER,2010,0.338
+Niger,NER,2015,0.376
+Niger,NER,2021,0.4
+Nigeria,NGA,2005,0.469
+Nigeria,NGA,2010,0.482
+Nigeria,NGA,2015,0.516
+Nigeria,NGA,2021,0.535
+South Korea,KOR,1990,0.737
+South Korea,KOR,1995,0.783
+South Korea,KOR,2000,0.825
+South Korea,KOR,2005,0.86
+South Korea,KOR,2010,0.89
+South Korea,KOR,2015,0.909
+South Korea,KOR,2021,0.925
+United Kingdom,GBR,1990,0.804
+United Kingdom,GBR,1995,0.828
+United Kingdom,GBR,2000,0.862
+United Kingdom,GBR,2005,0.895
+United Kingdom,GBR,2010,0.912
+United Kingdom,GBR,2015,0.924
+United Kingdom,GBR,2021,0.929
+United States,USA,1990,0.872
+United States,USA,1995,0.885
+United States,USA,2000,0.891
+United States,USA,2005,0.9
+United States,USA,2010,0.911
+United States,USA,2015,0.92
+United States,USA,2021,0.921

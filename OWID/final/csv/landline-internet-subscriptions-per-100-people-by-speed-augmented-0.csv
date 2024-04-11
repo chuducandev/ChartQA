@@ -1,0 +1,14 @@
+Entity,Code,Year,"17.6.1 - Fixed broadband subscriptions per 100 inhabitants, by speed (per 100 inhabitants) - IT_NET_BBND - Any speed","17.6.1 - Fixed broadband subscriptions per 100 inhabitants, by speed (per 100 inhabitants) - IT_NET_BBND - 10 mbps and over","17.6.1 - Fixed broadband subscriptions per 100 inhabitants, by speed (per 100 inhabitants) - IT_NET_BBND - Between 2 mbps and 10 mbps","17.6.1 - Fixed broadband subscriptions per 100 inhabitants, by speed (per 100 inhabitants) - IT_NET_BBND - Between 256 kbps and 2 mbps"
+Comoros,COM,2005,0.0,,,
+Comoros,COM,2010,0.05,,,
+Comoros,COM,2015,0.22,,0.01,
+Comoros,COM,2021,0.15,0.04,0.03,0.08
+Poland,POL,2001,0.03,,,
+Poland,POL,2005,2.45,,,
+Poland,POL,2010,15.18,1.33,4.99,5.06
+Poland,POL,2015,18.85,9.4,5.23,0.46
+Poland,POL,2021,22.66,18.4,1.65,0.07
+Russia,RUS,2005,1.11,,,
+Russia,RUS,2010,10.94,,,
+Russia,RUS,2015,18.54,11.93,4.71,1.9
+Russia,RUS,2021,23.73,21.43,1.95,0.34

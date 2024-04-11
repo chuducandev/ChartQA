@@ -1,0 +1,72 @@
+Entity,Code,Year,Annual CO₂ emissions
+Africa,,1750,0.0
+Africa,,1800,0.0
+Africa,,1850,0.0
+Africa,,1900,2330304.0
+Africa,,1950,94868000.0
+Africa,,2000,930042600.0
+Africa,,2022,1416626600.0
+Asia (excl. China and India),,1750,0.0
+Asia (excl. China and India),,1800,0.0
+Asia (excl. China and India),,1850,13187.0
+Asia (excl. China and India),,1900,32068476.0
+Asia (excl. China and India),,1950,260600800.0
+Asia (excl. China and India),,2000,4702127000.0
+Asia (excl. China and India),,2022,7545927700.0
+China,CHN,1950,78835290.0
+China,CHN,2000,3649201000.0
+China,CHN,2022,11396777000.0
+Europe (excl. EU-27),,1750,9305937.0
+Europe (excl. EU-27),,1800,31340080.0
+Europe (excl. EU-27),,1850,122585200.0
+Europe (excl. EU-27),,1900,493592030.0
+Europe (excl. EU-27),,1950,1105671700.0
+Europe (excl. EU-27),,2000,2554082000.0
+Europe (excl. EU-27),,2022,2343400700.0
+European Union (27),,1800,1201792.0
+European Union (27),,1850,54189972.0
+European Union (27),,1900,712148600.0
+European Union (27),,1950,1277712500.0
+European Union (27),,2000,3601508900.0
+European Union (27),,2022,2761907000.0
+India,IND,1900,11929561.0
+India,IND,1950,61102560.0
+India,IND,2000,977526400.0
+India,IND,2022,2829644300.0
+International aviation,,1950,3511309.0
+International aviation,,2000,330832670.0
+International aviation,,2022,424853700.0
+International shipping,,1950,124882580.0
+International shipping,,2000,453753400.0
+International shipping,,2022,624487800.0
+North America,,1750,0.0
+North America,,1800,256479.98
+North America,,1850,19851552.0
+North America,,1900,684367040.0
+North America,,1950,2744660700.0
+North America,,2000,7100392000.0
+North America,,2022,6279689000.0
+North America (excl. USA),,1750,0.0
+North America (excl. USA),,1800,3664.0
+North America (excl. USA),,1850,58624.0
+North America (excl. USA),,1900,21628592.0
+North America (excl. USA),,1950,203175520.0
+North America (excl. USA),,2000,1090256300.0
+North America (excl. USA),,2022,1222385900.0
+Oceania,,1750,0.0
+Oceania,,1800,0.0
+Oceania,,1850,112052.0
+Oceania,,1900,12607824.0
+Oceania,,1950,64713932.0
+Oceania,,2000,390087700.0
+Oceania,,2022,441077630.0
+South America,,1900,3165696.0
+South America,,1950,112569750.0
+South America,,2000,811730050.0
+South America,,2022,1085392400.0
+United States,USA,1800,252815.98
+United States,USA,1850,19792928.0
+United States,USA,1900,662738400.0
+United States,USA,1950,2541485300.0
+United States,USA,2000,6010135600.0
+United States,USA,2022,5057303600.0
