@@ -276,6 +276,16 @@ models:
         model_name: "chuducandev/Llama-2-7b-hf-owid-1-001"
         source_directory: "/workspace/ChartQA/models/fine-tuned/Llama-2-7b-hf-owid-1-001"
         destination_directory: "/workspace/ChartQA/models/fine-tuned/Llama-2-7b-hf-owid-1-002"
+
+    Mistral-7B-Instruct-v0.2-owid-1-001:
+        model_name: "chuducandev/Mistral-7B-Instruct-v0.2-owid-1-001"
+        source_directory: "/workspace/ChartQA/models/fine-tuned/Mistral-7B-Instruct-v0.2-owid-1-001"
+        destination_directory: "/workspace/ChartQA/models/fine-tuned/Mistral-7B-Instruct-v0.2-owid-1-002"
+
+    Starling-LM-7B-beta-owid-1-001:
+        model_name: "chuducandev/Starling-LM-7B-beta-owid-1-001"
+        source_directory: "/workspace/ChartQA/models/fine-tuned/Starling-LM-7B-beta-owid-1-001"
+        destination_directory: "/workspace/ChartQA/models/fine-tuned/Starling-LM-7B-beta-owid-1-002"
     
         
 datasets:
@@ -293,5 +303,5 @@ datasets:
         owid: "/workspace/ChartQA/OWID/final/test.csv"
             
 evaluation:
-    generated_file: "/workspace/ChartQA/evaluation/Llama-2-7b-hf-owid-1-001/generated.txt"
-    target_file: "/workspace/ChartQA/evaluation/Llama-2-7b-hf-owid-1-001/target.txt"
+    generated_file: "/workspace/ChartQA/evaluation/Mistral-7B-Instruct-v0.2-owid-1-001/generated.txt"
+    target_file: "/workspace/ChartQA/evaluation/Mistral-7B-Instruct-v0.2-owid-1-001/target.txt"
