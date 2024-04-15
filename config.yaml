@@ -59,6 +59,11 @@ models:
         model_name: "mistralai/Mistral-7B-Instruct-v0.2"
         source_directory: "/workspace/ChartQA/models/pre-trained/Mistral-7B-Instruct-v0.2"
         destination_directory: "/workspace/ChartQA/models/fine-tuned/Mistral-7B-Instruct-v0.2-owid-1-001"
+
+    Starling-LM-7B-beta:
+        model_name: "Nexusflow/Starling-LM-7B-beta"
+        source_directory: "/workspace/ChartQA/models/pre-trained/Starling-LM-7B-beta"
+        destination_directory: "/workspace/ChartQA/models/fine-tuned/Starling-LM-7B-beta-owid-1-001"
         
     # fine-tuned
     flan-t5-base-001:
