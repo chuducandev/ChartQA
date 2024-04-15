@@ -278,6 +278,9 @@ datasets:
         owid:
             train: "/workspace/ChartQA/OWID/final/train.csv"
             validation: "/workspace/ChartQA/OWID/final/validation.csv"
+
+    testing:
+        owid: "/workspace/ChartQA/OWID/final/test.csv"
             
 evaluation:
     generated_file: "/workspace/ChartQA/evaluation/Llama-2-7b-hf-owid-1-001/generated.txt"
