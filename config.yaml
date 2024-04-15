@@ -264,8 +264,8 @@ models:
 
     Llama-2-7b-hf-owid-1-001:
         model_name: "chuducandev/Llama-2-7b-hf-owid-1-001"
-        source_directory: "/notebooks/models/fine-tuned/Llama-2-7b-hf-owid-1-001"
-        destination_directory: "/notebooks/models/fine-tuned/Llama-2-7b-hf-owid-1-002"
+        source_directory: "/workspace/ChartQA/models/fine-tuned/Llama-2-7b-hf-owid-1-001"
+        destination_directory: "/workspace/ChartQA/models/fine-tuned/Llama-2-7b-hf-owid-1-002"
     
         
 datasets:
