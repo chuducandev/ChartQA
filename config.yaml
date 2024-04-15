@@ -261,6 +261,11 @@ models:
         model_name: ""
         source_directory: "/notebooks/models/fine-tuned/Llama-2-7b-hf-c2t-2-005"
         destination_directory: "/notebooks/models/fine-tuned/Llama-2-7b-hf-c2t-2-006"
+
+    Llama-2-7b-hf-owid-1-001:
+        model_name: "chuducandev/Llama-2-7b-hf-owid-1-001"
+        source_directory: "/notebooks/models/fine-tuned/Llama-2-7b-hf-owid-1-001"
+        destination_directory: "/notebooks/models/fine-tuned/Llama-2-7b-hf-owid-1-002"
     
         
 datasets:
