@@ -64,6 +64,16 @@ models:
         model_name: "Nexusflow/Starling-LM-7B-beta"
         source_directory: "/workspace/ChartQA/models/pre-trained/Starling-LM-7B-beta"
         destination_directory: "/workspace/ChartQA/models/fine-tuned/Starling-LM-7B-beta-owid-1-001"
+
+    gemma-1.1-7b-it:
+        model_name: "google/gemma-1.1-7b-it"
+        source_directory: "/workspace/ChartQA/models/pre-trained/gemma-1.1-7b-it"
+        destination_directory: "/workspace/ChartQA/models/fine-tuned/gemma-1.1-7b-it-owid-1-001"
+
+    Meta-Llama-3-8B:
+        model_name: "google/Meta-Llama-3-8B"
+        source_directory: "/workspace/ChartQA/models/pre-trained/Meta-Llama-3-8B"
+        destination_directory: "/workspace/ChartQA/models/fine-tuned/Meta-Llama-3-8B-owid-1-001"
         
     # fine-tuned
     flan-t5-base-001:
@@ -286,6 +296,16 @@ models:
         model_name: "chuducandev/Starling-LM-7B-beta-owid-1-001"
         source_directory: "/workspace/ChartQA/models/fine-tuned/Starling-LM-7B-beta-owid-1-001"
         destination_directory: "/workspace/ChartQA/models/fine-tuned/Starling-LM-7B-beta-owid-1-002"
+
+    gemma-1.1-7b-it-owid-1-001:
+        model_name: "chuducandev/gemma-1.1-7b-it-owid-1-001"
+        source_directory: "/workspace/ChartQA/models/fine-tuned/gemma-1.1-7b-it-owid-1-001"
+        destination_directory: "/workspace/ChartQA/models/fine-tuned/gemma-1.1-7b-it-owid-1-002"
+
+    Meta-Llama-3-8B-owid-1-001:
+        model_name: "chuducandev/Meta-Llama-3-8B-owid-1-001"
+        source_directory: "/workspace/ChartQA/models/fine-tuned/Meta-Llama-3-8B-owid-1-001"
+        destination_directory: "/workspace/ChartQA/models/fine-tuned/Meta-Llama-3-8B-owid-1-002"
     
         
 datasets:
@@ -303,5 +323,5 @@ datasets:
         owid: "/workspace/ChartQA/OWID/final/test.csv"
             
 evaluation:
-    generated_file: "/workspace/ChartQA/evaluation/Mistral-7B-Instruct-v0.2-owid-1-001/generated.txt"
-    target_file: "/workspace/ChartQA/evaluation/Mistral-7B-Instruct-v0.2-owid-1-001/target.txt"
+    generated_file: "/workspace/ChartQA/evaluation/Meta-Llama-3-8B-owid-1-001/generated.txt"
+    target_file: "/workspace/ChartQA/evaluation/Meta-Llama-3-8B-owid-1-001/target.txt"
