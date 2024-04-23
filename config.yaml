@@ -71,7 +71,7 @@ models:
         destination_directory: "/workspace/ChartQA/models/fine-tuned/gemma-1.1-7b-it-owid-1-001"
 
     Meta-Llama-3-8B:
-        model_name: "google/Meta-Llama-3-8B"
+        model_name: "meta-llama/Meta-Llama-3-8B"
         source_directory: "/workspace/ChartQA/models/pre-trained/Meta-Llama-3-8B"
         destination_directory: "/workspace/ChartQA/models/fine-tuned/Meta-Llama-3-8B-owid-1-001"
         
