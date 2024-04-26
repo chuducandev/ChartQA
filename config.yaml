@@ -323,5 +323,5 @@ datasets:
         owid: "/workspace/ChartQA/OWID/final/test.csv"
             
 evaluation:
-    generated_file: "/workspace/ChartQA/evaluation/Meta-Llama-3-8B-owid-1-001/generated.txt"
-    target_file: "/workspace/ChartQA/evaluation/Meta-Llama-3-8B-owid-1-001/target.txt"
+    generated_file: "/workspace/ChartQA/evaluation/gemma-1.1-7b-it-owid-1-001/generated.txt"
+    target_file: "/workspace/ChartQA/evaluation/gemma-1.1-7b-it-owid-1-001/target.txt"
